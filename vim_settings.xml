@@ -407,8 +407,8 @@
         <mark key="]" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" timestamp="1446629048296">
-        <mark key="'" line="26" column="64" />
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" timestamp="1446629991026">
+        <mark key="'" line="357" column="30" />
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
@@ -502,19 +502,19 @@
       <jump line="36" column="4" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="57" column="33" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="231" column="24" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="139" column="22" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="196" column="89" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="195" column="22" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="234" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="142" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="191" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="29" column="48" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="357" column="29" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="929" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" />
       <jump line="354" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="362" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="26" column="64" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="139" column="12" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="362" column="70" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="29" column="63" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="357" column="30" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -524,7 +524,7 @@
         <text>Future</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</text>
+        <text>purge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFsIGJmID0gYihlcykK</text>
@@ -564,9 +564,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</last-search>
+      <last-search>purge</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</last-pattern>
+      <last-pattern>purge</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -592,8 +592,8 @@
         <entry>map2</entry>
         <entry>batchDel</entry>
         <entry encoding="base64">XDxiaWdOb3RlTGlzdEhhbmRsZXJcPg==</entry>
-        <entry>purge</entry>
         <entry encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</entry>
+        <entry>purge</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
