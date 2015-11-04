@@ -27,9 +27,6 @@
       <file name="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" timestamp="1446621920830">
         <mark key="'" line="117" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1446620972897">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/02_playground/cf1507/src/main/java/c4/type/Arg2Impl.java" timestamp="1437896104306">
         <mark key="'" line="2" column="41" />
         <mark key="[" line="7" column="0" />
@@ -130,6 +127,9 @@
         <mark key="]" line="59" column="44" />
         <mark key="^" line="59" column="44" />
         <mark key="." line="59" column="44" />
+      </file>
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/traits/gaia/gaia.go" timestamp="1446622633208">
+        <mark key="'" line="1576" column="15" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" timestamp="1446609895562">
         <mark key="'" line="95" column="17" />
@@ -257,12 +257,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
-      </file>
-      <file name="$USER_HOME$/Project/02_playground/sheeptype/build.sbt" timestamp="1445654186147">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="11" column="41" />
-        <mark key="^" line="11" column="41" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/gtry/again/grace.go" timestamp="1445506214933">
         <mark key="'" line="70" column="19" />
@@ -398,7 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="15" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="296" column="40" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="184" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="295" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
@@ -498,6 +491,7 @@
       <jump line="64" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
       <jump line="82" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
       <jump line="117" column="59" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="1576" column="15" filename="$USER_HOME$/Project/tellus_mac/src/tellus/traits/gaia/gaia.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -507,7 +501,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Side</text>
+        <text encoding="base64">XDxEZWxldGVTaWRlRWZmZWN0c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIChlczogRXhlY3V0b3JTZXJ2aWNlKSA9PiB7Cg==</text>
@@ -547,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Side</last-search>
+      <last-search encoding="base64">XDxEZWxldGVTaWRlRWZmZWN0c1w+</last-search>
       <last-offset />
-      <last-pattern>Side</last-pattern>
+      <last-pattern encoding="base64">XDxEZWxldGVTaWRlRWZmZWN0c1w+</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -575,8 +569,8 @@
         <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry encoding="base64">XDxVbml0RnV0dXJlXD4=</entry>
         <entry>get</entry>
-        <entry encoding="base64">XDxEZWxldGVTaWRlRWZmZWN0c1w+</entry>
         <entry>Side</entry>
+        <entry encoding="base64">XDxEZWxldGVTaWRlRWZmZWN0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
