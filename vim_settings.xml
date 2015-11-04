@@ -24,11 +24,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446648023320">
-        <mark key="'" line="132" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1446041101661">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" timestamp="1446624909691">
+        <mark key="'" line="141" column="4" />
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="56" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf1507/src/main/java/c4/type/Arg2Impl.java" timestamp="1437896104306">
         <mark key="'" line="2" column="41" />
@@ -74,6 +73,12 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/impl/Future.scala" timestamp="1446123515383">
         <mark key="'" line="31" column="23" />
       </file>
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" timestamp="1446634153211">
+        <mark key="[" line="1077" column="0" />
+        <mark key="]" line="1077" column="0" />
+        <mark key="^" line="1077" column="66" />
+        <mark key="." line="1077" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/jtry/src/cf/Msc1.java" timestamp="1431678283838">
         <mark key="'" line="21" column="12" />
         <mark key="[" line="19" column="0" />
@@ -94,12 +99,6 @@
         <mark key="]" line="27" column="36" />
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="36" />
-      </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446654106884">
-        <mark key="[" line="84" column="19" />
-        <mark key="]" line="84" column="20" />
-        <mark key="." line="84" column="20" />
-        <mark key="^" line="84" column="50" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
@@ -137,6 +136,12 @@
         <mark key="^" line="59" column="44" />
         <mark key="." line="59" column="44" />
       </file>
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/traits/gaia/gaia.go" timestamp="1446622633208">
+        <mark key="'" line="1576" column="15" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" timestamp="1446609895562">
+        <mark key="'" line="95" column="17" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/XmppUtil.java" timestamp="1432704660640">
         <mark key="'" line="11" column="52" />
         <mark key="[" line="11" column="20" />
@@ -151,6 +156,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446625713648">
+        <mark key="'" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/jtry2/src/main/java/cf/GeoObject.java" timestamp="1437020889053">
         <mark key="'" line="83" column="28" />
@@ -214,11 +222,6 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/answerkey/parallelism/03.answer.scala" timestamp="1446652415967">
-        <mark key="'" line="17" column="29" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="39" />
-      </file>
       <file name="$USER_HOME$/Project/02_playground/cf1507/src/main/java/c4/util/Either.java" timestamp="1438058895955">
         <mark key="'" line="44" column="10" />
         <mark key="[" line="21" column="4" />
@@ -256,6 +259,12 @@
         <mark key="]" line="8" column="6" />
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/heartbeats/heartbeats.go" timestamp="1446620792979">
+        <mark key="'" line="46" column="51" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
@@ -296,15 +305,19 @@
       <file name="$USER_HOME$/Project/02_scala_libs/kafka/build.gradle" timestamp="1444232256627">
         <mark key="'" line="380" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1446041110252">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/02_playground/gazer/tree/twothree/twothree.go" timestamp="1442298946680">
         <mark key="'" line="135" column="21" />
         <mark key="[" line="127" column="37" />
         <mark key="]" line="127" column="37" />
         <mark key="^" line="115" column="24" />
         <mark key="." line="127" column="37" />
+      </file>
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446626940775">
+        <mark key="'" line="17" column="51" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="61" column="45" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1446391339678">
         <mark key="'" line="140" column="4" />
@@ -327,6 +340,10 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/answerkey/parallelism/03.hint.txt" timestamp="1446626394500">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="221" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/cf150306/src/main/scala/tmp/EasyConsumerApp.scala" timestamp="1429682849791">
         <mark key="'" line="49" column="16" />
         <mark key="[" line="41" column="0" />
@@ -347,6 +364,12 @@
         <mark key="]" line="346" column="8" />
         <mark key="^" line="345" column="8" />
         <mark key="." line="346" column="8" />
+      </file>
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/notes.go" timestamp="1446625296710">
+        <mark key="'" line="241" column="0" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf150306/src/main/scala/tmp/ProducerApp.scala" timestamp="1430020301826">
         <mark key="'" line="91" column="24" />
@@ -372,6 +395,10 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Promise.scala" timestamp="1446123887474">
         <mark key="'" line="120" column="48" />
       </file>
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/answerkey/parallelism/03.answer.scala" timestamp="1446626883315">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="62" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/Tree.scala" timestamp="1445008277339">
         <mark key="'" line="4" column="11" />
         <mark key="[" line="81" column="62" />
@@ -392,47 +419,14 @@
         <mark key="]" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" timestamp="1446633297593">
+        <mark key="'" line="229" column="19" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="161" column="5" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="125" column="3" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="170" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="261" column="24" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="191" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="222" column="15" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="267" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="238" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="177" column="33" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="223" column="15" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="179" column="34" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="225" column="15" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="208" column="15" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="296" column="40" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="184" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="295" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="176" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="382" column="12" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="595" column="48" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="46" column="45" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="138" column="58" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="399" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="516" column="37" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="536" column="60" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="546" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="139" column="34" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="242" column="15" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="141" column="19" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="142" column="17" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="482" column="7" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="574" column="37" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="603" column="60" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="623" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="87" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/errorhandling/Option.scala" />
-      <jump line="120" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/errorhandling/Option.scala" />
-      <jump line="115" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/errorhandling/Option.scala" />
-      <jump line="491" column="107" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" />
       <jump line="31" column="23" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/impl/Future.scala" />
       <jump line="142" column="0" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Promise.scala" />
       <jump line="11" column="16" filename="$USER_HOME$/Project/02_playground/sheeptype/src/main/scala/st/StApp.scala" />
@@ -490,62 +484,101 @@
       <jump line="163" column="11" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" />
       <jump line="62" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
       <jump line="67" column="22" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
-      <jump line="10" column="11" filename="$USER_HOME$/Project/02_playground/fpinscala/answerkey/parallelism/03.answer.scala" />
-      <jump line="132" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="17" column="29" filename="$USER_HOME$/Project/02_playground/fpinscala/answerkey/parallelism/03.answer.scala" />
-      <jump line="58" column="11" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="22" column="408" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="9" column="55" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="99" column="55" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" />
+      <jump line="11" column="51" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="95" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" />
+      <jump line="249" column="14" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="118" column="54" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="133" column="23" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="135" column="33" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="46" column="4" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="253" column="14" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="139" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="46" column="51" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/heartbeats/heartbeats.go" />
+      <jump line="64" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="82" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="117" column="59" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="1576" column="15" filename="$USER_HOME$/Project/tellus_mac/src/tellus/traits/gaia/gaia.go" />
+      <jump line="168" column="29" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/notes.go" />
+      <jump line="243" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/notes.go" />
+      <jump line="141" column="4" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
+      <jump line="18" column="272" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="22" column="63" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="36" column="4" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="57" column="33" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="231" column="24" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="196" column="89" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="195" column="22" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="142" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="191" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="929" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" />
+      <jump line="354" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="362" column="70" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="29" column="63" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="357" column="30" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="139" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="188" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="234" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="26" column="64" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="205" column="8" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="210" column="36" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="229" column="19" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYXAyRnV0dXJlXD4=</text>
+        <text encoding="base64">XDx0YXJnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzdGFydCA9IFN5c3RlbS5uYW5vVGltZSgpCg==</text>
+        <text encoding="base64">CXNlZy5Mb2dnZXIoKS5EZWJ1ZygiQmF0Y2hEZWxldGUgZG9uZSIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text>n</text>
       </register>
       <register name="4" type="4">
-        <text>get</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>f</text>
+        <text>d</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJc2VnLkxvZ2dlcigpLkRlYnVnKCJCYXRjaERlbGV0ZSBkb25lIikK</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>enter</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">CWcuTG9nZ2VyLgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>get</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYXAyRnV0dXJlXD4=</last-search>
+      <last-search encoding="base64">XDx0YXJnZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYXAyRnV0dXJlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YXJnZXRcPg==</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -553,18 +586,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdW1cPg==</entry>
-        <entry>fib</entry>
-        <entry encoding="base64">XDxmcm9tVmlhVW5mb2xkXD4=</entry>
-        <entry>map</entry>
-        <entry encoding="base64">XDx1bmZvbGRcPg==</entry>
-        <entry>take</entry>
-        <entry encoding="base64">XDx0YWtlVmlhVW5mb2xkXD4=</entry>
-        <entry>hasSub</entry>
-        <entry encoding="base64">XDxleGl0c1w+</entry>
-        <entry>exist</entry>
-        <entry encoding="base64">XDxzdGFydHNXaXRoXD4=</entry>
-        <entry encoding="base64">XDx0YWlsc1w+</entry>
         <entry>append</entry>
         <entry encoding="base64">XDxzY2FuUmlnaHRcPg==</entry>
         <entry>foldRi</entry>
@@ -572,7 +593,19 @@
         <entry>unfold</entry>
         <entry encoding="base64">XDxub25OZWdhdGl2ZUludFw+</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
-        <entry encoding="base64">XDxNYXAyRnV0dXJlXD4=</entry>
+        <entry encoding="base64">XDxVbml0RnV0dXJlXD4=</entry>
+        <entry>get</entry>
+        <entry>Side</entry>
+        <entry encoding="base64">XDxEZWxldGVTaWRlRWZmZWN0c1w+</entry>
+        <entry>StoreDe</entry>
+        <entry encoding="base64">XDxTdG9yZURlbGV0ZVw+</entry>
+        <entry>map2</entry>
+        <entry>batchDel</entry>
+        <entry encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</entry>
+        <entry>purge</entry>
+        <entry>batchD</entry>
+        <entry encoding="base64">XDxiaWdOb3RlTGlzdEhhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
@@ -608,6 +641,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
