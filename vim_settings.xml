@@ -95,11 +95,11 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446653317271">
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="57" column="17" />
-        <mark key="." line="57" column="17" />
-        <mark key="^" line="57" column="17" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446654106884">
+        <mark key="[" line="84" column="19" />
+        <mark key="]" line="84" column="20" />
+        <mark key="." line="84" column="20" />
+        <mark key="^" line="84" column="50" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
@@ -394,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="159" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="161" column="5" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="125" column="3" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
@@ -494,49 +493,50 @@
       <jump line="10" column="11" filename="$USER_HOME$/Project/02_playground/fpinscala/answerkey/parallelism/03.answer.scala" />
       <jump line="132" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="17" column="29" filename="$USER_HOME$/Project/02_playground/fpinscala/answerkey/parallelism/03.answer.scala" />
+      <jump line="58" column="11" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>compute()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXAyRnV0dXJlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBnZXQoKTogQyA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBzdGFydCA9IFN5c3RlbS5uYW5vVGltZSgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text>(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBnZXQyKCk6IEMgPSB7Cg==</text>
+      <register name="4" type="4">
+        <text>get</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJ3bG9jay53cml0ZUxvY2soKS51bmxvY2soKQo=</text>
+      <register name="5" type="4">
+        <text>f</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJ3bG9jay53cml0ZUxvY2soKS51bmxvY2soKQo=</text>
+      <register name="7" type="4">
+        <text>(</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZS5nZXQK</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZS5nZXQK</text>
+      <register name="9" type="4">
+        <text>get</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
