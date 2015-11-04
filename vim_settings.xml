@@ -95,8 +95,10 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446651909261">
-        <mark key="[" line="49" column="0" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446652616867">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="35" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
@@ -211,8 +213,8 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/answerkey/parallelism/03.answer.scala" timestamp="1446648223798">
-        <mark key="'" line="10" column="11" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/answerkey/parallelism/03.answer.scala" timestamp="1446652415967">
+        <mark key="'" line="17" column="29" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="39" />
       </file>
@@ -391,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="3" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="108" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="159" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="161" column="5" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
@@ -491,49 +492,50 @@
       <jump line="67" column="22" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
       <jump line="10" column="11" filename="$USER_HOME$/Project/02_playground/fpinscala/answerkey/parallelism/03.answer.scala" />
       <jump line="132" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="17" column="29" filename="$USER_HOME$/Project/02_playground/fpinscala/answerkey/parallelism/03.answer.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJ3bG9jay53cml0ZUxvY2soKS51bmxvY2soKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>compute()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXAyRnV0dXJlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAdm9sYXRpbGUgdmFyIGNhY2hlOiBPcHRpb25bQ10gPSBOb25lCg==</text>
+      <register name="0" type="4">
+        <text>Some(f(fa.get(), fb.get()))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJ3bG9jay53cml0ZUxvY2soKS51bmxvY2soKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEB2YWxpdGlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJ3bG9jay53cml0ZUxvY2soKS51bmxvY2soKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjYWNoZS5nZXQK</text>
       </register>
-      <register name="5" type="4">
-        <text>c</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjYWNoZS5nZXQK</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNhCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNhY2hlLmdldAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
