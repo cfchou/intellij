@@ -278,16 +278,20 @@
         <option name="FOREGROUND" value="839496" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_CYAN_OUTPUT" />
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -298,11 +302,13 @@
         <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_GREEN_OUTPUT" />
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="CONSOLE_MAGENTA_OUTPUT" />
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
         <option name="FOREGROUND" value="d13681" />
@@ -311,6 +317,7 @@
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value />
     </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT" baseAttributes="CONSOLE_RED_OUTPUT" />
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -325,6 +332,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b58900" />
