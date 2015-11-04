@@ -295,8 +295,12 @@
         <mark key="^" line="115" column="24" />
         <mark key="." line="127" column="37" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446609891527">
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446617884692">
         <mark key="'" line="11" column="51" />
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+        <mark key="^" line="37" column="55" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1446391339678">
         <mark key="'" line="140" column="4" />
@@ -488,11 +492,11 @@
       <jump line="95" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -500,35 +504,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCAoZDIsIHIyKSA9IGRvdWJsZShyMSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="3" type="4">
-        <text>List()</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>???</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text encoding="base64">YW5vdGhlciA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCAoZDIsIHIyKSA9IGRvdWJsZShyMSkK</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>ng</text>
+        <text>get</text>
       </register>
       <register name="8" type="4">
-        <text>???</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>???</text>
+        <text encoding="base64">LyA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
