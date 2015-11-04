@@ -407,22 +407,14 @@
         <mark key="]" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" timestamp="1446629048296">
+        <mark key="'" line="26" column="64" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="58" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="399" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="516" column="37" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="536" column="60" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="546" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="139" column="34" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="242" column="15" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="141" column="19" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="142" column="17" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="482" column="7" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="574" column="37" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="603" column="60" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
-      <jump line="623" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/streamingio/StreamingIO.scala" />
       <jump line="87" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/errorhandling/Option.scala" />
       <jump line="120" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/errorhandling/Option.scala" />
       <jump line="115" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/errorhandling/Option.scala" />
@@ -509,58 +501,72 @@
       <jump line="22" column="63" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="36" column="4" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="57" column="33" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="231" column="24" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="139" column="22" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="196" column="89" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="195" column="22" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="234" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="142" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="191" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="29" column="48" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="357" column="29" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="929" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" />
+      <jump line="354" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="362" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="26" column="64" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWcuTG9nZ2VyLgo=</text>
       </register>
       <register name="-" type="4">
         <text>Future</text>
       </register>
       <register name="/" type="4">
-        <text>map2</text>
+        <text encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFsIGJmID0gYihlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWcuTG9nZ2VyLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>Future</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">OiA=</text>
-      </register>
-      <register name="4" type="4">
         <text>Future</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">OiA=</text>
+      </register>
+      <register name="5" type="4">
+        <text>Future</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgbWFwMltBLEIsQ10oYTogUGFyW0FdLCBiOiBQYXJbQl0pKGY6IChBLEIpID0+IEMpOiBQYXJbQ10gPQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>Par</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWYgbWFwMltBLEIsQ10oYTogUGFyW0FdLCBiOiBQYXJbQl0pKGY6IChBLEIpID0+IEMpOiBQYXJbQ10gPQo=</text>
       </register>
       <register name="8" type="4">
         <text>Par</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Par</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>map2</last-search>
+      <last-search encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>map2</last-pattern>
+      <last-pattern encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -568,10 +574,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWtlVmlhVW5mb2xkXD4=</entry>
-        <entry>hasSub</entry>
-        <entry encoding="base64">XDxleGl0c1w+</entry>
-        <entry>exist</entry>
         <entry encoding="base64">XDxzdGFydHNXaXRoXD4=</entry>
         <entry encoding="base64">XDx0YWlsc1w+</entry>
         <entry>append</entry>
@@ -588,6 +590,10 @@
         <entry>StoreDe</entry>
         <entry encoding="base64">XDxTdG9yZURlbGV0ZVw+</entry>
         <entry>map2</entry>
+        <entry>batchDel</entry>
+        <entry encoding="base64">XDxiaWdOb3RlTGlzdEhhbmRsZXJcPg==</entry>
+        <entry>purge</entry>
+        <entry encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
