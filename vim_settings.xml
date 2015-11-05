@@ -272,6 +272,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
       </file>
+      <file name="$USER_HOME$/Project/02_playground/sheeptype/build.sbt" timestamp="1445654186147">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/gtry/again/grace.go" timestamp="1445506214933">
         <mark key="'" line="70" column="19" />
         <mark key="[" line="92" column="0" />
@@ -309,11 +315,11 @@
         <mark key="^" line="115" column="24" />
         <mark key="." line="127" column="37" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446715296042">
-        <mark key="'" line="77" column="4" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446717631136">
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="87" column="16" />
+        <mark key="." line="87" column="16" />
+        <mark key="^" line="87" column="16" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1446391339678">
         <mark key="'" line="140" column="4" />
@@ -526,46 +532,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vbC5mb2xkUmlnaHRbUGFyW0xpc3RbQV1dXSh1bml0KExpc3QoKSkpKChoLHQpID0+IG1hcDIoaCx0KShfIDo6IF8pKQo=</text>
+        <text encoding="base64">ICBkZWYgZmlsdGVyW10K</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGwuZm9sZFJpZ2h0W1BhcltMaXN0W0FdXV0odW5pdChMaXN0KCkpKSgoaCx0KSA9PiBtYXAyKGgsdCkoXyA6OiBfKSkK</text>
+        <text encoding="base64">ICBkZWYgbWFwMltBLEIsQ10oYTogUGFyW0FdLCBiOiBQYXJbQl0pKGY6IChBLEIpID0+IEMpOiBQYXJbQ10gPQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vbC5mb2xkUmlnaHRbUGFyW0xpc3RbQV1dXSh1bml0KExpc3QoKSkpKChoLHQpID0+IG1hcDIoaCx0KShfIDo6IF8pKQo=</text>
+        <text encoding="base64">ICBkZWYgZmlsdGVyW10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>]</text>
+        <text>=</text>
       </register>
       <register name="3" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>[</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>A</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>f</text>
       </register>
       <register name="7" type="4">
-        <text>List</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
