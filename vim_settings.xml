@@ -73,7 +73,8 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/impl/Future.scala" timestamp="1446123515383">
         <mark key="'" line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" timestamp="1446634153211">
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" timestamp="1446691294817">
+        <mark key="'" line="932" column="121" />
         <mark key="[" line="1077" column="0" />
         <mark key="]" line="1077" column="0" />
         <mark key="^" line="1077" column="66" />
@@ -269,12 +270,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/sheeptype/build.sbt" timestamp="1445654186147">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="11" column="41" />
-        <mark key="^" line="11" column="41" />
-      </file>
       <file name="$USER_HOME$/Project/02_playground/gtry/again/grace.go" timestamp="1445506214933">
         <mark key="'" line="70" column="19" />
         <mark key="[" line="92" column="0" />
@@ -419,15 +414,14 @@
         <mark key="]" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" timestamp="1446633297593">
-        <mark key="'" line="229" column="19" />
+      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" timestamp="1446691213043">
+        <mark key="'" line="357" column="32" />
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="23" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/impl/Future.scala" />
       <jump line="142" column="0" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Promise.scala" />
       <jump line="11" column="16" filename="$USER_HOME$/Project/02_playground/sheeptype/src/main/scala/st/StApp.scala" />
       <jump line="120" column="48" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Promise.scala" />
@@ -519,7 +513,6 @@
       <jump line="354" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="362" column="70" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="29" column="63" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="357" column="30" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="139" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="188" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="234" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
@@ -527,6 +520,8 @@
       <jump line="205" column="8" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="210" column="36" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="229" column="19" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="357" column="32" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
+      <jump line="932" column="121" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -536,7 +531,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXRcPg==</text>
+        <text>purge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXNlZy5Mb2dnZXIoKS5EZWJ1ZygiQmF0Y2hEZWxldGUgZG9uZSIpCg==</text>
@@ -576,9 +571,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXRcPg==</last-search>
+      <last-search>purge</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXRcPg==</last-pattern>
+      <last-pattern>purge</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -602,10 +597,10 @@
         <entry>map2</entry>
         <entry>batchDel</entry>
         <entry encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</entry>
-        <entry>purge</entry>
         <entry>batchD</entry>
         <entry encoding="base64">XDxiaWdOb3RlTGlzdEhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
+        <entry>purge</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
