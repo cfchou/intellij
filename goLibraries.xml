@@ -1,9 +1,9 @@
 <application>
   <component name="GoLibraries">
     <option name="urls">
-      <set>
+      <list>
         <option value="file://$USER_HOME$/Project/tellus_mac" />
-      </set>
+      </list>
     </option>
   </component>
 </application>
