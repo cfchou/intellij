@@ -226,6 +226,12 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446830849459">
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="24" />
+        <mark key="^" line="45" column="24" />
+        <mark key="." line="45" column="24" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/cf1507/src/main/java/c4/util/Either.java" timestamp="1438058895955">
         <mark key="'" line="44" column="10" />
         <mark key="[" line="21" column="4" />
@@ -539,47 +545,47 @@
       <jump line="49" column="59" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgb3ZlcnJpZGUgcHJpdmF0ZVtwYXJhbGxlbGlzbV0gZGVmIGFwcGx5KGNiOiAoQSkgPT4gVW5pdCk6IFVuaXQgPSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>fork</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKGZvcmsodW5pdCgxKSkpKGUpKGNiKQo=</text>
+        <text encoding="base64">ICAgICAgb3ZlcnJpZGUgcHJpdmF0ZVtwYXJhbGxlbGlzbV0gZGVmIGFwcGx5KGNiOiAoQSkgPT4gVW5pdCk6IFVuaXQgPSB7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>b</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>c</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>???</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
