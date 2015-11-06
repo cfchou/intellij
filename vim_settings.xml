@@ -270,11 +270,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446804843308">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="2" />
-        <mark key="." line="48" column="2" />
-        <mark key="^" line="48" column="2" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446805520542">
+        <mark key="[" line="66" column="53" />
+        <mark key="]" line="66" column="56" />
+        <mark key="^" line="66" column="56" />
+        <mark key="." line="66" column="56" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
@@ -539,32 +539,32 @@
       <jump line="49" column="59" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgZm9vKGU6IEV4ZWN1dG9yU2VydmljZSk6IFVuaXQgPSB7CiAgICBydW4oZSkoZm9yayhmb3JrKHVuaXQoMSkpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>FixedExecutorService</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>fork</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZm9vKGU6IEV4ZWN1dG9yU2VydmljZSk6IFVuaXQgPSB7CiAgICBydW4oZSkoZm9yayhmb3JrKHVuaXQoMSkpKSkK</text>
+        <text encoding="base64">ICAgICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKGZvcmsodW5pdCgxKSkpKGUpKGNiKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>FixedExecutorService</text>
+        <text>b</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID09PiBlCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
@@ -573,13 +573,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
