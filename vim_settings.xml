@@ -316,12 +316,11 @@
         <mark key="^" line="115" column="24" />
         <mark key="." line="127" column="37" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446626940775">
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446793082750">
         <mark key="'" line="17" column="51" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="61" column="45" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1446391339678">
         <mark key="'" line="140" column="4" />
@@ -534,43 +533,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gbm90ZSAK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXJnZXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXNlZy5Mb2dnZXIoKS5EZWJ1ZygiQmF0Y2hEZWxldGUgZG9uZSIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IC8vIGtpY2sgc3RhcnQgdGhlIGNvbXB1dGF0aW9uIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gbm90ZSAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>h</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJc2VnLkxvZ2dlcigpLkRlYnVnKCJCYXRjaERlbGV0ZSBkb25lIikK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>enter</text>
+        <text encoding="base64">IC8vIGtpY2sgc3RhcnQgdGhlIGNvbXB1dGF0aW9uIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWcuTG9nZ2VyLgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IC8vIGtpY2sgc3RhcnQgdGhlIGNvbXB1dGF0aW9uIA==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
