@@ -101,12 +101,12 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446865460064">
-        <mark key="'" line="154" column="6" />
-        <mark key="[" line="36" column="79" />
-        <mark key="]" line="37" column="22" />
-        <mark key="." line="37" column="22" />
-        <mark key="^" line="37" column="22" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446872724721">
+        <mark key="'" line="166" column="17" />
+        <mark key="[" line="170" column="41" />
+        <mark key="]" line="170" column="41" />
+        <mark key="." line="170" column="41" />
+        <mark key="^" line="170" column="41" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
@@ -441,9 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
-      <jump line="112" column="28" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
-      <jump line="23" column="18" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
       <jump line="40" column="1" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="22" column="7" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="96" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/laziness/Stream.scala" />
@@ -541,37 +538,40 @@
       <jump line="139" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="149" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="110" column="7" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Nonblocking.scala" />
+      <jump line="153" column="7" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="165" column="17" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="140" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzLmZvbGRSaWdodCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>fork</text>
+        <text encoding="base64">XDxmb2xkTGVmdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgZGVmIGZvbyhlOiBFeGVjdXRvclNlcnZpY2UpOiBVbml0ID0gewogICAgcnVuKGUpKGZvcmsoZm9yayh1bml0KDEpKSkpCiAgICA9PT4KICAgIGZvcmsoZm9yayh1bml0KDEpKSkoZSkgey4uLn0KICAgID09PgogICAgKGVzID0+IG5ldyBGdXR1cmVbQV0gewogICAgICBkZWYgYXBwbHkoY2I6IChBKSA9PiBVbml0KTogVW5pdCA9IHsKICAgICAgICBlcy5zdWJtaXQobmV3IENhbGxhYmxlW1VuaXRdewogICAgICAgICAgb3ZlcnJpZGUgZGVmIGNhbGwoKTogVW5pdCA9IChmb3JrKHVuaXQoMSkpKShlcykoY2IpCiAgICAgICAgfSkKICAgICAgfQogICAgfSkoZSl7Li4ufQogICAgPT0+CiAgICBuZXcgRnV0dXJlW0FdIHsKICAgICAgZGVmIGFwcGx5KGNiOiAoQSkgPT4gVW5pdCk6IFVuaXQgPSB7CiAgICAgICAgZS5zdWJtaXQobmV3IENhbGxhYmxlW1VuaXRdewogICAgICAgICAgb3ZlcnJpZGUgZGVmIGNhbGwoKTogVW5pdCA9IChmb3JrKHVuaXQoMSkpKShlKShjYikKICAgICAgICB9KQogICAgfXsuLi59CiAgICA9PT4KICAgIGUuc3VibWl0KG5ldyBDYWxsYWJsZVtVbml0XXsKICAgICAgb3ZlcnJpZGUgZGVmIGNhbGwoKTogVW5pdCA9IChmb3JrKHVuaXQoMSkpKShlKSh7Li4ufSkKICAgIH0pCiAgICA9PT4KICAgIGUuc3VibWl0KG5ldyBDYWxsYWJsZVtVbml0XXsKICAgICAgb3ZlcnJpZGUgZGVmIGNhbGwoKTogVW5pdCA9CiAgICAgICAgLy8gYHN1Ym1pdGAgZG9lc24ndCBibG9jayBgY2FsbGAKICAgICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBjYWxsKCk6IFVuaXQgPSAodW5pdCgxKSkoZSkoey4uLn0pCiAgICAgICAgfSkKICAgIH0pCiAgICA9PT4KICAgIGUuc3VibWl0KG5ldyBDYWxsYWJsZVtVbml0XXsKICAgICAgb3ZlcnJpZGUgZGVmIGNhbGwoKTogVW5pdCA9IChmb3JrKHVuaXQoMSkpKShlKSh7Li4ufSkKICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFzLmZvbGRSaWdodCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>Left</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -582,17 +582,17 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fork</last-search>
+      <last-search encoding="base64">XDxmb2xkTGVmdFw+</last-search>
       <last-offset />
-      <last-pattern>fork</last-pattern>
+      <last-pattern encoding="base64">XDxmb2xkTGVmdFw+</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -600,7 +600,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scan</entry>
         <entry>unfold</entry>
         <entry encoding="base64">XDxub25OZWdhdGl2ZUludFw+</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
@@ -620,6 +619,7 @@
         <entry encoding="base64">XDxrXD4=</entry>
         <entry>map2</entry>
         <entry>fork</entry>
+        <entry encoding="base64">XDxmb2xkTGVmdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
