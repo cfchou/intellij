@@ -101,9 +101,12 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446655236269">
-        <mark key="'" line="65" column="18" />
-        <mark key="." line="97" column="71" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446865460064">
+        <mark key="'" line="154" column="6" />
+        <mark key="[" line="36" column="79" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
@@ -434,9 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="2" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
-      <jump line="46" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
-      <jump line="49" column="31" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
       <jump line="85" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
       <jump line="110" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
       <jump line="112" column="28" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
@@ -534,58 +534,61 @@
       <jump line="27" column="49" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="37" column="13" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="49" column="59" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="122" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="139" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="149" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>fork</text>
+        <text>map2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKGZvcmsodW5pdCgxKSkpKGUpKGNiKQogICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>c</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>I</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>fork</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="7" type="4">
+        <text>*</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">eyA=</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fork</last-search>
+      <last-search>map2</last-search>
       <last-offset />
-      <last-pattern>fork</last-pattern>
+      <last-pattern>map2</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -603,7 +606,6 @@
         <entry encoding="base64">XDxEZWxldGVTaWRlRWZmZWN0c1w+</entry>
         <entry>StoreDe</entry>
         <entry encoding="base64">XDxTdG9yZURlbGV0ZVw+</entry>
-        <entry>map2</entry>
         <entry>batchDel</entry>
         <entry encoding="base64">XDxub3RlUHVyZ2VIYW5kbGVyXD4=</entry>
         <entry>purge</entry>
@@ -613,6 +615,7 @@
         <entry>unit</entry>
         <entry encoding="base64">XDxrXD4=</entry>
         <entry>fork</entry>
+        <entry>map2</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
