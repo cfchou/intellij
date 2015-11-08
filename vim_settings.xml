@@ -105,12 +105,8 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446909720871">
-        <mark key="'" line="174" column="4" />
-        <mark key="[" line="173" column="4" />
-        <mark key="]" line="173" column="5" />
-        <mark key="^" line="173" column="5" />
-        <mark key="." line="173" column="5" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446948564758">
+        <mark key="[" line="182" column="68" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
@@ -566,28 +562,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWYgcGFyRmlsdGVyMltBXShsOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBQYXJbTGlzdFtBXV0gPSB7CiAgICB2YWwgcGFyczogTGlzdFtQYXJbTGlzdFtBXV1dID0KICAgICAgbCBtYXAgKGFzeW5jRigoYTogQSkgPT4gaWYgKGYoYSkpIExpc3QoYSkgZWxzZSBMaXN0KCkpKQogICAgLy92YWwgczogUGFyW0xpc3RbTGlzdFtBXV1dID0gc2VxdWVuY2UocGFycykKICAgIC8vZGVmIG1hcFtBLEJdKHBhOiBQYXJbQV0pKGY6IEEgPT4gQik6IFBhcltCXQogICAgbWFwKHNlcXVlbmNlKHBhcnMpKShfLmZsYXR0ZW4pIC8vIGNvbnZlbmllbmNlIG1ldGhvZCBvbiBgTGlzdGAgZm9yIGNvbmNhdGVuYXRpbmcgYSBsaXN0IG9mIGxpc3RzCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB4ID0gcHMuZm9sZFJpZ2h0W1BhcltMaXN0W0FdXV0odW5pdChOaWwpKSgocGIsIHBicykgPT4KICAgICAgbWFwMihwYiwgcGJzKShfOjpfKQogICAgKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>s</text>
-      </register>
-      <register name="6" type="4">
-        <text>p</text>
-      </register>
-      <register name="7" type="4">
-        <text>Boolean</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vdmFsIHBzICA9IGFzLm1hcChhZikK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgID8/Pwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCB4ID0gcHMuZm9sZFJpZ2h0W1BhcltMaXN0W0FdXV0odW5pdChOaWwpKSgocGIsIHBicykgPT4KICAgICAgbWFwMihwYiwgcGJzKShfOjpfKQogICAgKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>s</text>
+      </register>
+      <register name="9" type="4">
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
