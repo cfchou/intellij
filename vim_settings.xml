@@ -34,6 +34,13 @@
         <mark key="[" line="263" column="0" />
         <mark key="]" line="263" column="56" />
       </file>
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1446998549576">
+        <mark key="'" line="35" column="27" />
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="30" column="35" />
+        <mark key="^" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/cf1507/src/main/java/c4/type/Arg2Impl.java" timestamp="1437896104306">
         <mark key="'" line="2" column="41" />
         <mark key="[" line="7" column="0" />
@@ -184,10 +191,10 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1446393733626">
-        <mark key="'" line="75" column="22" />
-        <mark key="[" line="70" column="5" />
-        <mark key="]" line="71" column="16" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1446998316549">
+        <mark key="'" line="4" column="109" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="31" />
         <mark key="^" line="71" column="16" />
         <mark key="." line="71" column="16" />
       </file>
@@ -224,9 +231,9 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446991237122">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="44" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446997687795">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="99" column="2" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="91" column="8" />
       </file>
@@ -358,9 +365,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="221" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Nonblocking.scala" timestamp="1446871638769">
-        <mark key="'" line="148" column="7" />
-        <mark key="[" line="78" column="6" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Nonblocking.scala" timestamp="1446997695926">
+        <mark key="'" line="157" column="7" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="86" column="3" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf150306/src/main/scala/tmp/EasyConsumerApp.scala" timestamp="1429682849791">
         <mark key="'" line="49" column="16" />
@@ -445,12 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="125" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="230" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="131" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="80" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="126" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="87" column="21" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="19" column="132" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="34" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
@@ -545,58 +548,64 @@
       <jump line="174" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="143" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="193" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="19" column="2" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
+      <jump line="21" column="25" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
+      <jump line="4" column="109" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
+      <jump line="35" column="27" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="81" column="11" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBgc3VibWl0YCBkb2Vzbid0IGJsb2NrIGBjYWxsYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJGaWx0ZXJcPg==</text>
+        <text encoding="base64">XDxuZXh0SW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG92ZXJyaWRlIGRlZiBjYWxsKCk6IFVuaXQgPSAodW5pdCgxKSkoZSkoey4uLn0pCg==</text>
+        <text encoding="base64">ICB0eXBlIFJhbmRbK0FdID0gUk5HID0+IChBLCBSTkcpCgogIHZhbCBpbnQ6IFJhbmRbSW50XSA9IF8ubmV4dEludAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBgc3VibWl0YCBkb2Vzbid0IGJsb2NrIGBjYWxsYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKHVuaXQoMSkpKGUpKHsuLi59KQogICAgICAgIH0pCiAgICB9KQo=</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>int</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9KQo=</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLgo=</text>
+      <register name="5" type="4">
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>{</text>
+        <text>Double</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBmb28oZTogRXhlY3V0b3JTZXJ2aWNlKTogVW5pdCA9IHsKICAgICAgcnVuKGUpKGZvcmsoZm9yayh1bml0KDEpKSkpCiAgICAgID09PgogICAgICBmb3JrKGZvcmsodW5pdCgxKSkpKGUpIHsuLi59CiAgICAgID09PgogICAgICAoZXMgPT4gbmV3IEZ1dHVyZVtBXSB7CiAgICAgICAgZGVmIGFwcGx5KGNiOiAoQSkgPT4gVW5pdCk6IFVuaXQgPSB7CiAgICAgICAgICBlcy5zdWJtaXQobmV3IENhbGxhYmxlW1VuaXRdewogICAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKGZvcmsodW5pdCgxKSkpKGVzKShjYikKICAgICAgICAgIH0pCiAgICAgICAgfQogICAgICB9KShlKXsuLi59CiAgICAgID09PgogICAgICBuZXcgRnV0dXJlW0FdIHsKICAgICAgICBkZWYgYXBwbHkoY2I6IChBKSA9PiBVbml0KTogVW5pdCA9IHsKICAgICAgICAgIGUuc3VibWl0KG5ldyBDYWxsYWJsZVtVbml0XXsKICAgICAgICAgICAgb3ZlcnJpZGUgZGVmIGNhbGwoKTogVW5pdCA9IChmb3JrKHVuaXQoMSkpKShlKShjYikKICAgICAgICAgIH0pCiAgICAgICAgfXsuLi59CiAgICAgID09PgogICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgb3ZlcnJpZGUgZGVmIGNhbGwoKTogVW5pdCA9IChmb3JrKHVuaXQoMSkpKShlKSh7Li4ufSkKICAgICAgfSkKICAgICAgPT0+CiAgICAgIGUuc3VibWl0KG5ldyBDYWxsYWJsZVtVbml0XXsKICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0KICAgICAgICAvLyBgc3VibWl0YCBkb2Vzbid0IGJsb2NrIGBjYWxsYAogICAgICAgICAgZS5zdWJtaXQobmV3IENhbGxhYmxlW1VuaXRdewogICAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKHVuaXQoMSkpKGUpKHsuLi59KQogICAgICAgICAgfSkKICAgICAgfSkKICAgICAgPT0+CiAgICAgIGUuc3VibWl0KG5ldyBDYWxsYWJsZVtVbml0XXsKICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKGZvcmsodW5pdCgxKSkpKGUpKHsuLi59KQogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBgc3VibWl0YCBkb2Vzbid0IGJsb2NrIGBjYWxsYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKHVuaXQoMSkpKGUpKHsuLi59KQogICAgICAgIH0pCiAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJGaWx0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxuZXh0SW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJGaWx0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXh0SW50XD4=</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -604,7 +613,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub25OZWdhdGl2ZUludFw+</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry encoding="base64">XDxVbml0RnV0dXJlXD4=</entry>
         <entry>get</entry>
@@ -624,6 +632,7 @@
         <entry>fork</entry>
         <entry encoding="base64">XDxmb2xkTGVmdFw+</entry>
         <entry encoding="base64">XDxwYXJGaWx0ZXJcPg==</entry>
+        <entry encoding="base64">XDxuZXh0SW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
