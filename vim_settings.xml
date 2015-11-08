@@ -105,8 +105,12 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446948564758">
-        <mark key="[" line="182" column="68" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446950302886">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="193" column="25" />
+        <mark key="]" line="193" column="27" />
+        <mark key="." line="193" column="27" />
+        <mark key="^" line="193" column="27" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
@@ -441,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="8" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="18" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="125" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="230" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/laziness/Stream.scala" />
@@ -541,49 +544,50 @@
       <jump line="4" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="174" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="143" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="193" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJGaWx0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBwczogTGlzdFtQYXJbQm9vbGVhbl1dID0gYXMubWFwKGFmKQo=</text>
+        <text encoding="base64">ICBkZWYgY2hvaWNlW0FdKGNvbmQ6IFBhcltCb29sZWFuXSkodDogUGFyW0FdLCBmOiBQYXJbQV0pOiBQYXJbQV0gPQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgcGFyRmlsdGVyMltBXShsOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBQYXJbTGlzdFtBXV0gPSB7CiAgICB2YWwgcGFyczogTGlzdFtQYXJbTGlzdFtBXV1dID0KICAgICAgbCBtYXAgKGFzeW5jRigoYTogQSkgPT4gaWYgKGYoYSkpIExpc3QoYSkgZWxzZSBMaXN0KCkpKQogICAgLy92YWwgczogUGFyW0xpc3RbTGlzdFtBXV1dID0gc2VxdWVuY2UocGFycykKICAgIC8vZGVmIG1hcFtBLEJdKHBhOiBQYXJbQV0pKGY6IEEgPT4gQik6IFBhcltCXQogICAgbWFwKHNlcXVlbmNlKHBhcnMpKShfLmZsYXR0ZW4pIC8vIGNvbnZlbmllbmNlIG1ldGhvZCBvbiBgTGlzdGAgZm9yIGNvbmNhdGVuYXRpbmcgYSBsaXN0IG9mIGxpc3RzCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHJ1bihlcykoY2hvaWNlcyhpKSkK</text>
+      </register>
+      <register name="5" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="4">
+        <text>i</text>
+      </register>
+      <register name="7" type="4">
+        <text>(</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCB4ID0gcHMuZm9sZFJpZ2h0W1BhcltMaXN0W0FdXV0odW5pdChOaWwpKSgocGIsIHBicykgPT4KICAgICAgbWFwMihwYiwgcGJzKShfOjpfKQogICAgKQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>s</text>
-      </register>
-      <register name="9" type="4">
-        <text>p</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBkZWYgcGFyRmlsdGVyMltBXShsOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBQYXJbTGlzdFtBXV0gPSB7CiAgICB2YWwgcGFyczogTGlzdFtQYXJbTGlzdFtBXV1dID0KICAgICAgbCBtYXAgKGFzeW5jRigoYTogQSkgPT4gaWYgKGYoYSkpIExpc3QoYSkgZWxzZSBMaXN0KCkpKQogICAgLy92YWwgczogUGFyW0xpc3RbTGlzdFtBXV1dID0gc2VxdWVuY2UocGFycykKICAgIC8vZGVmIG1hcFtBLEJdKHBhOiBQYXJbQV0pKGY6IEEgPT4gQik6IFBhcltCXQogICAgbWFwKHNlcXVlbmNlKHBhcnMpKShfLmZsYXR0ZW4pIC8vIGNvbnZlbmllbmNlIG1ldGhvZCBvbiBgTGlzdGAgZm9yIGNvbmNhdGVuYXRpbmcgYSBsaXN0IG9mIGxpc3RzCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
