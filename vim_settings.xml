@@ -224,11 +224,11 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446871585312">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="90" column="2" />
-        <mark key="^" line="60" column="6" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446991237122">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="44" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="91" column="8" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf1507/src/main/java/c4/util/Either.java" timestamp="1438058895955">
         <mark key="'" line="44" column="10" />
@@ -548,46 +548,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBgc3VibWl0YCBkb2Vzbid0IGJsb2NrIGBjYWxsYAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJGaWx0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgY2hvaWNlW0FdKGNvbmQ6IFBhcltCb29sZWFuXSkodDogUGFyW0FdLCBmOiBQYXJbQV0pOiBQYXJbQV0gPQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG92ZXJyaWRlIGRlZiBjYWxsKCk6IFVuaXQgPSAodW5pdCgxKSkoZSkoey4uLn0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBgc3VibWl0YCBkb2Vzbid0IGJsb2NrIGBjYWxsYAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKHVuaXQoMSkpKGUpKHsuLi59KQogICAgICAgIH0pCiAgICB9KQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJ1bihlcykoY2hvaWNlcyhpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9KQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>{</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgcGFyRmlsdGVyMltBXShsOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBQYXJbTGlzdFtBXV0gPSB7CiAgICB2YWwgcGFyczogTGlzdFtQYXJbTGlzdFtBXV1dID0KICAgICAgbCBtYXAgKGFzeW5jRigoYTogQSkgPT4gaWYgKGYoYSkpIExpc3QoYSkgZWxzZSBMaXN0KCkpKQogICAgLy92YWwgczogUGFyW0xpc3RbTGlzdFtBXV1dID0gc2VxdWVuY2UocGFycykKICAgIC8vZGVmIG1hcFtBLEJdKHBhOiBQYXJbQV0pKGY6IEEgPT4gQik6IFBhcltCXQogICAgbWFwKHNlcXVlbmNlKHBhcnMpKShfLmZsYXR0ZW4pIC8vIGNvbnZlbmllbmNlIG1ldGhvZCBvbiBgTGlzdGAgZm9yIGNvbmNhdGVuYXRpbmcgYSBsaXN0IG9mIGxpc3RzCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -642,9 +642,9 @@
         <entry>1,$s/asAlias/createAlias/g</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry>qw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>100</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
