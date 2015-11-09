@@ -298,12 +298,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447052410321">
-        <mark key="'" line="51" column="12" />
-        <mark key="[" line="64" column="13" />
-        <mark key="]" line="64" column="15" />
-        <mark key="^" line="64" column="15" />
-        <mark key="." line="64" column="15" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447053709563">
+        <mark key="'" line="56" column="12" />
+        <mark key="[" line="41" column="44" />
+        <mark key="]" line="42" column="6" />
+        <mark key="^" line="42" column="6" />
+        <mark key="." line="42" column="6" />
       </file>
       <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446805520542">
         <mark key="[" line="66" column="53" />
@@ -583,11 +583,11 @@
       <jump line="138" column="26" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/config.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmlcPg==</text>
@@ -595,35 +595,35 @@
       <register name="0" type="2">
         <text encoding="base64">Y2FzZSBjbGFzcyBTdGF0ZVtTLCtBXShydW46IFMgPT4gKEEsIFMpKSB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>n</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEdlbjIoU3RhdGUocm5nID0+IHsKICAgICAgZm9yIHsKICAgICAgICBhIDwtIGcuc2FtcGxlCgogICAgICB9CiAgICAgIC8vIChMaXN0W0FdLCBSTkcpCiAgICAgID8/PwogICAgfSkpCgogICAgLy8gY2FzZSBjbGFzcyBTdGF0ZVtTLCtBXShydW46IFMgPT4gKEEsIFMpKQogICAgLy8gU3RhdGVbKFJORywgTGlzdFtHZW4yW0FdXSksIEdlbjJbQV1dCiAgICB2YWwgcyA9IFN0YXRlWyhSTkcsIExpc3RbR2VuMltBXV0pLCBHZW4yW0FdXSB7CiAgICAgIGNhc2UgKHJuZywgZ3MpID0+CiAgICB9CgogICAgZGVmIGdvKGk6IEludCk6IExpc3RbR2VuMltBXV0gPSB7CiAgICAgIGlmIChpID4gMCkgewogICAgICAgIGdvKGkgLSAxKQogICAgICB9IGVsc2UgewogICAgICAgIE5pbAogICAgICB9CgogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEdlbjIoU3RhdGUocm5nID0+IHsKICAgICAgZm9yIHsKICAgICAgICBhIDwtIGcuc2FtcGxlCgogICAgICB9CiAgICAgIC8vIChMaXN0W0FdLCBSTkcpCiAgICAgID8/PwogICAgfSkpCgogICAgLy8gY2FzZSBjbGFzcyBTdGF0ZVtTLCtBXShydW46IFMgPT4gKEEsIFMpKQogICAgLy8gU3RhdGVbKFJORywgTGlzdFtHZW4yW0FdXSksIEdlbjJbQV1dCiAgICB2YWwgcyA9IFN0YXRlWyhSTkcsIExpc3RbR2VuMltBXV0pLCBHZW4yW0FdXSB7CiAgICAgIGNhc2UgKHJuZywgZ3MpID0+CiAgICB9CgogICAgZGVmIGdvKGk6IEludCk6IExpc3RbR2VuMltBXV0gPSB7CiAgICAgIGlmIChpID4gMCkgewogICAgICAgIGdvKGkgLSAxKQogICAgICB9IGVsc2UgewogICAgICAgIE5pbAogICAgICB9CgogICAgfQoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ3Muc2FtcGxlCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZ3Muc2FtcGxlCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHZhbCBsbDogTGlzdFtHZW4yW0FdXSA9IExpc3QuZmlsbChuKShnKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
