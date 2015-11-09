@@ -170,6 +170,13 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" timestamp="1446609895562">
         <mark key="'" line="95" column="17" />
       </file>
+      <file name="$USER_HOME$/Project/gopath/src/cf.io/tryagain/tryagin.go" timestamp="1447063301555">
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/XmppUtil.java" timestamp="1432704660640">
         <mark key="'" line="11" column="52" />
         <mark key="[" line="11" column="20" />
@@ -304,6 +311,10 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/rcrowley/goagain/goagain.go" timestamp="1447063222272">
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="39" />
+      </file>
       <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447058596775">
         <mark key="'" line="92" column="30" />
         <mark key="[" line="92" column="13" />
@@ -394,6 +405,10 @@
       <file name="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/config.go" timestamp="1447052848967">
         <mark key="'" line="54" column="19" />
       </file>
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/answerkey/parallelism/03.hint.txt" timestamp="1446626394500">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="221" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Nonblocking.scala" timestamp="1446997695926">
         <mark key="'" line="157" column="7" />
         <mark key="[" line="43" column="0" />
@@ -451,6 +466,10 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Promise.scala" timestamp="1446123887474">
         <mark key="'" line="120" column="48" />
       </file>
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/answerkey/parallelism/03.answer.scala" timestamp="1446626883315">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="62" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/Tree.scala" timestamp="1445008277339">
         <mark key="'" line="4" column="11" />
         <mark key="[" line="81" column="62" />
@@ -479,7 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="63" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="357" column="30" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="139" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="188" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
@@ -579,52 +597,53 @@
       <jump line="50" column="18" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
       <jump line="29" column="20" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
       <jump line="12" column="20" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/logging.go" />
+      <jump line="4" column="20" filename="$USER_HOME$/Project/gopath/src/cf.io/tryagain/tryagin.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IGZ1bmMobCBuZXQuTGlzdGVuZXIpIGVycm9y</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>tryagain</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnb2FnYWluXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIChpLCByKSA9IHJuZy5uZXh0SW50Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGZ1bmMobCBuZXQuTGlzdGVuZXIpIGVycm9y</text>
       </register>
-      <register name="1" type="4">
-        <text>=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CWdvYWdhaW4uT25TSUdVU1IxCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>tryagain</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
-      </register>
-      <register name="5" type="4">
-        <text>.</text>
-      </register>
-      <register name="6" type="4">
         <text>(</text>
       </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="4">
         <text>0</text>
       </register>
+      <register name="7" type="4">
+        <text>.</text>
+      </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
         <text>0</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -670,16 +689,16 @@
         <entry>1,$s/Xt/St/g</entry>
         <entry>1,$s/getVal/getArg/g</entry>
         <entry>1,$s/StType/TyType/g</entry>
-        <entry>wq</entry>
         <entry>1,$s/createAlias/asString/g</entry>
         <entry>1,$s/asString/asAlias/g</entry>
         <entry>1,$s/asAlias/createAlias/g</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry>qw</entry>
         <entry>100</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
