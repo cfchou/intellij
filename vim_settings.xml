@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/logging.go" timestamp="1447061946490">
+      <file name="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/logging.go" timestamp="1447064080244">
         <mark key="'" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" timestamp="1446906794553">
@@ -596,8 +596,8 @@
       <jump line="43" column="18" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
       <jump line="50" column="18" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
       <jump line="29" column="20" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
-      <jump line="12" column="20" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/logging.go" />
       <jump line="4" column="20" filename="$USER_HOME$/Project/gopath/src/cf.io/tryagain/tryagin.go" />
+      <jump line="12" column="20" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/logging.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
