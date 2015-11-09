@@ -298,12 +298,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447053709563">
-        <mark key="'" line="56" column="12" />
-        <mark key="[" line="41" column="44" />
-        <mark key="]" line="42" column="6" />
-        <mark key="^" line="42" column="6" />
-        <mark key="." line="42" column="6" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447055121672">
+        <mark key="'" line="6" column="7" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446805520542">
         <mark key="[" line="66" column="53" />
@@ -481,8 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="51" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="95" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" />
       <jump line="249" column="14" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
       <jump line="118" column="54" filename="$USER_HOME$/Project/tellus_mac/src/tellus/core/store/front.go" />
@@ -581,58 +578,60 @@
       <jump line="87" column="14" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/config.go" />
       <jump line="54" column="19" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/config.go" />
       <jump line="138" column="26" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/config.go" />
+      <jump line="46" column="8" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="6" column="7" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsaXN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmlcPg==</text>
+        <text encoding="base64">XDxHZW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2FzZSBjbGFzcyBTdGF0ZVtTLCtBXShydW46IFMgPT4gKEEsIFMpKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>n</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsaXN0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHZW4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEdlbjIoU3RhdGUocm5nID0+IHsKICAgICAgZm9yIHsKICAgICAgICBhIDwtIGcuc2FtcGxlCgogICAgICB9CiAgICAgIC8vIChMaXN0W0FdLCBSTkcpCiAgICAgID8/PwogICAgfSkpCgogICAgLy8gY2FzZSBjbGFzcyBTdGF0ZVtTLCtBXShydW46IFMgPT4gKEEsIFMpKQogICAgLy8gU3RhdGVbKFJORywgTGlzdFtHZW4yW0FdXSksIEdlbjJbQV1dCiAgICB2YWwgcyA9IFN0YXRlWyhSTkcsIExpc3RbR2VuMltBXV0pLCBHZW4yW0FdXSB7CiAgICAgIGNhc2UgKHJuZywgZ3MpID0+CiAgICB9CgogICAgZGVmIGdvKGk6IEludCk6IExpc3RbR2VuMltBXV0gPSB7CiAgICAgIGlmIChpID4gMCkgewogICAgICAgIGdvKGkgLSAxKQogICAgICB9IGVsc2UgewogICAgICAgIE5pbAogICAgICB9CgogICAgfQoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ3Muc2FtcGxlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBsbDogTGlzdFtHZW4yW0FdXSA9IExpc3QuZmlsbChuKShnKQo=</text>
-      </register>
-      <register name="8" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="4" type="4">
+        <text>{</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgID8/Pwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICBHZW4yKFN0YXRlKHsgcm5nID0+CiAgICAgID8/PwogICAgfSkpCiAgICAqLwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>???</text>
+      </register>
+      <register name="8" type="4">
+        <text>null</text>
+      </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>Nothing</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmlcPg==</last-search>
+      <last-search encoding="base64">XDxHZW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHZW5cPg==</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -640,7 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZWxldGVTaWRlRWZmZWN0c1w+</entry>
         <entry>StoreDe</entry>
         <entry encoding="base64">XDxTdG9yZURlbGV0ZVw+</entry>
         <entry>batchDel</entry>
@@ -660,6 +658,7 @@
         <entry encoding="base64">XDxSYW5kXD4=</entry>
         <entry>Init(</entry>
         <entry encoding="base64">XDxpbmlcPg==</entry>
+        <entry encoding="base64">XDxHZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
