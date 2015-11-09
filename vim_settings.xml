@@ -62,8 +62,8 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" timestamp="1447059364566">
-        <mark key="'" line="30" column="12" />
+      <file name="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" timestamp="1447060196041">
+        <mark key="'" line="50" column="18" />
       </file>
       <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/gazer/tree/twothree/main/twothreeMain.go" timestamp="1442312678195">
         <mark key="'" line="23" column="14" />
@@ -122,6 +122,9 @@
         <mark key="]" line="208" column="0" />
         <mark key="^" line="131" column="10" />
         <mark key="." line="202" column="14" />
+      </file>
+      <file name="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" timestamp="1447060130294">
+        <mark key="'" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf150306/src/main/scala/parser/YpParser.scala" timestamp="1431142296630">
         <mark key="'" line="75" column="27" />
@@ -473,11 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="191" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="929" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" />
-      <jump line="354" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="362" column="70" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="29" column="63" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="357" column="30" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
@@ -569,10 +567,15 @@
       <jump line="291" column="0" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/gop.go" />
       <jump line="303" column="14" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/gop.go" />
       <jump line="10" column="14" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
-      <jump line="37" column="20" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
-      <jump line="50" column="18" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
       <jump line="24" column="4" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
-      <jump line="30" column="12" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
+      <jump line="45" column="23" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
+      <jump line="16" column="7" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
+      <jump line="19" column="4" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
+      <jump line="44" column="15" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
+      <jump line="30" column="4" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
+      <jump line="37" column="20" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
+      <jump line="43" column="18" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
+      <jump line="50" column="18" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -582,7 +585,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>goagain</text>
+        <text encoding="base64">XDxnb2FnYWluXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFsIChpLCByKSA9IHJuZy5uZXh0SW50Cg==</text>
@@ -622,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>goagain</last-search>
+      <last-search encoding="base64">XDxnb2FnYWluXD4=</last-search>
       <last-offset />
-      <last-pattern>goagain</last-pattern>
+      <last-pattern encoding="base64">XDxnb2FnYWluXD4=</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -632,8 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>purge</entry>
-        <entry>batchD</entry>
         <entry encoding="base64">XDxiaWdOb3RlTGlzdEhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
         <entry>unit</entry>
@@ -652,6 +653,8 @@
         <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
         <entry encoding="base64">XDxTdGFydEdyYWNlZnVsUmVzdGFydFw+</entry>
         <entry>goagain</entry>
+        <entry encoding="base64">XDxPblNJR0hVUFw+</entry>
+        <entry encoding="base64">XDxnb2FnYWluXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
