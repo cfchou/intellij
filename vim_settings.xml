@@ -270,6 +270,13 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447034415546">
+        <mark key="'" line="35" column="30" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="40" column="40" />
+      </file>
       <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446805520542">
         <mark key="[" line="66" column="53" />
         <mark key="]" line="66" column="56" />
@@ -437,10 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="2" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
-      <jump line="46" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
-      <jump line="49" column="31" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
-      <jump line="85" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
       <jump line="110" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
       <jump line="112" column="28" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
       <jump line="23" column="18" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/List.scala" />
@@ -537,13 +540,17 @@
       <jump line="27" column="49" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="37" column="13" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="49" column="59" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
+      <jump line="26" column="29" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="36" column="27" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="35" column="30" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="51" column="11" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>fork</text>
@@ -551,32 +558,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKGZvcmsodW5pdCgxKSkpKGUpKGNiKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>b</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>c</text>
+      <register name="2" type="8">
+        <text>endExclusive - start</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPz8/Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBHZW4yKFN0YXRlKHJuZyA9PiB7CiAgICB2YWwgKGksIHIpID0gcm5nLm5leHRJbnQKICAgID8/PwogIH0pCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
         <text>s</text>
