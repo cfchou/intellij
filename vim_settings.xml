@@ -209,8 +209,8 @@
       <file name="$USER_HOME$/Project/02_playground/gazer/twothreeMain.go" timestamp="1442298975903">
         <mark key="'" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447056389597">
-        <mark key="'" line="169" column="11" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447124185158">
+        <mark key="'" line="173" column="11" />
       </file>
       <file name="$USER_HOME$/Project/tellus_mac/src/tellus.go" timestamp="1447052793832">
         <mark key="'" line="9" column="17" />
@@ -322,12 +322,12 @@
         <mark key="[" line="176" column="0" />
         <mark key="]" line="177" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447121736290">
-        <mark key="'" line="90" column="30" />
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="25" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447124150764">
+        <mark key="'" line="7" column="10" />
+        <mark key="[" line="48" column="49" />
+        <mark key="]" line="48" column="50" />
+        <mark key="^" line="48" column="50" />
+        <mark key="." line="48" column="50" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
@@ -490,11 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="47" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" />
-      <jump line="15" column="3" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="26" column="43" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="27" column="49" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="37" column="13" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="49" column="59" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="122" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="139" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
@@ -590,46 +585,51 @@
       <jump line="20" column="32" filename="$USER_HOME$/Project/gopath/src/github.com/rcrowley/goagain/example/legacy/main.go" />
       <jump line="20" column="37" filename="$USER_HOME$/Project/gopath/src/github.com/rcrowley/goagain/legacy.go" />
       <jump line="16" column="58" filename="$USER_HOME$/Project/gopath/src/github.com/rcrowley/goagain/legacy.go" />
+      <jump line="48" column="45" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="18" column="7" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="24" column="47" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="7" column="10" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="173" column="11" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Int</text>
+        <text>Count</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>Count</text>
       </register>
       <register name="/" type="4">
-        <text>Result</text>
+        <text encoding="base64">XDxQcm9wXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CS8vIEluaGVyaXQgYSBuZXQuTGlzdGVuZXIgZnJvbSBvdXIgcGFyZW50IHByb2Nlc3Mgb3IgbGlzdGVuIGFuZXcuCg==</text>
       </register>
       <register name="1" type="4">
-        <text>Int</text>
+        <text>Count</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dHlwZSAK</text>
+      <register name="2" type="4">
+        <text>edCase</text>
       </register>
-      <register name="3" type="4">
-        <text>???</text>
+      <register name="3" type="2">
+        <text encoding="base64">dHlwZSBUZXN0Q2FzZXMgPSBJbnQKdHlwZSBSZXN1bHQgPSBPcHRpb25bKEZhaWxlZENhc2UsIFN1Y2Nlc3NDb3VudCldCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>???</text>
+      <register name="4" type="2">
+        <text encoding="base64">dHlwZSBUZXN0Q2FzZXMgPSBJbnQKdHlwZSBSZXN1bHQgPSBPcHRpb25bKEZhaWxlZENhc2UsIFN1Y2Nlc3NDb3VudCldCg==</text>
       </register>
       <register name="5" type="4">
-        <text>=</text>
+        <text>Int</text>
       </register>
-      <register name="6" type="4">
-        <text>!</text>
+      <register name="6" type="2">
+        <text encoding="base64">dHlwZSAK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bmlsIA==</text>
+        <text>???</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>???</text>
       </register>
       <register name="9" type="4">
         <text>=</text>
@@ -639,9 +639,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Result</last-search>
+      <last-search encoding="base64">XDxQcm9wXD4=</last-search>
       <last-offset />
-      <last-pattern>Result</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9wXD4=</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -649,8 +649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unit</entry>
-        <entry encoding="base64">XDxrXD4=</entry>
         <entry>map2</entry>
         <entry>fork</entry>
         <entry encoding="base64">XDxmb2xkTGVmdFw+</entry>
@@ -669,6 +667,8 @@
         <entry encoding="base64">XDxnb2FnYWluXD4=</entry>
         <entry encoding="base64">XDxHT0FHQUlOX1BQSURcPg==</entry>
         <entry>Result</entry>
+        <entry encoding="base64">XDxzdWNjZXNzQ291bnRcPg==</entry>
+        <entry encoding="base64">XDxQcm9wXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
