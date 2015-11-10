@@ -304,8 +304,12 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/impl/Promise.scala" timestamp="1446124005169">
         <mark key="'" line="243" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1447126653201">
-        <mark key="'" line="20" column="9" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1447127249060">
+        <mark key="'" line="230" column="6" />
+        <mark key="[" line="135" column="14" />
+        <mark key="]" line="135" column="19" />
+        <mark key="^" line="135" column="19" />
+        <mark key="." line="135" column="19" />
       </file>
       <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/heartbeats/heartbeats.go" timestamp="1446620792979">
         <mark key="'" line="46" column="51" />
@@ -325,12 +329,12 @@
         <mark key="[" line="176" column="0" />
         <mark key="]" line="177" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447127102697">
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447127286165">
         <mark key="'" line="28" column="10" />
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-        <mark key="^" line="28" column="10" />
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+        <mark key="^" line="35" column="7" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
@@ -493,8 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" />
-      <jump line="82" column="7" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" />
       <jump line="175" column="7" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" />
       <jump line="54" column="20" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
       <jump line="125" column="0" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/gop.go" />
@@ -593,58 +595,60 @@
       <jump line="29" column="10" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="30" column="6" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="28" column="10" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="38" column="6" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
+      <jump line="228" column="6" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testCases</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>testCases</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0Q2FzZXNcPg==</text>
+        <text>zip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vIEluaGVyaXQgYSBuZXQuTGlzdGVuZXIgZnJvbSBvdXIgcGFyZW50IHByb2Nlc3Mgb3IgbGlzdGVuIGFuZXcuCg==</text>
+        <text encoding="base64">ICAvLyBib3RoIGFyZSBub3QgZW1wdHkK</text>
       </register>
       <register name="1" type="4">
-        <text>testCases</text>
+        <text>e</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>testCases</text>
+        <text>r</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>h</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>b</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>testCases</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA/Pz8K</text>
+      <register name="9" type="4">
+        <text>testCases</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0Q2FzZXNcPg==</last-search>
+      <last-search>zip</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0Q2FzZXNcPg==</last-pattern>
+      <last-pattern>zip</last-pattern>
       <last-replace>Gen</last-replace>
       <last-substitute>Gen2</last-substitute>
       <last-dir>1</last-dir>
@@ -652,8 +656,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdGF0ZVw+</entry>
-        <entry encoding="base64">XDxSYW5kXD4=</entry>
         <entry>Init(</entry>
         <entry encoding="base64">XDxpbmlcPg==</entry>
         <entry encoding="base64">XDxHZW5cPg==</entry>
@@ -672,6 +674,8 @@
         <entry>take</entry>
         <entry encoding="base64">XDxnZW5zXD4=</entry>
         <entry encoding="base64">XDx0ZXN0Q2FzZXNcPg==</entry>
+        <entry>from</entry>
+        <entry>zip</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MSwkcy9cPFN0VHlwZVZhbFw+L1N0VHlwZS9n</entry>
