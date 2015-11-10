@@ -322,12 +322,12 @@
         <mark key="[" line="176" column="0" />
         <mark key="]" line="177" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447120958309">
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447121736290">
         <mark key="'" line="90" column="30" />
-        <mark key="[" line="44" column="40" />
-        <mark key="]" line="44" column="43" />
-        <mark key="^" line="44" column="43" />
-        <mark key="." line="44" column="43" />
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
@@ -593,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>???</text>
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>Result</text>
@@ -605,34 +605,34 @@
         <text encoding="base64">CS8vIEluaGVyaXQgYSBuZXQuTGlzdGVuZXIgZnJvbSBvdXIgcGFyZW50IHByb2Nlc3Mgb3IgbGlzdGVuIGFuZXcuCg==</text>
       </register>
       <register name="1" type="4">
-        <text>???</text>
+        <text>Int</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>???</text>
+      <register name="2" type="2">
+        <text encoding="base64">dHlwZSAK</text>
       </register>
       <register name="3" type="4">
-        <text>=</text>
+        <text>???</text>
       </register>
       <register name="4" type="4">
-        <text>!</text>
+        <text>???</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">bmlsIA==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
         <text>=</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text>!</text>
       </register>
-      <register name="9" type="4">
+      <register name="7" type="4">
+        <text encoding="base64">bmlsIA==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="4">
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
