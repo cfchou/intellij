@@ -279,8 +279,8 @@
         <mark key="^" line="74" column="45" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" timestamp="1447145650134">
-        <mark key="'" line="84" column="24" />
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" timestamp="1447148327147">
+        <mark key="'" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/cmd/goagain-example/goagain-example.go" timestamp="1447145314998">
         <mark key="'" line="12" column="17" />
@@ -465,9 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="58" filename="$USER_HOME$/Project/gopath/src/github.com/rcrowley/goagain/legacy.go" />
-      <jump line="48" column="45" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="18" column="7" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="24" column="47" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="7" column="10" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="173" column="11" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
@@ -560,11 +557,14 @@
       <jump line="17" column="16" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file.go" />
       <jump line="29" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file.go" />
       <jump line="30" column="14" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file.go" />
-      <jump line="85" column="23" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
       <jump line="13" column="23" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
       <jump line="84" column="24" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
       <jump line="24" column="8" filename="/usr/local/Cellar/go/1.5.1/libexec/src/os/file_unix.go" />
       <jump line="31" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/os/file_unix.go" />
+      <jump line="85" column="15" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
+      <jump line="26" column="15" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
+      <jump line="14" column="15" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
+      <jump line="439" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/fd_unix.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
