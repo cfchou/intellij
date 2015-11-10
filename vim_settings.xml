@@ -132,8 +132,8 @@
         <mark key="^" line="131" column="10" />
         <mark key="." line="202" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" timestamp="1447144019588">
-        <mark key="'" line="92" column="27" />
+      <file name="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" timestamp="1447144361293">
+        <mark key="'" line="92" column="56" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf150306/src/main/scala/parser/YpParser.scala" timestamp="1431142296630">
         <mark key="'" line="75" column="27" />
@@ -459,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="18" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/goagain_linux.go" />
       <jump line="29" column="20" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
       <jump line="4" column="20" filename="$USER_HOME$/Project/gopath/src/cf.io/tryagain/tryagin.go" />
       <jump line="12" column="20" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/logging.go" />
@@ -558,7 +557,8 @@
       <jump line="207" column="4" filename="/usr/local/Cellar/go/1.5.1/libexec/src/runtime/mfinal.go" />
       <jump line="54" column="16" filename="/usr/local/Cellar/go/1.5.1/libexec/src/os/file_unix.go" />
       <jump line="274" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/runtime/mfinal.go" />
-      <jump line="92" column="27" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
+      <jump line="29" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file.go" />
+      <jump line="92" column="56" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
