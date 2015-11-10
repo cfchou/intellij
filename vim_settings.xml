@@ -322,12 +322,8 @@
         <mark key="[" line="176" column="0" />
         <mark key="]" line="177" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447124150764">
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447125629468">
         <mark key="'" line="7" column="10" />
-        <mark key="[" line="48" column="49" />
-        <mark key="]" line="48" column="50" />
-        <mark key="^" line="48" column="50" />
-        <mark key="." line="48" column="50" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
@@ -593,10 +589,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Count</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Count</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9wXD4=</text>
@@ -605,34 +601,34 @@
         <text encoding="base64">CS8vIEluaGVyaXQgYSBuZXQuTGlzdGVuZXIgZnJvbSBvdXIgcGFyZW50IHByb2Nlc3Mgb3IgbGlzdGVuIGFuZXcuCg==</text>
       </register>
       <register name="1" type="4">
-        <text>Count</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>edCase</text>
+        <text encoding="base64">Y2FzZSA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dHlwZSBUZXN0Q2FzZXMgPSBJbnQKdHlwZSBSZXN1bHQgPSBPcHRpb25bKEZhaWxlZENhc2UsIFN1Y2Nlc3NDb3VudCldCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dHlwZSBUZXN0Q2FzZXMgPSBJbnQKdHlwZSBSZXN1bHQgPSBPcHRpb25bKEZhaWxlZENhc2UsIFN1Y2Nlc3NDb3VudCldCg==</text>
+      <register name="4" type="4">
+        <text>}</text>
       </register>
       <register name="5" type="4">
-        <text>Int</text>
+        <text>???</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dHlwZSAK</text>
+      <register name="6" type="4">
+        <text>Count</text>
       </register>
       <register name="7" type="4">
-        <text>???</text>
+        <text>edCase</text>
       </register>
-      <register name="8" type="4">
-        <text>???</text>
+      <register name="8" type="2">
+        <text encoding="base64">dHlwZSBUZXN0Q2FzZXMgPSBJbnQKdHlwZSBSZXN1bHQgPSBPcHRpb25bKEZhaWxlZENhc2UsIFN1Y2Nlc3NDb3VudCldCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>=</text>
+      <register name="9" type="2">
+        <text encoding="base64">dHlwZSBUZXN0Q2FzZXMgPSBJbnQKdHlwZSBSZXN1bHQgPSBPcHRpb25bKEZhaWxlZENhc2UsIFN1Y2Nlc3NDb3VudCldCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
