@@ -34,12 +34,12 @@
         <mark key="[" line="263" column="0" />
         <mark key="]" line="263" column="56" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1446998549576">
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447172819171">
         <mark key="'" line="35" column="27" />
-        <mark key="[" line="29" column="6" />
-        <mark key="]" line="30" column="35" />
-        <mark key="^" line="30" column="35" />
-        <mark key="." line="30" column="35" />
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf1507/src/main/java/c4/type/Arg2Impl.java" timestamp="1437896104306">
         <mark key="'" line="2" column="41" />
@@ -560,7 +560,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJhaXQgUHJvcCB7Cn0K</text>
       </register>
       <register name="-" type="4">
         <text>???</text>
@@ -572,34 +572,34 @@
         <text encoding="base64">ICB0eXBlIFJhbmRbK0FdID0gUk5HID0+IChBLCBSTkcpCgogIHZhbCBpbnQ6IFJhbmRbSW50XSA9IF8ubmV4dEludAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJhaXQgUHJvcCB7Cn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>???</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgKGEsIHIpID0gaChybmcpCiAgICAgICAgdmFsIChhcywgcjEpID0gc2VxdWVuY2UodCkKICAgICAgICAoYTo6YXMsIHIxKQo=</text>
-      </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>???</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
         <text>???</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgKGEsIHIpID0gaChybmcpCiAgICAgICAgdmFsIChhcywgcjEpID0gc2VxdWVuY2UodCkKICAgICAgICAoYTo6YXMsIHIxKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>int</text>
+        <text>???</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
