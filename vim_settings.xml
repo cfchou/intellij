@@ -304,8 +304,8 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/impl/Promise.scala" timestamp="1446124005169">
         <mark key="'" line="243" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1447127249060">
-        <mark key="'" line="230" column="6" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1447135520780">
+        <mark key="'" line="147" column="12" />
         <mark key="[" line="135" column="14" />
         <mark key="]" line="135" column="19" />
         <mark key="^" line="135" column="19" />
@@ -329,12 +329,12 @@
         <mark key="[" line="176" column="0" />
         <mark key="]" line="177" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447127286165">
-        <mark key="'" line="28" column="10" />
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="35" column="7" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="7" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447135812957">
+        <mark key="'" line="77" column="26" />
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="12" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
@@ -497,11 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="7" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" />
-      <jump line="54" column="20" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
-      <jump line="125" column="0" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/gop.go" />
-      <jump line="159" column="0" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/gop.go" />
-      <jump line="105" column="0" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/gop.go" />
       <jump line="130" column="16" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/gop.go" />
       <jump line="33" column="9" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/gop.go" />
       <jump line="140" column="0" filename="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/gop.go" />
@@ -577,7 +572,6 @@
       <jump line="68" column="2" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="70" column="32" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="72" column="6" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="77" column="7" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="78" column="45" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="79" column="4" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="85" column="24" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
@@ -597,58 +591,64 @@
       <jump line="28" column="10" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="38" column="6" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="228" column="6" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
+      <jump line="135" column="19" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
+      <jump line="179" column="12" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
+      <jump line="147" column="12" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
+      <jump line="32" column="18" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="77" column="26" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="51" column="11" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgID8/Pwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>zip</text>
+        <text>find</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBib3RoIGFyZSBub3QgZW1wdHkK</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgID8/Pwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>h</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>h</text>
       </register>
       <register name="7" type="4">
-        <text>b</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>testCases</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>testCases</text>
+        <text>b</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>zip</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern>zip</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-replace>Gen</last-replace>
       <last-substitute>Gen2</last-substitute>
       <last-dir>1</last-dir>
@@ -656,8 +656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Init(</entry>
-        <entry encoding="base64">XDxpbmlcPg==</entry>
         <entry encoding="base64">XDxHZW5cPg==</entry>
         <entry>double</entry>
         <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
@@ -676,6 +674,8 @@
         <entry encoding="base64">XDx0ZXN0Q2FzZXNcPg==</entry>
         <entry>from</entry>
         <entry>zip</entry>
+        <entry>seque</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MSwkcy9cPFN0VHlwZVZhbFw+L1N0VHlwZS9n</entry>
