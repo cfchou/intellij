@@ -149,11 +149,12 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1447138288602">
-        <mark key="'" line="53" column="20" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="42" />
-        <mark key="." line="23" column="30" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1447139459194">
+        <mark key="'" line="70" column="20" />
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" timestamp="1447137822509">
         <mark key="'" line="26" column="0" />
@@ -251,12 +252,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/TreeMap.scala" timestamp="1442370194015">
         <mark key="'" line="130" column="85" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/errorhandling/Option.scala" timestamp="1446040994532">
-        <mark key="'" line="62" column="6" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" timestamp="1446392826343">
         <mark key="'" line="163" column="11" />
       </file>
@@ -311,12 +306,6 @@
         <mark key="^" line="135" column="19" />
         <mark key="." line="135" column="19" />
       </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/heartbeats/heartbeats.go" timestamp="1446620792979">
-        <mark key="'" line="46" column="51" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/02_playground/cf1507/src/main/java/c4/type/TyTypeImpl.java" timestamp="1437896083171">
         <mark key="'" line="9" column="12" />
         <mark key="[" line="8" column="0" />
@@ -335,12 +324,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
-      </file>
-      <file name="$USER_HOME$/Project/02_playground/gtry/again/grace.go" timestamp="1445506214933">
-        <mark key="'" line="70" column="19" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="27" />
-        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_scala_libs/kafka/config/server.properties" timestamp="1429870663034">
         <mark key="'" line="83" column="1" />
@@ -404,12 +387,6 @@
       <file name="$USER_HOME$/Project/tellus_mac/src/github.com/trendmicro/gop/config.go" timestamp="1447052848967">
         <mark key="'" line="54" column="19" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Nonblocking.scala" timestamp="1446997695926">
-        <mark key="'" line="157" column="7" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="86" column="3" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/02_playground/cf150306/src/main/scala/tmp/EasyConsumerApp.scala" timestamp="1429682849791">
         <mark key="'" line="49" column="16" />
         <mark key="[" line="41" column="0" />
@@ -430,12 +407,6 @@
         <mark key="]" line="346" column="8" />
         <mark key="^" line="345" column="8" />
         <mark key="." line="346" column="8" />
-      </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/notes.go" timestamp="1446625296710">
-        <mark key="'" line="241" column="0" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf150306/src/main/scala/tmp/ProducerApp.scala" timestamp="1430020301826">
         <mark key="'" line="91" column="24" />
@@ -479,18 +450,6 @@
         <mark key="]" line="140" column="43" />
         <mark key="^" line="482" column="7" />
         <mark key="." line="482" column="7" />
-      </file>
-      <file name="$USER_HOME$/Project/02_playground/gtry/rv2/rv2.go" timestamp="1444541843725">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-      </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" timestamp="1446633297593">
-        <mark key="'" line="229" column="19" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -596,47 +555,47 @@
       <jump line="26" column="0" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZS4K</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdhcy5maW5kKHs=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>modify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHg6IE9wdGlvblsoR2VuW0FdLCBJbnQpXSA9IGdhcy5maW5kKHsKICAgICAgICBjYXNlIChnYSwgaSkgPT4KICAgICAgICAgIHZhbCAoYSwgcykgPSBnYS5zYW1wbGUucnVuKHJuZykKICAgICAgICAgICFmKGEpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHZhbCAoZDEsIHIxKSA9IGRvdWJsZShybmcpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZS4K</text>
+      <register name="1" type="4">
+        <text>r</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RpZnkK</text>
+      <register name="2" type="4">
+        <text>ng</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Pz8/CiAgICAgIA==</text>
+        <text>ng</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIChnYSwgaSkgPT4KICAgICAgICAgIHZhbCAoYSwgcykgPSBnYS5zYW1wbGUucnVuKHJuZykKICAgICAgICAgICFmKGEpCiAgICAgIH0pCg==</text>
+      <register name="4" type="4">
+        <text>???</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGdhcy5maW5kKHs=</text>
+        <text>???</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCAoaSwgcikgPSBub25OZWdhdGl2ZUludChybmcpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnYXMuZmluZCh7CiAgICAgICAgICBjYXNlIChnYSwgaSkgPT4KICAgICAgICAgICAgdmFsIChhLCBzKSA9IGdhLnNhbXBsZS5ydW4ocm5nKQogICAgICAgICAgICAhZihhKQogICAgICAgIH0pCg==</text>
+      <register name="7" type="4">
+        <text>???</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGZpbmRXaXRoUm5nKHI6IFJORyk6IE9wdGlvblsoR2VuW0FdLCBJbnQpXSA9IHsK</text>
+      <register name="9" type="4">
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
