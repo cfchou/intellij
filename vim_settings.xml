@@ -191,12 +191,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1446998316549">
-        <mark key="'" line="4" column="109" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="21" column="31" />
-        <mark key="^" line="71" column="16" />
-        <mark key="." line="71" column="16" />
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1447165537719">
+        <mark key="'" line="81" column="22" />
+        <mark key="[" line="92" column="59" />
+        <mark key="]" line="92" column="65" />
+        <mark key="." line="92" column="65" />
+        <mark key="^" line="92" column="65" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/play-scala/build.sbt" timestamp="1434348729377">
         <mark key="'" line="22" column="25" />
@@ -250,6 +250,9 @@
         <mark key="]" line="71" column="0" />
         <mark key="^" line="74" column="45" />
         <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/package.scala" timestamp="1447165305206">
+        <mark key="'" line="55" column="45" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/play-scala/conf/persistence.xml" timestamp="1433492944159">
         <mark key="'" line="5" column="28" />
@@ -454,7 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="21" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="19" column="132" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="34" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="118" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/laziness/Stream.scala" />
@@ -553,14 +555,15 @@
       <jump line="21" column="25" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
       <jump line="4" column="109" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
       <jump line="35" column="27" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="81" column="11" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
+      <jump line="81" column="22" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
+      <jump line="55" column="45" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/package.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXh0SW50XD4=</text>
@@ -575,28 +578,28 @@
         <text />
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>???</text>
       </register>
-      <register name="3" type="4">
-        <text>int</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgKGEsIHIpID0gaChybmcpCiAgICAgICAgdmFsIChhcywgcjEpID0gc2VxdWVuY2UodCkKICAgICAgICAoYTo6YXMsIHIxKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>???</text>
       </register>
       <register name="6" type="4">
-        <text>Double</text>
+        <text>???</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBmb28oZTogRXhlY3V0b3JTZXJ2aWNlKTogVW5pdCA9IHsKICAgICAgcnVuKGUpKGZvcmsoZm9yayh1bml0KDEpKSkpCiAgICAgID09PgogICAgICBmb3JrKGZvcmsodW5pdCgxKSkpKGUpIHsuLi59CiAgICAgID09PgogICAgICAoZXMgPT4gbmV3IEZ1dHVyZVtBXSB7CiAgICAgICAgZGVmIGFwcGx5KGNiOiAoQSkgPT4gVW5pdCk6IFVuaXQgPSB7CiAgICAgICAgICBlcy5zdWJtaXQobmV3IENhbGxhYmxlW1VuaXRdewogICAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKGZvcmsodW5pdCgxKSkpKGVzKShjYikKICAgICAgICAgIH0pCiAgICAgICAgfQogICAgICB9KShlKXsuLi59CiAgICAgID09PgogICAgICBuZXcgRnV0dXJlW0FdIHsKICAgICAgICBkZWYgYXBwbHkoY2I6IChBKSA9PiBVbml0KTogVW5pdCA9IHsKICAgICAgICAgIGUuc3VibWl0KG5ldyBDYWxsYWJsZVtVbml0XXsKICAgICAgICAgICAgb3ZlcnJpZGUgZGVmIGNhbGwoKTogVW5pdCA9IChmb3JrKHVuaXQoMSkpKShlKShjYikKICAgICAgICAgIH0pCiAgICAgICAgfXsuLi59CiAgICAgID09PgogICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgb3ZlcnJpZGUgZGVmIGNhbGwoKTogVW5pdCA9IChmb3JrKHVuaXQoMSkpKShlKSh7Li4ufSkKICAgICAgfSkKICAgICAgPT0+CiAgICAgIGUuc3VibWl0KG5ldyBDYWxsYWJsZVtVbml0XXsKICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0KICAgICAgICAvLyBgc3VibWl0YCBkb2Vzbid0IGJsb2NrIGBjYWxsYAogICAgICAgICAgZS5zdWJtaXQobmV3IENhbGxhYmxlW1VuaXRdewogICAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKHVuaXQoMSkpKGUpKHsuLi59KQogICAgICAgICAgfSkKICAgICAgfSkKICAgICAgPT0+CiAgICAgIGUuc3VibWl0KG5ldyBDYWxsYWJsZVtVbml0XXsKICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKGZvcmsodW5pdCgxKSkpKGUpKHsuLi59KQogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBgc3VibWl0YCBkb2Vzbid0IGJsb2NrIGBjYWxsYAo=</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlLnN1Ym1pdChuZXcgQ2FsbGFibGVbVW5pdF17CiAgICAgICAgICBvdmVycmlkZSBkZWYgY2FsbCgpOiBVbml0ID0gKHVuaXQoMSkpKGUpKHsuLi59KQogICAgICAgIH0pCiAgICB9KQo=</text>
+      <register name="9" type="4">
+        <text>int</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
