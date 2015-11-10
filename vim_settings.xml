@@ -279,8 +279,8 @@
         <mark key="^" line="74" column="45" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" timestamp="1447145493878">
-        <mark key="'" line="85" column="23" />
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" timestamp="1447145650134">
+        <mark key="'" line="84" column="24" />
       </file>
       <file name="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/cmd/goagain-example/goagain-example.go" timestamp="1447145314998">
         <mark key="'" line="12" column="17" />
@@ -288,8 +288,8 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/os/env.go" timestamp="1447064748288">
         <mark key="'" line="79" column="20" />
       </file>
-      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/os/file_unix.go" timestamp="1447143827099">
-        <mark key="'" line="54" column="16" />
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/os/file_unix.go" timestamp="1447145660318">
+        <mark key="'" line="24" column="8" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/play-scala/conf/persistence.xml" timestamp="1433492944159">
         <mark key="'" line="5" column="28" />
@@ -465,9 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
-      <jump line="20" column="32" filename="$USER_HOME$/Project/gopath/src/github.com/rcrowley/goagain/example/legacy/main.go" />
-      <jump line="20" column="37" filename="$USER_HOME$/Project/gopath/src/github.com/rcrowley/goagain/legacy.go" />
       <jump line="16" column="58" filename="$USER_HOME$/Project/gopath/src/github.com/rcrowley/goagain/legacy.go" />
       <jump line="48" column="45" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="18" column="7" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
@@ -565,6 +562,9 @@
       <jump line="30" column="14" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file.go" />
       <jump line="85" column="23" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
       <jump line="13" column="23" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
+      <jump line="84" column="24" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/file_unix.go" />
+      <jump line="24" column="8" filename="/usr/local/Cellar/go/1.5.1/libexec/src/os/file_unix.go" />
+      <jump line="31" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/os/file_unix.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -574,7 +574,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaWxlTGlzdGVuZXJcPg==</text>
+        <text>sysfd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCAoYSwgcikgPSByYShybmcpCg==</text>
@@ -614,9 +614,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGaWxlTGlzdGVuZXJcPg==</last-search>
+      <last-search>sysfd</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaWxlTGlzdGVuZXJcPg==</last-pattern>
+      <last-pattern>sysfd</last-pattern>
       <last-replace>Gen</last-replace>
       <last-substitute>Gen2</last-substitute>
       <last-dir>1</last-dir>
@@ -624,8 +624,6 @@
     </search>
     <history>
       <history-search>
-        <entry>seque</entry>
-        <entry>find</entry>
         <entry>modify</entry>
         <entry encoding="base64">XDxFbXB0eVw+</entry>
         <entry>Empty</entry>
@@ -644,6 +642,8 @@
         <entry encoding="base64">XDxBd2FpdFNpZ25hbHNcPg==</entry>
         <entry encoding="base64">XDxsXD4=</entry>
         <entry encoding="base64">XDxGaWxlTGlzdGVuZXJcPg==</entry>
+        <entry encoding="base64">XDxmaWxlXD4=</entry>
+        <entry>sysfd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MSwkcy9cPFN0VHlwZVZhbFw+L1N0VHlwZS9n</entry>
