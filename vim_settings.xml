@@ -149,12 +149,12 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1447209125951">
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1447216089068">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="77" column="18" />
-        <mark key="]" line="77" column="21" />
-        <mark key="^" line="77" column="21" />
-        <mark key="." line="77" column="21" />
+        <mark key="[" line="76" column="22" />
+        <mark key="]" line="76" column="27" />
+        <mark key="^" line="76" column="27" />
+        <mark key="." line="76" column="27" />
       </file>
       <file name="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" timestamp="1447208456843">
         <mark key="'" line="236" column="9" />
