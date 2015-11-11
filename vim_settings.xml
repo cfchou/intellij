@@ -149,15 +149,15 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1447141066736">
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1447209125951">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="83" column="17" />
-        <mark key="." line="87" column="0" />
+        <mark key="[" line="77" column="18" />
+        <mark key="]" line="77" column="21" />
+        <mark key="^" line="77" column="21" />
+        <mark key="." line="77" column="21" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" timestamp="1447140797213">
-        <mark key="'" line="215" column="0" />
+      <file name="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" timestamp="1447208456843">
+        <mark key="'" line="236" column="9" />
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="43" />
       </file>
@@ -465,9 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="7" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="83" column="18" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="85" column="26" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="45" column="1" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="68" column="2" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="70" column="32" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
@@ -565,58 +562,61 @@
       <jump line="439" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/fd_unix.go" />
       <jump line="160" column="42" filename="$USER_HOME$/Project/tellus_mac/src/github.com/rcrowley/goagain/goagain.go" />
       <jump line="786" column="15" filename="/usr/local/Cellar/go/1.5.1/libexec/src/reflect/value.go" />
+      <jump line="192" column="11" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" />
+      <jump line="204" column="6" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" />
+      <jump line="236" column="9" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlXD4=</text>
+        <text>sequence</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCAoYSwgcikgPSByYShybmcpCg==</text>
+        <text encoding="base64">ICBkZWYgc2VxdWVuY2VbQV0oZnM6IExpc3RbUmFuZFtBXV0pOiBSYW5kW0xpc3RbQV1dID0gcm5nID0+IHsKICAgIGZzLmZvbGRSaWdodFsoTGlzdFtBXSwgUk5HKV0oKE5pbCwgcm5nKSkoKHJhLCBiKSA9PiB7CiAgICAgIHZhbCAoaSwgcikgPSByYShiLl8yKQogICAgICAoaTo6Yi5fMSwgcikKICAgIH0pCiAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+      <register name="3" type="4">
+        <text>b</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdmFsIChpLCByKSA9IHJhKGIuXzIpCiAgICAgIChpOjpiLl8xLCByKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlXD4=</last-search>
+      <last-search>sequence</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlXD4=</last-pattern>
+      <last-pattern>sequence</last-pattern>
       <last-replace>Gen</last-replace>
       <last-substitute>Gen2</last-substitute>
       <last-dir>1</last-dir>
@@ -624,7 +624,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Empty</entry>
         <entry encoding="base64">XDxzZXF1ZW5jZVw+</entry>
         <entry encoding="base64">XDxSYW5kXD4=</entry>
         <entry encoding="base64">XDxtYXRjaFw+</entry>
@@ -644,6 +643,7 @@
         <entry encoding="base64">XDxyZWZsZWN0XD4=</entry>
         <entry encoding="base64">XDxmXD4=</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
+        <entry>sequence</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MSwkcy9cPFN0VHlwZVZhbFw+L1N0VHlwZS9n</entry>
