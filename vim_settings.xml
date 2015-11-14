@@ -21,6 +21,9 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/time/time.go" timestamp="1443951737120">
         <mark key="'" line="20" column="36" />
       </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447480513792">
+        <mark key="[" line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
       </file>
@@ -115,6 +118,9 @@
         <mark key="]" line="193" column="27" />
         <mark key="." line="193" column="27" />
         <mark key="^" line="193" column="27" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/dial.go" timestamp="1447479177881">
+        <mark key="'" line="386" column="12" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
@@ -292,6 +298,9 @@
         <mark key="^" line="66" column="56" />
         <mark key="." line="66" column="56" />
       </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/tcpsock_posix.go" timestamp="1447479150193">
+        <mark key="'" line="319" column="34" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
       </file>
@@ -465,15 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="147" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="154" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="169" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="57" column="22" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="231" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="74" column="11" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="179" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="169" column="18" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="183" column="3" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="21" column="31" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
       <jump line="140" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
@@ -565,58 +565,67 @@
       <jump line="58" column="47" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="59" column="25" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
       <jump line="38" column="34" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="8" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="319" column="34" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/tcpsock_posix.go" />
+      <jump line="7" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/tcpsock.go" />
+      <jump line="7" column="13" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="386" column="12" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/dial.go" />
+      <jump line="387" column="44" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/dial.go" />
+      <jump line="11" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="14" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="46" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cihub/seelog/common_loglevel.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlsb2cuZXJyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>addr</text>
       </register>
       <register name="/" type="4">
-        <text>Gen</text>
+        <text encoding="base64">XDxuZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZtdC5QcmludGxuKCJDb25uZWN0Li4uIikK</text>
       </register>
-      <register name="1" type="4">
-        <text>n</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlsb2cuZXJyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>l</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlsb2cuRXJyb3JTdHIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">CSJieXRlcyIK</text>
       </register>
-      <register name="4" type="4">
-        <text>prefix +</text>
+      <register name="4" type="2">
+        <text encoding="base64">CSJsb2ciCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CXZhciBidWYgYnl0ZXMuQnVmZmVyCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWxvZ2dlciA6PSBsb2cuTmV3KCZidWYsICkK</text>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlsb2cuCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQlzdHJjb252Lkl0b2EocmFuZC5JbnQoKSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlsb2cuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW5ldC5MaXN0ZW5UQ1AoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Gen</last-search>
+      <last-search encoding="base64">XDxuZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>Gen</last-pattern>
+      <last-pattern encoding="base64">XDxuZXRcPg==</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -624,8 +633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>Side</entry>
         <entry encoding="base64">XDxEZWxldGVTaWRlRWZmZWN0c1w+</entry>
         <entry>StoreDe</entry>
         <entry encoding="base64">XDxTdG9yZURlbGV0ZVw+</entry>
@@ -644,6 +651,8 @@
         <entry encoding="base64">XDxuZXh0SW50XD4=</entry>
         <entry>Cons</entry>
         <entry>Gen</entry>
+        <entry>TcpL</entry>
+        <entry encoding="base64">XDxuZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
@@ -663,8 +672,8 @@
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry>qw</entry>
         <entry>100</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
