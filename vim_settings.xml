@@ -21,10 +21,12 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/time/time.go" timestamp="1443951737120">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447559735297">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447578179077">
+        <mark key="'" line="57" column="21" />
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="12" />
+        <mark key="." line="57" column="12" />
+        <mark key="^" line="57" column="12" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -262,6 +264,9 @@
         <mark key="^" line="74" column="45" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" timestamp="1447578444460">
+        <mark key="'" line="59" column="13" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447173112671">
         <mark key="'" line="59" column="25" />
         <mark key="[" line="157" column="0" />
@@ -272,6 +277,10 @@
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/package.scala" timestamp="1447165305206">
         <mark key="'" line="55" column="45" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" timestamp="1447578322453">
+        <mark key="'" line="33" column="21" />
+        <mark key="." line="8" column="320" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/play-scala/conf/persistence.xml" timestamp="1433492944159">
         <mark key="'" line="5" column="28" />
@@ -483,12 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="188" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="234" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="26" column="64" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="205" column="8" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="210" column="36" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="229" column="19" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="65" column="18" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="332" column="17" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Option.scala" />
@@ -583,58 +586,64 @@
       <jump line="155" column="27" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
       <jump line="52" column="51" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="85" column="18" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
+      <jump line="6" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="23" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
+      <jump line="57" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
+      <jump line="33" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
+      <jump line="59" column="13" filename="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuYyAK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmZcPg==</text>
+        <text encoding="base64">XDxidWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWxvZy5FcnJvcigidGVzdFNjYW46IHNjYW4gIiArIHNjYW5uZXIuRXJyKCkuRXJyb3IoKSkK</text>
+        <text encoding="base64">CS8vbWVzc2FnZS5EZXRlY3RNZXNzYWdlKGIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnVuYyAK</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnVuYyBoYW5kbGVDb25uUmVhZGVyKHJlYWRlciAqY29ubikK</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSovCg==</text>
+      <register name="3" type="4">
+        <text>//</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZnVuYyAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuYyBoYW5kbGVDb25uUmVhZGVyKHJlYWRlciAqY29ubikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSovCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CS8qCglyZWFkZXIgOj0gYnVmaW8uTmV3UmVhZGVyKGZpbikKCXRlc3RSZWFkMShyZWFkZXIpCgkqLwoKCXNjYW5uZXIgOj0gYnVmaW8uTmV3U2Nhbm5lcihmaW4pCgl0ZXN0U2NhbihzY2FubmVyKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>(</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
-      </register>
-      <register name="7" type="4">
-        <text>r</text>
-      </register>
-      <register name="8" type="4">
-        <text>E</text>
-      </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmZcPg==</last-search>
+      <last-search encoding="base64">XDxidWZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmZcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxidWZcPg==</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -642,8 +651,6 @@
     </search>
     <history>
       <history-search>
-        <entry>batchD</entry>
-        <entry encoding="base64">XDxiaWdOb3RlTGlzdEhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
         <entry>unit</entry>
         <entry encoding="base64">XDxrXD4=</entry>
@@ -662,6 +669,8 @@
         <entry>ReadBytes</entry>
         <entry encoding="base64">XDxSZWFkTGluZVw+</entry>
         <entry encoding="base64">XDxpbmZcPg==</entry>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxidWZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/StTypeGen/StTypeVal/g</entry>
