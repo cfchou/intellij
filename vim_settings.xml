@@ -21,11 +21,11 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/time/time.go" timestamp="1443951737120">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447557480310">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="19" />
-        <mark key="^" line="26" column="19" />
-        <mark key="." line="26" column="19" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447558417060">
+        <mark key="'" line="42" column="32" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -366,8 +366,8 @@
         <mark key="." line="64" column="34" />
         <mark key="^" line="64" column="34" />
       </file>
-      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" timestamp="1447554396544">
-        <mark key="'" line="144" column="24" />
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" timestamp="1447558511809">
+        <mark key="'" line="96" column="17" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1447173008522">
         <mark key="'" line="4" column="6" />
@@ -484,12 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="24" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="196" column="89" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="195" column="22" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="142" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="191" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="929" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" />
       <jump line="354" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
       <jump line="362" column="70" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
@@ -584,49 +578,55 @@
       <jump line="28" column="18" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="290" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="27" column="30" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="32" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="75" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="36" column="40" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="42" column="32" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="96" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
+      <jump line="31" column="39" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWxvZy5EZWJ1Z2YoIiVkIGJ5dGVzXG4iLCBuKQo=</text>
+        <text encoding="base64">CXNjYW5uZXIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmZcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiVkIGJ5dGVzXG4iLCBuKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHJvbXB0SGVhZGVyTGVuZ3RoIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxvZy5EZWJ1Z2YoIiVkIGJ5dGVzXG4iLCBuKQo=</text>
+        <text encoding="base64">CXNjYW5uZXIuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CW4gOj0gcmVhZGVyLkJ1ZmZlcmVkKCkK</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiVkIGJ5dGVzXG4iLCBuKQo=</text>
+      <register name="3" type="4">
+        <text>(</text>
       </register>
       <register name="4" type="4">
         <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>f</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>5</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
