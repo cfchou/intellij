@@ -21,11 +21,10 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/time/time.go" timestamp="1443951737120">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447559422371">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="30" column="5" />
-        <mark key="." line="30" column="5" />
-        <mark key="^" line="30" column="5" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447559735297">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -586,8 +585,8 @@
       <jump line="85" column="18" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuYyAK</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -598,35 +597,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCWxvZy5FcnJvcigidGVzdFNjYW46IHNjYW4gIiArIHNjYW5uZXIuRXJyKCkuRXJyb3IoKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>(</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnVuYyAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>r</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnVuYyBoYW5kbGVDb25uUmVhZGVyKHJlYWRlciAqY29ubikK</text>
       </register>
-      <register name="3" type="4">
-        <text>r</text>
+      <register name="3" type="2">
+        <text encoding="base64">CSovCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>E</text>
+      <register name="4" type="2">
+        <text encoding="base64">CS8qCglyZWFkZXIgOj0gYnVmaW8uTmV3UmVhZGVyKGZpbikKCXRlc3RSZWFkMShyZWFkZXIpCgkqLwoKCXNjYW5uZXIgOj0gYnVmaW8uTmV3U2Nhbm5lcihmaW4pCgl0ZXN0U2NhbihzY2FubmVyKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
         <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>E</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
