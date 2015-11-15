@@ -21,12 +21,11 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/time/time.go" timestamp="1443951737120">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447595790030">
-        <mark key="'" line="60" column="23" />
-        <mark key="[" line="64" column="5" />
-        <mark key="]" line="65" column="5" />
-        <mark key="^" line="65" column="5" />
-        <mark key="." line="65" column="5" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447596612067">
+        <mark key="'" line="52" column="19" />
+        <mark key="[" line="68" column="10" />
+        <mark key="]" line="68" column="10" />
+        <mark key="." line="68" column="10" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -570,7 +569,6 @@
       <jump line="18" column="6" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="23" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="26" column="11" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="184" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="28" column="18" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="290" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="27" column="30" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
@@ -583,7 +581,6 @@
       <jump line="96" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
       <jump line="50" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="155" column="27" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
-      <jump line="52" column="51" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="85" column="18" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
       <jump line="6" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="57" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
@@ -595,13 +592,15 @@
       <jump line="60" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="23" column="37" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
       <jump line="27" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/message_type.go" />
+      <jump line="52" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="184" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWZcPg==</text>
@@ -610,34 +609,34 @@
         <text encoding="base64">CS8vbWVzc2FnZS5EZXRlY3RNZXNzYWdlKGIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>f</text>
+        <text>:</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>f</text>
+        <text>b</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
-      </register>
-      <register name="4" type="4">
         <text>(</text>
       </register>
+      <register name="4" type="4">
+        <text>n</text>
+      </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>-</text>
       </register>
       <register name="9" type="4">
-        <text>E</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
