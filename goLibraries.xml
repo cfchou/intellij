@@ -1,5 +1,8 @@
 <application>
   <component name="GoLibraries">
+    <option name="urls">
+      <set />
+    </option>
     <option name="useGoPathFromSystemEnvironment" value="false" />
   </component>
 </application>
