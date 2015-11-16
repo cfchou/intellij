@@ -21,12 +21,12 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/time/time.go" timestamp="1443951737120">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447689228719">
-        <mark key="'" line="60" column="10" />
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447691412658">
+        <mark key="'" line="126" column="4" />
+        <mark key="[" line="169" column="45" />
+        <mark key="]" line="169" column="44" />
+        <mark key="." line="169" column="44" />
+        <mark key="^" line="169" column="44" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -285,10 +285,10 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/package.scala" timestamp="1447165305206">
         <mark key="'" line="55" column="45" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" timestamp="1447689077490">
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" timestamp="1447691211831">
         <mark key="'" line="33" column="22" />
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="50" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="42" />
         <mark key="." line="23" column="50" />
         <mark key="^" line="23" column="50" />
       </file>
@@ -472,14 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqtt.go" />
-      <jump line="424" column="14" filename="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqtt.go" />
-      <jump line="150" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/huin/mqtt/mqtt.go" />
-      <jump line="516" column="31" filename="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqtt.go" />
-      <jump line="154" column="40" filename="$USER_HOME$/Project/gopath/src/github.com/huin/mqtt/mqtt.go" />
-      <jump line="53" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/huin/mqtt/messages.go" />
-      <jump line="30" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="75" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
       <jump line="60" column="30" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="66" column="28" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="70" column="40" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
@@ -550,71 +542,79 @@
       <jump line="142" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="148" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="70" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="30" column="17" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
       <jump line="143" column="15" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="61" column="18" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="290" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="138" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="112" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="64" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="122" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="58" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="91" column="11" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="191" column="26" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="101" column="28" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
       <jump line="185" column="26" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="72" column="29" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="33" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
-      <jump line="59" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" />
       <jump line="62" column="27" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="95" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="144" column="16" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="20" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="49" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="60" column="10" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="20" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="67" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="122" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
+      <jump line="74" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="30" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
+      <jump line="84" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="33" column="14" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
+      <jump line="51" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" />
+      <jump line="79" column="34" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="81" column="40" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="59" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" />
+      <jump line="175" column="34" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="125" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVrSGVhZGVyTGVuZ3RoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlsb2cuRXJyb3IoInRlc3RSZWFkMyBmYWlsZWQ6IFBlYWsgIiArIGUuRXJyb3IoKSkK</text>
+        <text encoding="base64">CQlyZWFzb24gOj0gZm10LlNwcmludGYoIm1hbGZvcm1lZDogbXQ9JXMiLCBtdC5TdHJpbmcoKSkKCQlsb2cuRXJyb3IocmVhc29uKQoJCXJldHVybiBuaWwsIGVycm9ycy5OZXcocmVhc29uKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>5</text>
+        <text>m</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>:</text>
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>m</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>r</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="7" type="4">
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
