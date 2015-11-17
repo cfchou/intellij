@@ -21,12 +21,12 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/time/time.go" timestamp="1443951737120">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447732289569">
-        <mark key="'" line="155" column="25" />
-        <mark key="[" line="155" column="60" />
-        <mark key="]" line="155" column="60" />
-        <mark key="^" line="155" column="60" />
-        <mark key="." line="155" column="60" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447692881112">
+        <mark key="'" line="78" column="25" />
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="4" />
+        <mark key="^" line="93" column="5" />
+        <mark key="." line="93" column="4" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -44,6 +44,13 @@
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447174379294">
         <mark key="'" line="39" column="34" />
         <mark key="[" line="45" column="5" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/message_type.go" timestamp="1447597900574">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="82" column="25" />
+        <mark key="]" line="82" column="24" />
+        <mark key="^" line="82" column="24" />
+        <mark key="." line="82" column="24" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf1507/src/main/java/c4/type/Arg2Impl.java" timestamp="1437896104306">
         <mark key="'" line="2" column="41" />
@@ -102,8 +109,8 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" timestamp="1447742765951">
-        <mark key="'" line="105" column="28" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" timestamp="1447683337542">
+        <mark key="'" line="108" column="15" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/build.gradle" timestamp="1436420660864">
         <mark key="'" line="0" column="0" />
@@ -126,6 +133,9 @@
         <mark key="." line="193" column="27" />
         <mark key="^" line="193" column="27" />
       </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/dial.go" timestamp="1447479177881">
+        <mark key="'" line="386" column="12" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="142" column="0" />
@@ -146,6 +156,9 @@
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqttsrv/main.go" timestamp="1447482568693">
+        <mark key="'" line="68" column="12" />
       </file>
       <file name="$USER_HOME$/Project/02_java_libs/mapdb/src/main/java/org/mapdb/BTreeMap.java" timestamp="1443417471584">
         <mark key="'" line="3806" column="24" />
@@ -186,6 +199,9 @@
       <file name="$USER_HOME$/Project/02_playground/gazer/twothreeMain.go" timestamp="1442298975903">
         <mark key="'" line="11" column="10" />
       </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/io/ioutil/ioutil.go" timestamp="1447682852335">
+        <mark key="'" line="32" column="23" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1446383037564">
         <mark key="'" line="169" column="18" />
         <mark key="[" line="163" column="0" />
@@ -205,6 +221,9 @@
         <mark key="." line="92" column="65" />
         <mark key="^" line="92" column="65" />
       </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" timestamp="1447687700640">
+        <mark key="'" line="138" column="17" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/play-scala/build.sbt" timestamp="1434348729377">
         <mark key="'" line="22" column="25" />
         <mark key="[" line="29" column="2" />
@@ -221,12 +240,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/TreeMap.scala" timestamp="1442370194015">
         <mark key="'" line="130" column="85" />
-      </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/errorhandling/Option.scala" timestamp="1446040994532">
-        <mark key="'" line="62" column="6" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" timestamp="1446392826343">
         <mark key="'" line="163" column="11" />
@@ -258,13 +271,26 @@
         <mark key="^" line="74" column="45" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" timestamp="1447578444460">
+        <mark key="'" line="59" column="13" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447173112671">
         <mark key="'" line="59" column="25" />
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="42" />
       </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/huin/mqtt/mqtt.go" timestamp="1447518296841">
+        <mark key="'" line="154" column="40" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/package.scala" timestamp="1447165305206">
         <mark key="'" line="55" column="45" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" timestamp="1447691211831">
+        <mark key="'" line="33" column="22" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="42" />
+        <mark key="." line="23" column="50" />
+        <mark key="^" line="23" column="50" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/play-scala/conf/persistence.xml" timestamp="1433492944159">
         <mark key="'" line="5" column="28" />
@@ -290,22 +316,17 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/heartbeats/heartbeats.go" timestamp="1446620792979">
-        <mark key="'" line="46" column="51" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/tmp/tmp.go" timestamp="1447741833910">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="269" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" timestamp="1446805520542">
         <mark key="[" line="66" column="53" />
         <mark key="]" line="66" column="56" />
         <mark key="^" line="66" column="56" />
         <mark key="." line="66" column="56" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/tcpsock_posix.go" timestamp="1447479150193">
+        <mark key="'" line="319" column="34" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/header.go" timestamp="1447597821923">
+        <mark key="'" line="80" column="107" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
@@ -315,12 +336,6 @@
         <mark key="]" line="11" column="41" />
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
-      </file>
-      <file name="$USER_HOME$/Project/02_playground/gtry/again/grace.go" timestamp="1445506214933">
-        <mark key="'" line="70" column="19" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="27" />
-        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_scala_libs/kafka/config/server.properties" timestamp="1429870663034">
         <mark key="'" line="83" column="1" />
@@ -360,6 +375,9 @@
         <mark key="." line="64" column="34" />
         <mark key="^" line="64" column="34" />
       </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" timestamp="1447558511809">
+        <mark key="'" line="96" column="17" />
+      </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" timestamp="1447173008522">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="7" column="0" />
@@ -387,16 +405,6 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/answerkey/parallelism/03.hint.txt" timestamp="1446626394500">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="221" />
-      </file>
-      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Nonblocking.scala" timestamp="1446997695926">
-        <mark key="'" line="157" column="7" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="86" column="3" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/02_playground/cf150306/src/main/scala/tmp/EasyConsumerApp.scala" timestamp="1429682849791">
         <mark key="'" line="49" column="16" />
         <mark key="[" line="41" column="0" />
@@ -411,25 +419,12 @@
         <mark key="^" line="214" column="32" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" timestamp="1447742510375">
-        <mark key="'" line="161" column="25" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="0" column="11" />
-      </file>
       <file name="$USER_HOME$/Project/02_go_libs/00_gods/src/github.com/emirpasic/gods/trees/twothree/twothree.go" timestamp="1442205660815">
         <mark key="'" line="14" column="17" />
         <mark key="[" line="346" column="8" />
         <mark key="]" line="346" column="8" />
         <mark key="^" line="345" column="8" />
         <mark key="." line="346" column="8" />
-      </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/notes.go" timestamp="1446625296710">
-        <mark key="'" line="241" column="0" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/cf150306/src/main/scala/tmp/ProducerApp.scala" timestamp="1430020301826">
         <mark key="'" line="91" column="24" />
@@ -455,9 +450,11 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Promise.scala" timestamp="1446123887474">
         <mark key="'" line="120" column="48" />
       </file>
-      <file name="$USER_HOME$/Project/00_playground/fpinscala/answerkey/parallelism/03.answer.scala" timestamp="1446626883315">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="62" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connack.go" timestamp="1447597892699">
+        <mark key="'" line="66" column="40" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqtt.go" timestamp="1447518278594">
+        <mark key="'" line="516" column="31" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/Tree.scala" timestamp="1445008277339">
         <mark key="'" line="4" column="11" />
@@ -473,202 +470,189 @@
         <mark key="^" line="482" column="7" />
         <mark key="." line="482" column="7" />
       </file>
-      <file name="$USER_HOME$/Project/02_playground/gtry/rv2/rv2.go" timestamp="1444541843725">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-      </file>
-      <file name="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" timestamp="1446633297593">
-        <mark key="'" line="229" column="19" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="272" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="22" column="63" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="36" column="4" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="57" column="33" filename="$USER_HOME$/Project/00_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="231" column="24" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="196" column="89" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="195" column="22" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="142" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="191" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="929" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/logic.go" />
-      <jump line="354" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="362" column="70" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="29" column="63" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="357" column="30" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="139" column="5" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="188" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="234" column="27" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="26" column="64" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="205" column="8" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="210" column="36" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="229" column="19" filename="$USER_HOME$/Project/tellus_mac/src/tellus/service/notes/handlers/handlers.go" />
-      <jump line="65" column="18" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="332" column="17" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Option.scala" />
-      <jump line="58" column="26" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="76" column="1" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="94" column="0" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="7" column="0" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="30" column="8" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" />
-      <jump line="9" column="36" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" />
-      <jump line="29" column="47" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par2.scala" />
-      <jump line="15" column="3" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="26" column="43" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="27" column="49" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="37" column="13" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="49" column="59" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="122" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="139" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="149" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="110" column="7" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Nonblocking.scala" />
-      <jump line="153" column="7" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="165" column="17" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="140" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="169" column="23" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="68" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="174" column="4" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="143" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="193" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
-      <jump line="19" column="2" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
-      <jump line="21" column="25" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
-      <jump line="4" column="109" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
-      <jump line="35" column="27" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="81" column="22" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" />
-      <jump line="55" column="45" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/package.scala" />
-      <jump line="66" column="17" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="37" column="19" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="4" column="6" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/laziness/Stream.scala" />
-      <jump line="38" column="0" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="58" column="47" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="59" column="25" filename="$USER_HOME$/Project/02_playground/fpinscala/answers/src/main/scala/fpinscala/testing/Gen.scala" />
-      <jump line="38" column="34" filename="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" />
+      <jump line="31" column="7" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="144" column="24" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
+      <jump line="35" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="115" column="4" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/net.go" />
+      <jump line="38" column="14" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="34" column="17" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="16" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bytes/buffer.go" />
+      <jump line="18" column="6" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="23" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="26" column="11" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="28" column="18" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="27" column="30" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="32" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="36" column="40" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="42" column="32" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="31" column="39" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
+      <jump line="46" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="96" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
+      <jump line="50" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="155" column="27" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
+      <jump line="85" column="18" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
+      <jump line="6" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="57" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
+      <jump line="65" column="29" filename="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" />
+      <jump line="52" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="184" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
+      <jump line="75" column="30" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/header.go" />
+      <jump line="80" column="107" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/header.go" />
+      <jump line="120" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/header.go" />
+      <jump line="66" column="40" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connack.go" />
+      <jump line="27" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/message_type.go" />
+      <jump line="82" column="24" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/message_type.go" />
+      <jump line="76" column="16" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="96" column="26" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="41" column="16" filename="/usr/local/Cellar/go/1.5.1/libexec/src/io/ioutil/ioutil.go" />
+      <jump line="32" column="23" filename="/usr/local/Cellar/go/1.5.1/libexec/src/io/ioutil/ioutil.go" />
+      <jump line="167" column="12" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bytes/buffer.go" />
+      <jump line="113" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="111" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="106" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
+      <jump line="108" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
+      <jump line="172" column="20" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="155" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="73" column="33" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="23" column="46" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
+      <jump line="20" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/message_type.go" />
+      <jump line="59" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="75" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="65" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="66" column="26" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="140" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="143" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="124" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="150" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="133" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/builtin/builtin.go" />
+      <jump line="16" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="126" column="30" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="24" column="6" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="137" column="11" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="142" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="148" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="70" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="61" column="18" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="290" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
+      <jump line="138" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
+      <jump line="112" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
+      <jump line="64" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="58" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="91" column="11" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="191" column="26" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="101" column="28" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
-      <jump line="110" column="17" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="108" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="88" column="35" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="78" column="6" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="80" column="25" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="100" column="7" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="157" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="76" column="8" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="77" column="24" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="84" column="24" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="94" column="8" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="115" column="29" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="129" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="131" column="26" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="119" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="121" column="57" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="109" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="154" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="314" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/io/io.go" />
-      <jump line="126" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="261" column="31" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="256" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="255" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="196" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="259" column="29" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="74" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
-      <jump line="254" column="14" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="153" column="25" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="0" column="11" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
-      <jump line="66" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
-      <jump line="26" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
-      <jump line="32" column="20" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
-      <jump line="161" column="25" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
-      <jump line="75" column="6" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/header.go" />
-      <jump line="105" column="28" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
-      <jump line="74" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/header.go" />
+      <jump line="185" column="26" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="72" column="29" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="62" column="27" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="95" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="144" column="16" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="49" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="60" column="10" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="20" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="67" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="122" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
+      <jump line="74" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="30" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
+      <jump line="84" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="33" column="14" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" />
+      <jump line="51" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" />
+      <jump line="79" column="34" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="81" column="40" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="59" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" />
+      <jump line="175" column="34" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="125" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="130" column="53" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="280" column="26" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="77" column="27" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="8" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/errors/errors.go" />
+      <jump line="94" column="35" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="105" column="30" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="78" column="25" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="143" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSJvcyIK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>wasabi</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZWVrUmxcPg==</text>
+        <text encoding="base64">XDxuUmVtYWluTGVuZ3RoQnl0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBtYWluCgppbXBvcnQgKAoJImJ1ZmlvIgoJImVuY29kaW5nL2JpbmFyeSIKCSJlcnJvcnMiCgkiZm10IgoJbG9nICJnaXRodWIuY29tL2NpaHViL3NlZWxvZyIKCSJnaXRodWIuY29tL2dvbXF0dC9tZXNzYWdlIgoJImlvIgoJImlvL2lvdXRpbCIKCSJuZXQiCgkib3MiCikKCmNvbnN0ICgKCXBvcnQgPSAiOjE4MzMiCgoJLy8gVGhlIDFzdCBieXRlIGlzIGZvciBtZXNzYWdlIHR5cGUgYW5kIGFzc29jaWF0ZWQgZmxhZ3MuCgkvLyBTdGFydCBmcm9tIHRoZSAyZWQgYnl0ZSwgYFJlbWFpbmluZyBMZW5ndGhgIGlzIGVuY29kZWQgdXAgdG8gNCBieXRlcy4KCXBlZWtIZWFkZXJMZW5ndGggICAgICAgPSA1CgltYXhSZW1haW5pbmdMZW5ndGggaW50ID0gMjY4NDM1NDU1IC8vIGJ5dGVzLCBvciAyNTYgTUIKKQoKZnVuYyBtYWluKCkgewoJcnVuKCkKfQoKZnVuYyB0ZXN0KCkgewoJZGVmZXIgbG9nLkZsdXNoKCkKCglmaW4sIGUgOj0gb3MuT3BlbigiL1VzZXJzL2NmY2hvdS9EZXNrdG9wLzEudHh0IikKCWlmIGUgIT0gbmlsIHsKCQlsb2cuRXJyb3IoIk9wZW4gZmFpbGVkOiAiICsgZS5FcnJvcigpKQoJCW9zLkV4aXQoLTEpCgl9CglkZWZlciBmaW4uQ2xvc2UoKQoKCS8qCgkJcmVhZGVyIDo9IGJ1ZmlvLk5ld1JlYWRlcihmaW4pCgkJdGVzdFJlYWQxKHJlYWRlcikKCSovCgoJLyoKCQlzY2FubmVyIDo9IGJ1ZmlvLk5ld1NjYW5uZXIoZmluKQoJCXRlc3RTY2FuKHNjYW5uZXIpCgkqLwp9CgpmdW5jIHRlc3RSZWFkMShyZWFkZXIgKmJ1ZmlvLlJlYWRlcikgewoJYiA6PSBtYWtlKFtdYnl0ZSwgcGVla0hlYWRlckxlbmd0aCkKCW4sIGUgOj0gcmVhZGVyLlJlYWQoYikKCWlmIGUgIT0gbmlsICYmIGUgIT0gaW8uRU9GIHsKCQlsb2cuRXJyb3IoInRlc3RSZWFkOiBSZWFkICIgKyBlLkVycm9yKCkpCgkJcmV0dXJuCgl9Cglsb2cuRGVidWdmKCJ0ZXN0UmVhZDogUmVhZCAlZCBieXRlc1xuIiwgbikKfQoKZnVuYyBwZWVrUmwocmVhZGVyICpidWZpby5SZWFkZXIsIG9mZnNldCBpbnQpIChpbnQsIGludCwgZXJyb3IpIHsKCXJsRXJyIDo9IGVycm9ycy5OZXcoIiIpCglnZXRSbCA6PSBmdW5jKG4gaW50KSAoaW50LCBpbnQsIGVycm9yKSB7CgkJbG9nLkRlYnVnZigiZ2V0UmwgJWQiLCBvZmZzZXQrbikKCQloZHIsIGUgOj0gcmVhZGVyLlBlZWsob2Zmc2V0ICsgbikKCQlpZiBlICE9IG5pbCB7CgkJCXN0ciA6PSAicGVla1JsOiBQZWVrIiArIGUuRXJyb3IoKQoJCQlsb2cuRXJyb3Ioc3RyKQoJCQlyZXR1cm4gMCwgMCwgZXJyb3JzLk5ldyhzdHIpCgkJfQoJCV9ybCwgcmxCeXRlcyA6PSBiaW5hcnkuVXZhcmludChoZHJbMTpdKQoJCXJsIDo9IGludChfcmwpCgkJbG9nLkRlYnVnZigiZ2V0UmwgVXZhcmludCAlZCwgJWQiLCBybCwgcmxCeXRlcykKCQlpZiBuIDw9IDAgewoJCQlyZXR1cm4gMCwgMCwgcmxFcnIKCQl9IGVsc2UgewoJCQlyZXR1cm4gcmwsIHJsQnl0ZXMsIG5pbAoJCX0KCX0KCglyZW1haW5MZW5ndGgsIG5CeXRlcywgcmxGb3VuZCwgZSA6PSAwLCAwLCBmYWxzZSwgcmxFcnIKCWZvciBfLCBuIDo9IHJhbmdlIFtdaW50ezEsIDIsIDMsIDR9IHsKCQlyZW1haW5MZW5ndGgsIG5CeXRlcywgZSA9IGdldFJsKG4pCgkJaWYgZSA9PSBuaWwgewoJCQlybEZvdW5kID0gdHJ1ZQoJCQlsb2cuRGVidWdmKCJnZXRSbCBmb3VuZCAlZCIsIG4pCgkJCWJyZWFrCgkJfQoJfQoJaWYgIXJsRm91bmQgewoJCXJlYXNvbiA6PSAicGVla1JsOiBjYW4ndCBwYXJzZSByZW1haW5pbmcgbGVuZ3RoIgoJCWxvZy5FcnJvcihyZWFzb24pCgkJcmV0dXJuIDAsIDAsIGVycm9ycy5OZXcocmVhc29uKQoJfQoKCWlmIHJlbWFpbkxlbmd0aCA+IG1heFJlbWFpbmluZ0xlbmd0aCB8fCByZW1haW5MZW5ndGggPCAwIHsKCQlyZWFzb24gOj0gZm10LlNwcmludGYoInBlZWtSbDogaW52YWxpZCByZW1haW5pbmcgbGVuZ3RoPSVkIiwgcmVtYWluTGVuZ3RoKQoJCWxvZy5FcnJvcihyZWFzb24pCgkJcmV0dXJuIDAsIDAsIGVycm9ycy5OZXcocmVhc29uKQoJfQoJcmV0dXJuIHJlbWFpbkxlbmd0aCwgbkJ5dGVzLCBuaWwKfQoKdHlwZSBQYWNrZXQgc3RydWN0IHsKCS8vcmVhZGVyICpidWZpby5SZWFkZXIKCUJ5dGVzICAgICAgICAgICAgICAgIFtdYnl0ZQoJUmVtYWluaW5nTGVuZ3RoICAgICAgaW50CglGaXhlZEhlYWRlckVuZE9mZnNldCBpbnQKCglpc1BhcnNlZCBib29sCgkvL3ZhcmlhYmxlIGhlYWRlciBhbmQgcGF5bG9hZCBhcmUgb25seSBwcmVzZW50ZWQgaW4gc29tZSBjb250cm9sIHBhY2tldHMKCVZhcmlhYmxlSGVhZGVyT2Zmc2V0IGludAoJUGF5bG9hZE9mZnNldCAgICAgICAgaW50Cn0KCmZ1bmMgKHBrdCAqUGFja2V0KSBUb3RhbExlbmd0aCgpIGludCB7CglyZXR1cm4gcGt0LlJlbWFpbmluZ0xlbmd0aCArIHBrdC5WYXJpYWJsZUhlYWRlck9mZnNldAp9CgpmdW5jIChwa3QgKlBhY2tldCkgUGF5bG9hZExlbmd0aCgpIGludCB7CglyZXR1cm4gcGt0LlRvdGFsTGVuZ3RoKCkgLSBwa3QuUGF5bG9hZE9mZnNldAp9CgpmdW5jIChwa3QgKlBhY2tldCkgUGFja2V0VHlwZSgpIG1lc3NhZ2UuTWVzc2FnZVR5cGUgewoJcmV0dXJuIG1lc3NhZ2UuTWVzc2FnZVR5cGUocGt0LkJ5dGVzWzBdID4+IDQpCn0KCmZ1bmMgcmVhZEFsbChyZWFkZXIgKmJ1ZmlvLlJlYWRlcikgKCpQYWNrZXQsIGVycm9yKSB7Cglsb2cuRGVidWcoInRlc3RSZWFkMyBlbnRlciIpCgoJaGRyLCBlIDo9IHJlYWRlci5QZWVrKDEpCglpZiBlICE9IG5pbCB7CgkJbG9nLkVycm9yKCJ0ZXN0UmVhZDMgZmFpbGVkOiBSZWFkQnl0ZSAiICsgZS5FcnJvcigpKQoJCXJldHVybiBuaWwsIGUKCX0KCgltdCA6PSBtZXNzYWdlLk1lc3NhZ2VUeXBlKGhkclswXSA+PiA0KQoJaWYgIW10LlZhbGlkKCkgewoJCXJlYXNvbiA6PSBmbXQuU3ByaW50ZigibWFsZm9ybWVkOiBtdD0lcyIsIG10LlN0cmluZygpKQoJCWxvZy5FcnJvcihyZWFzb24pCgkJcmV0dXJuIG5pbCwgZXJyb3JzLk5ldyhyZWFzb24pCgl9CgoJcmVtYWluTGVuZ3RoLCBuUmVtYWluTGVuZ3RoLCBlIDo9IHBlZWtSbChyZWFkZXIsIDEpCglpZiBlICE9IG5pbCB7CgkJcmVhc29uIDo9IGZtdC5TcHJpbnRmKCJ0ZXN0UmVhZDM6IGludmFsaWQgcmVtYWluaW5nIGxlbmd0aD0lZCIsIHJlbWFpbkxlbmd0aCkKCQlsb2cuRXJyb3IocmVhc29uKQoJCXJldHVybiBuaWwsIGVycm9ycy5OZXcocmVhc29uKQoJfQoKCXRvdGFsIDo9IDEgKyBuUmVtYWluTGVuZ3RoICsgcmVtYWluTGVuZ3RoCglsb2cuRGVidWdmKCJ0ZXN0UmVhZDM6IHRvdGFsPTErJWQrJWQsIG10PSVzIiwgblJlbWFpbkxlbmd0aCwKCQlyZW1haW5MZW5ndGgsIG10LlN0cmluZygpKQoKCXBrdCA6PSAqUGFja2V0e0J5dGVzOiBtYWtlKFtdYnl0ZSwgdG90YWwpLCBSZW1haW5pbmdMZW5ndGg6IHJlbWFpbkxlbmd0aCwKCQlGaXhlZEhlYWRlckVuZE9mZnNldDogMSArIG5SZW1haW5MZW5ndGgsIGlzUGFyc2VkOiBmYWxzZSwKCQlWYXJpYWJsZUhlYWRlck9mZnNldDogLTEsIFBheWxvYWRPZmZzZXQ6IC0xfQoKCV8sIGUgPSBpby5SZWFkRnVsbChyZWFkZXIsIHBrdC5CeXRlcykKCWlmIGUgIT0gbmlsIHsKCQlsb2cuRXJyb3IoInRlc3RSZWFkMyBmYWlsZWQ6IFJlYWRGdWxsICIgKyBlLkVycm9yKCkpCgkJcmV0dXJuIG5pbCwgZQoJfQoJcmV0dXJuIHBrdCwgbmlsCn0KCmZ1bmMgdGVzdFJlYWQyKHJlYWRlciAqYnVmaW8uUmVhZGVyKSAoW11ieXRlLCBlcnJvcikgewoJbG9nLkRlYnVnKCJ0ZXN0UmVhZDIgZW50ZXIiKQoJYnMgOj0gbWFrZShbXWJ5dGUsIHBlZWtIZWFkZXJMZW5ndGgpCgluLCBlIDo9IHJlYWRlci5SZWFkKGJzKQoJaWYgZSAhPSBuaWwgJiYgZSAhPSBpby5FT0YgewoJCWxvZy5FcnJvcigidGVzdFJlYWQyOiBSZWFkICIgKyBlLkVycm9yKCkpCgkJcmV0dXJuIG5pbCwgZQoJfQoJbG9nLkRlYnVnZigidGVzdFJlYWQyOiByZWFkICVkIiwgbikKCWJzID0gYnNbMDpuXQoKCS8vIGwgPT0gb3ZlcmFsbCBsZW5ndGggb2YgZml4ZWQgJiB2YXJpYWJsZSBoZWFkZXIgYW5kIHBheWxvYWQKCWwsIG10IDo9IG1lc3NhZ2UuRGV0ZWN0TWVzc2FnZShicykKCWlmIGwgPT0gMCB8fCAhbXQuVmFsaWQoKSB7CgkJcmVhc29uIDo9ICIiCgkJaWYgbCA9PSAwIHsKCQkJcmVhc29uID0gIm1hbGZvcm1lZDogaW52YWxpZCBsZW5ndGgiCgkJfSBlbHNlIHsKCQkJcmVhc29uID0gZm10LlNwcmludGYoIm1hbGZvcm1lZDogbXQ9JXMiLCBtdC5TdHJpbmcoKSkKCQl9CgkJbG9nLkVycm9yKHJlYXNvbikKCQlyZXR1cm4gbmlsLCBlcnJvcnMuTmV3KHJlYXNvbikKCX0KCWxvZy5EZWJ1Z2YoInRlc3RSZWFkMjogbD0lZCwgbXQ9JXMiLCBsLCBtdC5TdHJpbmcoKSkKCW1vcmUgOj0gbCAtIG4KCWlmIG1vcmUgPiAwIHsKCQlyZXN0LCBlIDo9IGlvdXRpbC5SZWFkQWxsKHJlYWRlcikKCQlpZiBlICE9IG5pbCB7CgkJCWxvZy5FcnJvcigidGVzdFJlYWQyOiBSZWFkQWxsICIgKyBlLkVycm9yKCkpCgkJCXJldHVybiBuaWwsIGUKCQl9CgkJaWYgbGVuKHJlc3QpIDwgbW9yZSB7CgkJCXN0ciA6PSBmbXQuU3ByaW50ZigibWFsZm9ybWVkOiB0b28gc2hvcnQiKQoJCQlsb2cuRXJyb3Ioc3RyKQoJCQlyZXR1cm4gbmlsLCBlcnJvcnMuTmV3KHN0cikKCQl9IGVsc2UgaWYgbGVuKHJlc3QpID4gbW9yZSB7CgkJCWxvZy5XYXJuKCJ0ZXN0UmVhZDI6IHRvbyBsb25nLCB0cmltIikKCQkJcmVzdCA9IHJlc3RbMDptb3JlXQoJCX0KCQlicyA9IGFwcGVuZChicywgcmVzdC4uLikKCX0gZWxzZSBpZiBtb3JlIDwgMCB7CgkJbG9nLldhcm4oInRlc3RSZWFkMjogdG9vIGxvbmcsIHRyaW0iKQoJCWJzID0gYnNbMDpsXQoJfQoJbG9nLkRlYnVnZigidGVzdFJlYWQyIG9rLCBsbj0lZCIsIGxlbihicykpCglyZXR1cm4gYnMsIG5pbAp9CgpmdW5jIHRlc3RTY2FuKHNjYW5uZXIgKmJ1ZmlvLlNjYW5uZXIpIHsKCXNjYW5uZXIuU3BsaXQoYnVmaW8uU2NhbkJ5dGVzKQoJY291bnQgOj0gMAoJZm9yIGNvdW50IDwgcGVla0hlYWRlckxlbmd0aCB7CgkJc3VjIDo9IHNjYW5uZXIuU2NhbigpCgkJaWYgIXN1YyB7CgkJCWUgOj0gc2Nhbm5lci5FcnIoKQoJCQlpZiBlICE9IG5pbCB7CgkJCQlsb2cuRXJyb3IoInRlc3RTY2FuOiBzY2FuICIgKyBlLkVycm9yKCkpCgkJCX0gZWxzZSB7CgkJCQlsb2cuRGVidWcoInRlc3RTY2FuOiBzY2FuIEVPRiIpCgkJCX0KCQkJYnJlYWsKCQl9CgkJYnMgOj0gc2Nhbm5lci5CeXRlcygpCgkJbG9nLkRlYnVnZigidGVzdFNjYW46IHNjYW4gJWRcbiIsIGxlbihicykpCgkJY291bnQrKwoJfQoJbG9nLkRlYnVnZigidGVzdFNjYW46IHNjYW4gJWQgYnl0ZXNcbiIsIGNvdW50KQp9CgpmdW5jIHJ1bigpIHsKCWwsIGUgOj0gbmV0Lkxpc3RlbigidGNwIiwgcG9ydCkKCWlmIGUgIT0gbmlsIHsKCQlsb2cuRXJyb3IoIkxpc3RlbiBmYWlsZWQ6ICIgKyBlLkVycm9yKCkpCgkJcmV0dXJuCgl9CglkZWZlciBsLkNsb3NlKCkKCWZvciB7CgkJY29ubiwgZSA6PSBsLkFjY2VwdCgpCgkJaWYgZSAhPSBuaWwgewoJCQlsb2cuRXJyb3IoIkFjY2VwdCBmYWlsZWQ6ICIgKyBlLkVycm9yKCkpCgkJCWNvbnRpbnVlCgkJfQoJCWdvIGhhbmRsZUNvbm4oY29ubikKCX0KfQoKZnVuYyBoYW5kbGVDb25uKGNvbm4gbmV0LkNvbm4pIHsKCWRlZmVyIGNvbm4uQ2xvc2UoKQoJZGVmZXIgbG9nLkZsdXNoKCkKCglsb2cuRGVidWcoImhhbmRsZUNvbm46IGZyb20gIiArIGNvbm4uUmVtb3RlQWRkcigpLlN0cmluZygpKQoJcmVhZGVyIDo9IGJ1ZmlvLk5ld1JlYWRlcihjb25uKQoJcGt0LCBlIDo9IHJlYWRBbGwocmVhZGVyKQoJaWYgZSAhPSBuaWwgewoJCWxvZy5EZWJ1ZygiaGFuZGxlQ29ubiBmYWlsZWQ6ICIgKyBlLkVycm9yKCkpCgkJcmV0dXJuCgl9Cgljb25uZWN0TXNnIDo9IG1lc3NhZ2UuTmV3Q29ubmVjdE1lc3NhZ2UoKQoJaGwsIGUgOj0gY29ubmVjdE1zZy5EZWNvZGUocGt0LkJ5dGVzKQoJaWYgZSAhPSBuaWwgewoJCWxvZy5FcnJvcigiaGFuZGxlQ29ubiBmYWlsZWQ6ICIgKyBlLkVycm9yKCkpCgkJcmV0dXJuCgl9Cglsb2cuRGVidWdmKCJoYW5kbGVDb25uOiBoZWFkZXIgbGVuPSVkLCBwYWxvYWQgbGVuPSVkIiwgaGwsIGxlbihwa3QuQnl0ZXMpLWhsKQp9Cg==</text>
+        <text encoding="base64">CWZvciBfLCBuIDo9IHJhbmdlIFtdaW50ezUsIDQsIDMsIDJ9IHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CSJvcyIK</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSJpby9pb3V0aWwiCg==</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuYyB0ZXN0UmVhZDIocmVhZGVyICpidWZpby5SZWFkZXIpIChbXWJ5dGUsIGVycm9yKSB7Cglsb2cuRGVidWcoInRlc3RSZWFkMiBlbnRlciIpCglicyA6PSBtYWtlKFtdYnl0ZSwgcGVla0hlYWRlckxlbmd0aCkKCW4sIGUgOj0gcmVhZGVyLlJlYWQoYnMpCglpZiBlICE9IG5pbCAmJiBlICE9IGlvLkVPRiB7CgkJbG9nLkVycm9yKCJ0ZXN0UmVhZDI6IFJlYWQgIiArIGUuRXJyb3IoKSkKCQlyZXR1cm4gbmlsLCBlCgl9Cglsb2cuRGVidWdmKCJ0ZXN0UmVhZDI6IHJlYWQgJWQiLCBuKQoJYnMgPSBic1swOm5dCgoJLy8gbCA9PSBvdmVyYWxsIGxlbmd0aCBvZiBmaXhlZCAmIHZhcmlhYmxlIGhlYWRlciBhbmQgcGF5bG9hZAoJbCwgbXQgOj0gbWVzc2FnZS5EZXRlY3RNZXNzYWdlKGJzKQoJaWYgbCA9PSAwIHx8ICFtdC5WYWxpZCgpIHsKCQlyZWFzb24gOj0gIiIKCQlpZiBsID09IDAgewoJCQlyZWFzb24gPSAibWFsZm9ybWVkOiBpbnZhbGlkIGxlbmd0aCIKCQl9IGVsc2UgewoJCQlyZWFzb24gPSBmbXQuU3ByaW50ZigibWFsZm9ybWVkOiBtdD0lcyIsIG10LlN0cmluZygpKQoJCX0KCQlsb2cuRXJyb3IocmVhc29uKQoJCXJldHVybiBuaWwsIGVycm9ycy5OZXcocmVhc29uKQoJfQoJbG9nLkRlYnVnZigidGVzdFJlYWQyOiBsPSVkLCBtdD0lcyIsIGwsIG10LlN0cmluZygpKQoJbW9yZSA6PSBsIC0gbgoJaWYgbW9yZSA+IDAgewoJCXJlc3QsIGUgOj0gaW91dGlsLlJlYWRBbGwocmVhZGVyKQoJCWlmIGUgIT0gbmlsIHsKCQkJbG9nLkVycm9yKCJ0ZXN0UmVhZDI6IFJlYWRBbGwgIiArIGUuRXJyb3IoKSkKCQkJcmV0dXJuIG5pbCwgZQoJCX0KCQlpZiBsZW4ocmVzdCkgPCBtb3JlIHsKCQkJc3RyIDo9IGZtdC5TcHJpbnRmKCJtYWxmb3JtZWQ6IHRvbyBzaG9ydCIpCgkJCWxvZy5FcnJvcihzdHIpCgkJCXJldHVybiBuaWwsIGVycm9ycy5OZXcoc3RyKQoJCX0gZWxzZSBpZiBsZW4ocmVzdCkgPiBtb3JlIHsKCQkJbG9nLldhcm4oInRlc3RSZWFkMjogdG9vIGxvbmcsIHRyaW0iKQoJCQlyZXN0ID0gcmVzdFswOm1vcmVdCgkJfQoJCWJzID0gYXBwZW5kKGJzLCByZXN0Li4uKQoJfSBlbHNlIGlmIG1vcmUgPCAwIHsKCQlsb2cuV2FybigidGVzdFJlYWQyOiB0b28gbG9uZywgdHJpbSIpCgkJYnMgPSBic1swOmxdCgl9Cglsb2cuRGVidWdmKCJ0ZXN0UmVhZDIgb2ssIGxuPSVkIiwgbGVuKGJzKSkKCXJldHVybiBicywgbmlsCn0KCmZ1bmMgdGVzdFNjYW4oc2Nhbm5lciAqYnVmaW8uU2Nhbm5lcikgewoJc2Nhbm5lci5TcGxpdChidWZpby5TY2FuQnl0ZXMpCgljb3VudCA6PSAwCglmb3IgY291bnQgPCBwZWVrSGVhZGVyTGVuZ3RoIHsKCQlzdWMgOj0gc2Nhbm5lci5TY2FuKCkKCQlpZiAhc3VjIHsKCQkJZSA6PSBzY2FubmVyLkVycigpCgkJCWlmIGUgIT0gbmlsIHsKCQkJCWxvZy5FcnJvcigidGVzdFNjYW46IHNjYW4gIiArIGUuRXJyb3IoKSkKCQkJfSBlbHNlIHsKCQkJCWxvZy5EZWJ1ZygidGVzdFNjYW46IHNjYW4gRU9GIikKCQkJfQoJCQlicmVhawoJCX0KCQlicyA6PSBzY2FubmVyLkJ5dGVzKCkKCQlsb2cuRGVidWdmKCJ0ZXN0U2Nhbjogc2NhbiAlZFxuIiwgbGVuKGJzKSkKCQljb3VudCsrCgl9Cglsb2cuRGVidWdmKCJ0ZXN0U2Nhbjogc2NhbiAlZCBieXRlc1xuIiwgY291bnQpCn0KCg==</text>
+        <text encoding="base64">CWZvciBfLCBuIDo9IHJhbmdlIFtdaW50ezUsIDQsIDMsIDJ9IHsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnVuYyB0ZXN0KCkgewoJZGVmZXIgbG9nLkZsdXNoKCkKCglmaW4sIGUgOj0gb3MuT3BlbigiL1VzZXJzL2NmY2hvdS9EZXNrdG9wLzEudHh0IikKCWlmIGUgIT0gbmlsIHsKCQlsb2cuRXJyb3IoIk9wZW4gZmFpbGVkOiAiICsgZS5FcnJvcigpKQoJCW9zLkV4aXQoLTEpCgl9CglkZWZlciBmaW4uQ2xvc2UoKQoKCS8qCgkJcmVhZGVyIDo9IGJ1ZmlvLk5ld1JlYWRlcihmaW4pCgkJdGVzdFJlYWQxKHJlYWRlcikKCSovCgoJLyoKCQlzY2FubmVyIDo9IGJ1ZmlvLk5ld1NjYW5uZXIoZmluKQoJCXRlc3RTY2FuKHNjYW5uZXIpCgkqLwp9CgpmdW5jIHRlc3RSZWFkMShyZWFkZXIgKmJ1ZmlvLlJlYWRlcikgewoJYiA6PSBtYWtlKFtdYnl0ZSwgcGVla0hlYWRlckxlbmd0aCkKCW4sIGUgOj0gcmVhZGVyLlJlYWQoYikKCWlmIGUgIT0gbmlsICYmIGUgIT0gaW8uRU9GIHsKCQlsb2cuRXJyb3IoInRlc3RSZWFkOiBSZWFkICIgKyBlLkVycm9yKCkpCgkJcmV0dXJuCgl9Cglsb2cuRGVidWdmKCJ0ZXN0UmVhZDogUmVhZCAlZCBieXRlc1xuIiwgbikKfQoK</text>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSB0bXAK</text>
+      <register name="5" type="4">
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>wasabi</text>
+        <text encoding="base64">CQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CS8vIC0xIGFyZQo=</text>
+      <register name="7" type="4">
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IC8vIG9wdGlvbmFs</text>
+        <text>f</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IC8v</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZWVrUmxcPg==</last-search>
+      <last-search encoding="base64">XDxuUmVtYWluTGVuZ3RoQnl0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZWVrUmxcPg==</last-pattern>
-      <last-replace>public</last-replace>
-      <last-substitute>private</last-substitute>
+      <last-pattern encoding="base64">XDxuUmVtYWluTGVuZ3RoQnl0ZXNcPg==</last-pattern>
+      <last-replace>peekHeader</last-replace>
+      <last-substitute>promptHeader</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrXD4=</entry>
-        <entry>map2</entry>
-        <entry>fork</entry>
-        <entry encoding="base64">XDxmb2xkTGVmdFw+</entry>
-        <entry encoding="base64">XDxwYXJGaWx0ZXJcPg==</entry>
-        <entry encoding="base64">XDxuZXh0SW50XD4=</entry>
-        <entry>Cons</entry>
-        <entry>Gen</entry>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
-        <entry encoding="base64">XDxiXD4=</entry>
-        <entry encoding="base64">XDxwcm9tcHRcPg==</entry>
-        <entry encoding="base64">XDxyZXN0XD4=</entry>
-        <entry>fit</entry>
-        <entry encoding="base64">XDxmaXRcPg==</entry>
-        <entry encoding="base64">XDxyZW1haW5MZW5ndGhcPg==</entry>
-        <entry encoding="base64">XDxybEVyclw+</entry>
-        <entry encoding="base64">XDxuUmVtYWluTGVuZ3RoXD4=</entry>
-        <entry encoding="base64">XDxybFJlYWRcPg==</entry>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
-        <entry encoding="base64">XDxwZWVrUmxcPg==</entry>
+        <entry encoding="base64">XDxuZXRcPg==</entry>
+        <entry encoding="base64">XDxuZXdNdWx0aUxpc3RlbmVyXD4=</entry>
+        <entry encoding="base64">XDxyXD4=</entry>
+        <entry encoding="base64">XDxSZWFkZXJcPg==</entry>
+        <entry>ReadBytes</entry>
+        <entry encoding="base64">XDxSZWFkTGluZVw+</entry>
+        <entry encoding="base64">XDxpbmZcPg==</entry>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxidWZcPg==</entry>
+        <entry encoding="base64">XDxtdFw+</entry>
+        <entry encoding="base64">XDxDT05ORUNUXD4=</entry>
+        <entry encoding="base64">XDx0b3RhbFw+</entry>
+        <entry encoding="base64">XDxtYWxmb3JtZWRSZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVDb25uXD4=</entry>
+        <entry encoding="base64">XDxwb3J0XD4=</entry>
+        <entry encoding="base64">XDx0ZXN0UmVhZDNcPg==</entry>
+        <entry encoding="base64">XDxwcm9tcHRIZWFkZXJMZW5ndGhcPg==</entry>
+        <entry>promptHeader</entry>
+        <entry encoding="base64">XDxwZWVrSGVhZGVyTGVuZ3RoXD4=</entry>
+        <entry encoding="base64">XDxuUmVtYWluTGVuZ3RoQnl0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>1,$s/StTypeGen/StTypeVal/g</entry>
         <entry encoding="base64">MSwkcy9cPFN0VHlwZVZhbFw+L1N0VHlwZS9n</entry>
         <entry>1,$s/getArg1/getVal1/g</entry>
         <entry>1,$s/setArg1/setVal1/g</entry>
@@ -687,6 +671,7 @@
         <entry>100</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry>1,$s/promptHeader/peekHeader/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
