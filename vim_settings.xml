@@ -23,9 +23,11 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1447777254112">
-        <mark key="'" line="192" column="4" />
-        <mark key="[" line="160" column="0" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1447781390171">
+        <mark key="'" line="191" column="4" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -562,7 +564,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQltZXNzYWdlLgo=</text>
       </register>
       <register name="-" type="4">
         <text>peer</text>
@@ -574,7 +576,7 @@
         <text encoding="base64">CXBrdCwgZSA6PSBSZWFkUGFja2V0KHJlYWRlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQltZXNzYWdlLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -589,19 +591,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>peer</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CXBlZXIgOj0gYnVmaW8uTmV3UmVhZFdyaXRlcihjb25uLCBjb25uKQo=</text>
+      <register name="9" type="4">
+        <text>peer</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
