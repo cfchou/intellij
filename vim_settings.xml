@@ -21,12 +21,11 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/time/time.go" timestamp="1443951737120">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447728169307">
-        <mark key="'" line="121" column="57" />
-        <mark key="[" line="140" column="52" />
-        <mark key="]" line="140" column="54" />
-        <mark key="." line="140" column="54" />
-        <mark key="^" line="140" column="54" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" timestamp="1447729205308">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="45" />
+        <mark key="^" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -475,7 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="55" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="99" column="55" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" />
       <jump line="11" column="51" filename="$USER_HOME$/Project/00_playground/fpinscala/exercises/src/main/scala/fpinscala/parallelism/Par.scala" />
       <jump line="95" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" />
@@ -575,49 +573,50 @@
       <jump line="131" column="26" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="119" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="121" column="57" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
+      <jump line="109" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXRvdGFsIDo9IDEgKyBuUmVtYWluTGVuZ3RoICsgcmVtYWluTGVuZ3RoCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxybFJlYWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJsRXJyIDo9IGVycm9ycy5OZXcoIiIpCglnZXRSbCA6PSBmdW5jIChuIGludCkgKGludCwgaW50LCBlcnJvcil7CgkJbG9nLkRlYnVnZigiZ2V0UmwgJWQiLCBuKQoJCWhkciwgZSA6PSByZWFkZXIuUGVlayhuKQoJCWlmIGUgIT0gbmlsIHsKCQkJcmV0dXJuIDAsIDAsIHJsRXJyCgkJfQoJCV9ybCwgcmxSZWFkIDo9IGJpbmFyeS5VdmFyaW50KGhkclsxOl0pCgkJcmwgOj0gaW50KF9ybCkKCQlsb2cuRGVidWdmKCJnZXRSbCBVdmFyaW50ICVkLCAlZCIsIHJsLCBybFJlYWQpCgkJaWYgbiA8PSAwIHsKCQkJcmV0dXJuIDAsIDAsIHJsRXJyCgkJfSBlbHNlIHsKCQkJcmV0dXJuIHJsLCBybFJlYWQsIG5pbAoJCX0KCX0KCglyZW1haW5MZW5ndGgsIG5SZW1haW5MZW5ndGgsIHJsRm91bmQgOj0gMCwgMCwgZmFsc2UKCWZvciBfLCBuIDo9IHJhbmdlIFtdaW50ezIsIDMsIDQsIDV9IHsKCQlyZW1haW5MZW5ndGgsIG5SZW1haW5MZW5ndGgsIGUgPSBnZXRSbChuKQoJCWlmIGUgPT0gbmlsIHsKCQkJcmxGb3VuZCA9IHRydWUKCQkJbG9nLkRlYnVnZigiZ2V0UmwgZm91bmQgJWQiLCBuKQoJCQlicmVhawoJCX0KCX0KCglpZiAhcmxGb3VuZCB7CgkJcmVhc29uIDo9ICJtYWxmb3JtZWQ6IGNhbid0IHBhcnNlIHJlbWFpbiBsZW5ndGgiCgkJbG9nLkVycm9yKHJlYXNvbikKCQlyZXR1cm4gbmlsLCBlcnJvcnMuTmV3KHJlYXNvbikKCX0K</text>
+        <text encoding="base64">CXRvdGFsIDo9IDEgKyBuUmVtYWluTGVuZ3RoICsgcmVtYWluTGVuZ3RoCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>nil</text>
+      <register name="2" type="2">
+        <text encoding="base64">CWlmIHJlbWFpbkxlbmd0aCA+IG1heFJlbWFpbmluZ0xlbmd0aCB8fCByZW1haW5MZW5ndGggPCAwIHsKCQlyZWFzb24gOj0gZm10LlNwcmludGYoImludmFsaWQgcmVtYWluaW5nIGxlbmd0aD0lZCIsIHJlbWFpbkxlbmd0aCkKCQlsb2cuRXJyb3IocmVhc29uKQoJCXJldHVybiBuaWwsIGVycm9ycy5OZXcocmVhc29uKQoJfQo=</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>q</text>
       </register>
       <register name="6" type="4">
-        <text>R</text>
+        <text>M</text>
       </register>
       <register name="7" type="4">
-        <text>Read</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>q</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
