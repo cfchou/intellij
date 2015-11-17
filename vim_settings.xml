@@ -157,6 +157,9 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/wasabi/wasabi.go" timestamp="1447766541863">
+        <mark key="[" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqttsrv/main.go" timestamp="1447482568693">
         <mark key="'" line="68" column="12" />
       </file>
@@ -575,10 +578,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>wasabi</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>wasabi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuUmVtYWluTGVuZ3RoQnl0ZXNcPg==</text>
@@ -587,7 +590,7 @@
         <text encoding="base64">CWZvciBfLCBuIDo9IHJhbmdlIFtdaW50ezUsIDQsIDMsIDJ9IHsK</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>wasabi</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -595,26 +598,26 @@
       <register name="2" type="4">
         <text>/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWZvciBfLCBuIDo9IHJhbmdlIFtdaW50ezUsIDQsIDMsIDJ9IHsK</text>
-      </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>/</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWZvciBfLCBuIDo9IHJhbmdlIFtdaW50ezUsIDQsIDMsIDJ9IHsK</text>
       </register>
       <register name="5" type="4">
         <text>/</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="8" type="4">
-        <text>f</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>f</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
