@@ -157,12 +157,12 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/wasabi/wasabi.go" timestamp="1447773148598">
-        <mark key="'" line="164" column="29" />
-        <mark key="[" line="165" column="32" />
-        <mark key="]" line="165" column="33" />
-        <mark key="^" line="165" column="30" />
-        <mark key="." line="165" column="33" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/wasabi/wasabi.go" timestamp="1447774215611">
+        <mark key="'" line="172" column="16" />
+        <mark key="[" line="171" column="34" />
+        <mark key="]" line="172" column="18" />
+        <mark key="." line="172" column="18" />
+        <mark key="^" line="172" column="18" />
       </file>
       <file name="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqttsrv/main.go" timestamp="1447482568693">
         <mark key="'" line="68" column="12" />
@@ -479,8 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="39" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
-      <jump line="46" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="96" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
       <jump line="50" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="155" column="27" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/scan.go" />
@@ -576,16 +574,18 @@
       <jump line="166" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/wasabi/wasabi.go" />
       <jump line="40" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connack.go" />
       <jump line="39" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
-      <jump line="79" column="27" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
-      <jump line="164" column="29" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/wasabi/wasabi.go" />
       <jump line="81" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
+      <jump line="164" column="25" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/wasabi/wasabi.go" />
+      <jump line="79" column="27" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect.go" />
+      <jump line="165" column="24" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/message_type.go" />
+      <jump line="172" column="16" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/wasabi/wasabi.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXdyaXRlci5Xcml0ZShjb25uQWNrLikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ReturnCode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkUGFja2V0XD4=</text>
@@ -593,35 +593,35 @@
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCBuIDo9IHJhbmdlIFtdaW50ezUsIDQsIDMsIDJ9IHsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CXdyaXRlci5Xcml0ZShjb25uQWNrLikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbm5lY3RNc2cuVXNlcm5hbWUK</text>
+        <text encoding="base64">CW1lc3NhZ2UuQ09OTkFDSy5OZXcoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWxvZy5EZWJ1ZygiQ2xpZW50SWQ6IiArIHN0cmluZyhjb25uZWN0TXNnLkNsaWVudElkKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWNvbm5lY3RNc2cuCg==</text>
+      <register name="4" type="4">
+        <text>ReturnCode</text>
       </register>
       <register name="5" type="4">
-        <text>All</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>All</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWNvbm5lY3RNc2cuVXNlcm5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlWYXJpYWJsZUhlYWRlck9mZnNldDogLTEsIFBheWxvYWRPZmZzZXQ6IC0xfQo=</text>
+        <text encoding="base64">CWxvZy5EZWJ1ZygiQ2xpZW50SWQ6IiArIHN0cmluZyhjb25uZWN0TXNnLkNsaWVudElkKSkK</text>
       </register>
-      <register name="8" type="4">
-        <text>, isParsed: false,</text>
+      <register name="8" type="2">
+        <text encoding="base64">CWNvbm5lY3RNc2cuCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>All</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
