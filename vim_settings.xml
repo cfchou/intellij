@@ -23,12 +23,12 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1447946875729">
-        <mark key="'" line="143" column="21" />
-        <mark key="[" line="155" column="22" />
-        <mark key="]" line="155" column="24" />
-        <mark key="^" line="155" column="24" />
-        <mark key="." line="155" column="24" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1447948283828">
+        <mark key="'" line="214" column="5" />
+        <mark key="[" line="168" column="46" />
+        <mark key="]" line="168" column="46" />
+        <mark key="." line="168" column="46" />
+        <mark key="^" line="168" column="63" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -432,10 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="70" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="61" column="18" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="290" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="138" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="112" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="64" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
@@ -532,58 +528,62 @@
       <jump line="21" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="138" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="143" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="164" column="7" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="136" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="177" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="210" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb250ZXh0XD4=</text>
+        <text encoding="base64">XDxNcXR0Q29ubmVjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vIFRPRE8gdGhyb3R0bGUK</text>
+        <text encoding="base64">ZnVuYyAoY2MgKkNvbm5Db250ZXh0KSBXcml0ZXIoKSBidWZpby5Xcml0ZXIgewoJcmV0dXJuIGNjLndyaXRlcgp9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>jobs</text>
       </register>
       <register name="3" type="4">
-        <text>y</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="4" type="4">
-        <text>b</text>
+        <text>writer</text>
       </register>
       <register name="5" type="4">
-        <text>]</text>
+        <text>c.writer</text>
       </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>f</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>u</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>b</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb250ZXh0XD4=</last-search>
+      <last-search encoding="base64">XDxNcXR0Q29ubmVjdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb250ZXh0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxNcXR0Q29ubmVjdFw+</last-pattern>
       <last-replace>ack</last-replace>
       <last-substitute>connAck</last-substitute>
       <last-dir>1</last-dir>
@@ -591,7 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWxmb3JtZWRSZXR1cm5cPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVDb25uXD4=</entry>
         <entry encoding="base64">XDxwb3J0XD4=</entry>
         <entry encoding="base64">XDx0ZXN0UmVhZDNcPg==</entry>
@@ -611,6 +610,7 @@
         <entry encoding="base64">XDxjb25uQWNrXD4=</entry>
         <entry>connAck</entry>
         <entry encoding="base64">XDxDb250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxNcXR0Q29ubmVjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/getArg1/getVal1/g</entry>
