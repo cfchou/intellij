@@ -1,5 +1,10 @@
 <application>
   <component name="GoLibraries">
+    <option name="urls">
+      <set>
+        <option value="file://$USER_HOME$/Project/gopath/src" />
+      </set>
+    </option>
     <option name="useGoPathFromSystemEnvironment" value="false" />
   </component>
 </application>
