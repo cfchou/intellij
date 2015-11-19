@@ -385,12 +385,12 @@
         <mark key="^" line="214" column="32" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" timestamp="1447909419656">
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" timestamp="1447910596720">
         <mark key="'" line="87" column="10" />
-        <mark key="[" line="84" column="34" />
-        <mark key="]" line="84" column="40" />
-        <mark key="^" line="84" column="40" />
-        <mark key="." line="84" column="40" />
+        <mark key="[" line="70" column="3" />
+        <mark key="]" line="70" column="3" />
+        <mark key="^" line="70" column="17" />
+        <mark key="." line="70" column="3" />
       </file>
       <file name="$USER_HOME$/Project/02_go_libs/00_gods/src/github.com/emirpasic/gods/trees/twothree/twothree.go" timestamp="1442205660815">
         <mark key="'" line="14" column="17" />
@@ -553,10 +553,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>content</text>
+        <text encoding="base64">YW4g</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text encoding="base64">YW4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZXNzYWdlXD4=</text>
@@ -565,22 +565,22 @@
         <text encoding="base64">CXJldHVybiBtZXNzYWdlLk1lc3NhZ2VUeXBlKHBrdC5jb250ZW50WzBdID4+IDQpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>content</text>
+        <text encoding="base64">YW4g</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>pkt</text>
+        <text>interface</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="3" type="4">
+        <text>content</text>
       </register>
       <register name="4" type="4">
-        <text>Raw</text>
+        <text>pkt</text>
       </register>
-      <register name="5" type="4">
-        <text>Raw</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="4">
         <text>Raw</text>
@@ -589,10 +589,10 @@
         <text>Raw</text>
       </register>
       <register name="8" type="4">
-        <text>w</text>
+        <text>Raw</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>Raw</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
