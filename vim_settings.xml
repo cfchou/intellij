@@ -23,12 +23,11 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448032842832">
-        <mark key="'" line="126" column="19" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="19" />
-        <mark key="^" line="179" column="19" />
-        <mark key="." line="179" column="19" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448033393168">
+        <mark key="'" line="197" column="11" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -432,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="10" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="20" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="67" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="122" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
@@ -532,49 +530,50 @@
       <jump line="177" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="173" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="127" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="190" column="11" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXZhciB3ZyBzeW5jLldhaXRHcm91cAo=</text>
+        <text encoding="base64">CS8vIG9ubHkgd3JpdGVzIGFyZSBkb25lIGluIHBpcGVsaW5lCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVDb25uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuYyAodyAqTXF0dFdyaXRlKSBXb3JrKHBhcmFtIGludGVyZmFjZXt9KSB7Cg==</text>
+        <text encoding="base64">ZnVuYyAoY2MgKkNvbm5Db250ZXh0KSBKb2JzKCkgY2hhbiBKb2IgewoJcmV0dXJuIGNjLmpvYnMKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhciB3ZyBzeW5jLldhaXRHcm91cAo=</text>
+        <text encoding="base64">CS8vIG9ubHkgd3JpdGVzIGFyZSBkb25lIGluIHBpcGVsaW5lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>y</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>map</text>
+        <text>jobs</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuYyAodyAqTXF0dFdyaXRlKSBXb3JrKHBhcmFtIGludGVyZmFjZXt9KSB7Cn0KCg==</text>
+        <text encoding="base64">ZnVuYyAoY2MgKkNvbm5Db250ZXh0KSBXYWl0R3JvdXAoKSBzeW5jLldhaXRHcm91cCB7CglyZXR1cm4gY2Muam9icwp9Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>}</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXdnIHN5bmMuV2FpdEdyb3VwCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{</text>
+      <register name="7" type="2">
+        <text encoding="base64">CVdhaXRHcm91cCgpIHN5bmMuV2FpdEdyb3VwCg==</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text encoding="base64">Sm9iIA==</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text encoding="base64">Y2hhbiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
