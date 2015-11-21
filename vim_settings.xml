@@ -23,12 +23,12 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448101620618">
-        <mark key="'" line="221" column="42" />
-        <mark key="[" line="217" column="35" />
-        <mark key="]" line="217" column="35" />
-        <mark key="." line="217" column="35" />
-        <mark key="^" line="217" column="35" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448102448702">
+        <mark key="'" line="209" column="42" />
+        <mark key="[" line="187" column="7" />
+        <mark key="]" line="187" column="6" />
+        <mark key="^" line="187" column="6" />
+        <mark key="." line="187" column="6" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -539,11 +539,11 @@
       <jump line="212" column="42" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gSm9icyBpbnRlcmZhY2UKZnVuYyAoam9icyAqU2VxdWVudGlhbEpvYnMpIFN0YXRlKCkgSm9ic1N0YXRlIHsKCXJldHVybiBqb2JzLnN0YXRlCn0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbWRcPg==</text>
@@ -551,35 +551,35 @@
       <register name="0" type="2">
         <text encoding="base64">dHlwZSBTZXF1ZW50aWFsSm9icyBzdHJ1Y3Qgewo=</text>
       </register>
-      <register name="1" type="4">
-        <text>-</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gSm9icyBpbnRlcmZhY2UKZnVuYyAoam9icyAqU2VxdWVudGlhbEpvYnMpIFN0YXRlKCkgSm9ic1N0YXRlIHsKCXJldHVybiBqb2JzLnN0YXRlCn0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y2hhbiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CVN0YXRlKCkgSm9ic1N0YXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZGVmZXIgZnVuYygpIHsKCQkJCWpvYnMuc3RhdGUgPSBEb25lCgkJCX0oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">CS8qCglTdG9wcGFibGUoKSBib29sCglTdG9wKGJvb2wpCgkqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">CUNhbmNlbGxhYmxlKCkgYm9vbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIGpvYnMuU3RhdGUoKQo=</text>
+        <text encoding="base64">ZnVuYyAoam9icyAqU2VxdWVudGlhbEpvYnMpIENhbmNlbGxhYmxlKCkgYm9vbCB7CglyZXR1cm4gdHJ1ZQp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWpvYnMuCg==</text>
+        <text encoding="base64">Ly8gVE9ETwp0eXBlIFBhcmFsbGVsSm9icyBzdHJ1Y3Qgewp9Cgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>bool</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
