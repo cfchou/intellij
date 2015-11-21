@@ -23,12 +23,12 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448119095814">
-        <mark key="'" line="204" column="42" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
-        <mark key="^" line="253" column="20" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448121466947">
+        <mark key="'" line="205" column="42" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="255" column="21" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="238" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -540,7 +540,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">CWRlZmVyIGpvYnMubG9jay5VbmxvY2soKQoJam9icy5sb2NrLlJMb2NrKCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -549,37 +549,37 @@
         <text encoding="base64">XDxjbWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJcmV0dXJuCg==</text>
+        <text encoding="base64">CWRlZmVyIGpvYnMubG9jay5VbmxvY2soKQoJam9icy5sb2NrLlJMb2NrKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">CQkvLyBUT0RPCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnVuYyAoam9icyAqU2VxdWVudGlhbEpvYnMpIHJ1bigpIGJvb2wgewoKCWlmIGpvYnMuc3RhdGUuUnVubmFibGUoKSB7CgkJZ28gZnVuYygpIHsKCgkJCWZvciB7CgkJCQlzZWxlY3QgewoJCQkJY2FzZSBqb2IsIG9rIDo9IDwtIGpvYnMucXVldWU6CgkJCQkJaWYgIW9rIHsgLy8gVGVybWluYXRlCgkJCQkJCWpvYnMuc3RhdGUgPSBEb25lCgkJCQkJCXJldHVybgoJCQkJCX0KCQkJCQlqb2IuUnVuKCkKCQkJCQlqb2JzLnJlcG9ydCA8LSAxCgkJCQljYXNlIGNtZCA6PSA8LSBqb2JzLmNtZDoKCgkJCQl9CgoJCQl9CgkJCS8vIFRPRE8KCgkJfSgpCgkJcmV0dXJuIHRydWUKCX0KCXJldHVybiBmYWxzZQp9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWF0b21pYwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWlmIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQlqb2JzLnN0YXRlMiA8LSBEb25lCgkJCQkJcmV0dXJuCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>=</text>
-      </register>
-      <register name="5" type="4">
-        <text>=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
-        <text>0</text>
-      </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
