@@ -23,12 +23,12 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448082348609">
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448089244477">
         <mark key="'" line="170" column="0" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="320" column="0" />
-        <mark key="^" line="172" column="27" />
+        <mark key="[" line="178" column="1" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
+        <mark key="^" line="180" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
