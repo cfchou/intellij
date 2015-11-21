@@ -23,12 +23,11 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448103539091">
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448104174257">
         <mark key="'" line="204" column="42" />
-        <mark key="[" line="258" column="5" />
-        <mark key="]" line="258" column="5" />
-        <mark key="." line="258" column="5" />
-        <mark key="^" line="257" column="10" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -539,11 +538,11 @@
       <jump line="212" column="42" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbWRcPg==</text>
@@ -551,35 +550,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQlnbyBmdW5jKCkgewoKCQkJZm9yIHsKCQkJCXNlbGVjdCB7CgkJCQljYXNlIGpvYiwgb2sgOj0gPC0gam9icy5xdWV1ZToKCQkJCQlpZiAhb2sgeyAvLyBUZXJtaW5hdGUKCQkJCQkJam9icy5zdGF0ZSA9IERvbmUKCQkJCQkJcmV0dXJuCgkJCQkJfQoJCQkJCWpvYi5SdW4oKQoJCQkJCWpvYnMucmVwb3J0IDwtIDEKCQkJCWNhc2UgY21kIDo9IDwtIGpvYnMuY21kOgoKCQkJCX0KCgkJCX0KCQkJLy8gVE9ETwoKCQl9KCkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWdvIGZ1bmMoKSB7CgoJCWZvciB7CgkJCXNlbGVjdCB7CgkJCWNhc2Ugam9iLCBvayA6PSA8LSBqb2JzLnF1ZXVlOgoJCQkJaWYgIW9rIHsgLy8gVGVybWluYXRlCgkJCQkJam9icy5zdGF0ZSA9IERvbmUKCQkJCQlyZXR1cm4KCQkJCX0KCQkJCWpvYi5SdW4oKQoJCQkJam9icy5yZXBvcnQgPC0gMQoJCQljYXNlIGNtZCA6PSA8LSBqb2JzLmNtZDoKCgkJCX0KCgkJfQoJCS8vIFRPRE8KCgl9Cg==</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="4">
-        <text>(</text>
+      <register name="4" type="4">
+        <text>jobs</text>
       </register>
-      <register name="6" type="4">
-        <text>jobs.run)</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWlmIGpvYnMuc3RhdGUuUnVubmFibGUoKSB7CgkJZ28gZnVuYygpIHsKCgkJCWZvciB7CgkJCQlzZWxlY3QgewoJCQkJY2FzZSBqb2IsIG9rIDo9IDwtIGpvYnMucXVldWU6CgkJCQkJaWYgIW9rIHsgLy8gVGVybWluYXRlCgkJCQkJCWpvYnMuc3RhdGUgPSBEb25lCgkJCQkJCXJldHVybgoJCQkJCX0KCQkJCQlqb2IuUnVuKCkKCQkJCQlqb2JzLnJlcG9ydCA8LSAxCgkJCQljYXNlIGNtZCA6PSA8LSBqb2JzLmNtZDoKCgkJCQl9CgoJCQl9CgkJCS8vIFRPRE8KCgkJfSgpCgkJcmV0dXJuIHRydWUKCX0KCXJldHVybiBmYWxzZQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>f</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyAoKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
