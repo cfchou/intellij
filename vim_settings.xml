@@ -23,12 +23,12 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448089244477">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="178" column="1" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-        <mark key="^" line="180" column="0" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448091274643">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="159" column="25" />
+        <mark key="]" line="159" column="29" />
+        <mark key="." line="159" column="29" />
+        <mark key="^" line="159" column="29" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -534,47 +534,47 @@
       <jump line="170" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuYyAoKQoKCn0K</text>
+      <register name="&quot;" type="4">
+        <text>JobsConst</text>
       </register>
       <register name="-" type="4">
-        <text>bool</text>
+        <text>JobsConst</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbnF1ZXVlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHlwZSBTZXF1dGlhbEpvYnMgc3RydWN0IHsK</text>
+        <text encoding="base64">Y29uc3QgKAoJTm9uU3RhcnQgPSBpb3RhCglSdW5uaW5nCglTdG9wcGVkIC8vIFBhdXNlZAoJQ2FuY2VsbGVkCglGaW5pc2hlZAopCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnVuYyAoKQoKCn0K</text>
+      <register name="1" type="4">
+        <text>JobsConst</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>bool</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CS8vIFRPRE8KCWZ1bmMgQ2FuY2VsbGFibGUoKSB7Cgl9Cg==</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWZ1bmMgRW5xdWV1ZShKb2IpIHsKCX0KCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>l</text>
-      </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
         <text>a</text>
       </register>
+      <register name="6" type="4">
+        <text>v</text>
+      </register>
+      <register name="7" type="4">
+        <text>t</text>
+      </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
