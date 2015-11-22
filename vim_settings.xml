@@ -23,12 +23,11 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448204558779">
-        <mark key="'" line="230" column="21" />
-        <mark key="[" line="312" column="17" />
-        <mark key="]" line="312" column="17" />
-        <mark key="." line="312" column="17" />
-        <mark key="^" line="243" column="28" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448205164825">
+        <mark key="'" line="183" column="4" />
+        <mark key="[" line="313" column="12" />
+        <mark key="]" line="313" column="13" />
+        <mark key="." line="313" column="13" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -438,11 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="27" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="8" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/errors/errors.go" />
-      <jump line="94" column="35" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="105" column="30" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
-      <jump line="78" column="25" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/fringe.go" />
       <jump line="143" column="17" filename="/usr/local/Cellar/go/1.5.1/libexec/src/bufio/bufio.go" />
       <jump line="150" column="28" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/wasabi/wasabi.go" />
       <jump line="111" column="5" filename="/usr/local/Cellar/go/1.5.1/libexec/src/net/net.go" />
@@ -538,6 +532,11 @@
       <jump line="275" column="13" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="198" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="213" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="303" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="285" column="17" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="292" column="28" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="315" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="183" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3307,55 +3306,55 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>R</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbWRcPg==</text>
+        <text encoding="base64">XDxTdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWRlZmVyIGpvYnMuc3RfbG9jay5VbmxvY2soKQoJam9icy5zdF9sb2NrLlJMb2NrKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>R</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>R</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>R</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">VGVybWluYXRlZAoJCQk=</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Y21kIA==</text>
+        <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="6" type="4">
+        <text>(</text>
       </register>
-      <register name="7" type="4">
-        <text>Panic</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gYFN0YXRlYCBpc24ndCB1c2VmdWwuIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text encoding="base64">IGluIGEgbXVsdGktdGhyZWFkLg==</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbWRcPg==</last-search>
+      <last-search encoding="base64">XDxTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTdGF0ZVw+</last-pattern>
       <last-replace>ack</last-replace>
       <last-substitute>connAck</last-substitute>
       <last-dir>1</last-dir>
@@ -3363,7 +3362,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
         <entry>reader</entry>
         <entry>handleConn</entry>
         <entry encoding="base64">XDxjb25uQWNrXD4=</entry>
@@ -3383,6 +3381,7 @@
         <entry encoding="base64">XDxyZXBvcnRcPg==</entry>
         <entry encoding="base64">XDxzdGF0ZTJcPg==</entry>
         <entry encoding="base64">XDxjbWRcPg==</entry>
+        <entry encoding="base64">XDxTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/getArg1/getVal1/g</entry>
