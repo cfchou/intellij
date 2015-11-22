@@ -23,11 +23,12 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448202802820">
-        <mark key="'" line="229" column="21" />
-        <mark key="]" line="205" column="27" />
-        <mark key="." line="205" column="27" />
-        <mark key="^" line="205" column="27" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448204558779">
+        <mark key="'" line="230" column="21" />
+        <mark key="[" line="312" column="17" />
+        <mark key="]" line="312" column="17" />
+        <mark key="." line="312" column="17" />
+        <mark key="^" line="243" column="28" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -3306,43 +3307,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Panic</text>
+        <text>R</text>
       </register>
       <register name="-" type="4">
-        <text>Panic</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJYnJlYWsK</text>
+        <text encoding="base64">CWRlZmVyIGpvYnMuc3RfbG9jay5VbmxvY2soKQoJam9icy5zdF9sb2NrLlJMb2NrKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>Panic</text>
+        <text>R</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>p</text>
+        <text>R</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>R</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text encoding="base64">VGVybWluYXRlZAoJCQk=</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text encoding="base64">Y21kIA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Panic</text>
       </register>
       <register name="8" type="4">
-        <text>b</text>
+        <text>p</text>
       </register>
       <register name="9" type="4">
         <text>o</text>
