@@ -23,12 +23,11 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448170226978">
-        <mark key="'" line="222" column="21" />
-        <mark key="[" line="217" column="19" />
-        <mark key="]" line="217" column="26" />
-        <mark key="^" line="217" column="26" />
-        <mark key="." line="217" column="26" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448202802820">
+        <mark key="'" line="229" column="21" />
+        <mark key="]" line="205" column="27" />
+        <mark key="." line="205" column="27" />
+        <mark key="^" line="205" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -3306,11 +3305,11 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlpZiBfLCBvayA6PSBqb2IuKENhbmNlbEpvYik7IG9rIHsgLy8gQ2FuY2VsCgkJCQkJCWJyZWFrCgkJCQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Panic</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Panic</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbWRcPg==</text>
@@ -3318,35 +3317,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJYnJlYWsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQlpZiBfLCBvayA6PSBqb2IuKENhbmNlbEpvYik7IG9rIHsgLy8gQ2FuY2VsCgkJCQkJCWJyZWFrCgkJCQkJfQo=</text>
+      <register name="1" type="4">
+        <text>Panic</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+      <register name="2" type="4">
+        <text>p</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQlicmVhawo=</text>
+      <register name="3" type="4">
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>k</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>b</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IC8vIG1ha2UoY2hhbiBpbnQsIDEp</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
