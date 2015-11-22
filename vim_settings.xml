@@ -23,11 +23,12 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448167852425">
-        <mark key="'" line="213" column="21" />
-        <mark key="[" line="216" column="24" />
-        <mark key="]" line="216" column="29" />
-        <mark key="." line="216" column="0" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448170226978">
+        <mark key="'" line="222" column="21" />
+        <mark key="[" line="217" column="19" />
+        <mark key="]" line="217" column="26" />
+        <mark key="^" line="217" column="26" />
+        <mark key="." line="217" column="26" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -142,10 +143,11 @@
         <mark key="'" line="2" column="7" />
         <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/01.md" timestamp="1448093424400">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/01.md" timestamp="1448169797603">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqttsrv/main.go" timestamp="1447782294633">
         <mark key="'" line="68" column="8" />
@@ -3305,10 +3307,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJYnJlYWsK</text>
+        <text encoding="base64">CQkJCQlpZiBfLCBvayA6PSBqb2IuKENhbmNlbEpvYik7IG9rIHsgLy8gQ2FuY2VsCgkJCQkJCWJyZWFrCgkJCQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbWRcPg==</text>
@@ -3317,34 +3319,34 @@
         <text encoding="base64">CQkJCQkJYnJlYWsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWNhc2UgY21kIDo9IDwtIGpvYnMuY21kOgoJCQkJCWlmIGNtZCA9PSAwIHsKCQkJCQkJYnJlYWsKCQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQlpZiBfLCBvayA6PSBqb2IuKENhbmNlbEpvYik7IG9rIHsgLy8gQ2FuY2VsCgkJCQkJCWJyZWFrCgkJCQkJfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWNhc2UgY21kIDo9IDwtIGpvYnMuY21kOgoJCQkJCWlmIGNtZCA9PSAwIHsKCQkJCQkJYnJlYWsKCQkJCQl9CgkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQlicmVhawo=</text>
       </register>
       <register name="4" type="4">
-        <text>f</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>k</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnVuYyAoam9iICpRdWl0Sm9iKSBSdW4oKSB7IH0K</text>
+      <register name="6" type="4">
+        <text>o</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">c3RydWN0IA==</text>
+        <text>,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dHlwZSBRdWl0Sm9iIHN0cnVjdCB7fQpmdW5jIChqb2IgKlF1aXRKb2IpIFJ1bigpIHsgfQoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IC8vIG1ha2UoY2hhbiBpbnQsIDEp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3399,9 +3401,9 @@
         <entry>qw</entry>
         <entry>100</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>1,$s/promptHeader/peekHeader/g</entry>
         <entry encoding="base64">JzwsJz5zL2Nvbm5BY2svYWNrL2c=</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
