@@ -23,11 +23,11 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448160332255">
-        <mark key="[" line="236" column="15" />
-        <mark key="]" line="236" column="15" />
-        <mark key="." line="236" column="15" />
-        <mark key="^" line="236" column="15" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448163665546">
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="16" />
+        <mark key="." line="252" column="16" />
+        <mark key="^" line="252" column="16" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -538,47 +538,47 @@
       <jump line="242" column="20" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CTwtIGpvYnMuZG9uZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Done</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuYyAoam9icyAqU2VxdWVudGlhbEpvYnMpIFJ1bigpIGJvb2wgewo=</text>
+        <text encoding="base64">ZnVuYyAoam9icyAqU2VxdWVudGlhbEpvYnMpIFdhaXREb25lKCkgewoJPC0gam9icy5kb25lCn0K</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">CTwtIGpvYnMuZG9uZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>Done</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>s</text>
-      </register>
-      <register name="6" type="4">
-        <text>'</text>
-      </register>
-      <register name="7" type="4">
-        <text>)</text>
-      </register>
-      <register name="8" type="4">
         <text>e</text>
       </register>
+      <register name="4" type="4">
+        <text>d</text>
+      </register>
+      <register name="5" type="4">
+        <text>e</text>
+      </register>
+      <register name="6" type="4">
+        <text>d</text>
+      </register>
+      <register name="7" type="4">
+        <text>ing</text>
+      </register>
+      <register name="8" type="4">
+        <text>ing</text>
+      </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>false</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
