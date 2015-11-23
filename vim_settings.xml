@@ -86,10 +86,12 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" timestamp="1446123381863">
         <mark key="'" line="491" column="107" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" timestamp="1448272946732">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" timestamp="1448273615088">
+        <mark key="'" line="129" column="22" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="35" column="37" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/package.scala" timestamp="1439126881989">
         <mark key="'" line="55" column="48" />
@@ -479,11 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="38" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
-      <jump line="151" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
-      <jump line="147" column="20" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
-      <jump line="94" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/message.go" />
-      <jump line="173" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
       <jump line="70" column="11" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
       <jump line="69" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
       <jump line="78" column="18" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" />
@@ -512,7 +509,6 @@
       <jump line="157" column="6" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
       <jump line="51" column="8" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
       <jump line="135" column="13" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
-      <jump line="133" column="17" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
       <jump line="97" column="17" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
       <jump line="96" column="23" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
       <jump line="11" column="17" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs_test.go" />
@@ -579,58 +575,64 @@
       <jump line="80" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
       <jump line="58" column="9" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs_test.go" />
       <jump line="128" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
+      <jump line="195" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
+      <jump line="33" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
+      <jump line="127" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
+      <jump line="133" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
+      <jump line="129" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>Unblocking</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>Unblocking</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2JzXD4=</text>
+        <text encoding="base64">XDxXYWl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJLy8gYmxvY2tpbmcKCQkJc2VsZWN0IHsKCQkJY2FzZSBqb2IsIG9rIDo9IDwtIGpvYnMucXVldWU6CgkJCQlsb2cuRGVidWdmKCJqb2JzLnF1ZXVlIG9rPSV0Iiwgb2spCgkJCQlpZiAhb2sgeyAvLyBUZXJtaW5hdGUKCQkJCQlyZXR1cm4gdHJ1ZQoJCQkJfQoJCQkJc2FmZVJ1bihqb2IpCgkJCX0KCQkJcmV0dXJuIGZhbHNlCg==</text>
+        <text encoding="base64">CS8vIHdhaXQgdGlsbCBgRG9uZWAsIG1heSBiZSBibG9ja2VkLgoJV2FpdCgpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>r</text>
+        <text>Unblocking</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>ing</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>r</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gVW5ibG9ja2luZwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gQmxvY2tpbmcK</text>
       </register>
       <register name="6" type="4">
+        <text>r</text>
+      </register>
+      <register name="7" type="4">
+        <text>o</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXRpbWUuU2xlZXAoMSAqIHRpbWUuU2Vjb25kKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvKgoJCWRvbmUgOj0gZnVuYygpIGJvb2wgewoJCQkvLyBibG9ja2luZwoJCQlzZWxlY3QgewoJCQljYXNlIGpvYiwgb2sgOj0gPC0gam9icy5xdWV1ZToKCQkJCWxvZy5EZWJ1Z2YoImpvYnMucXVldWUgb2s9JXQiLCBvaykKCQkJCWlmICFvayB7IC8vIFRlcm1pbmF0ZQoJCQkJCXJldHVybiB0cnVlCgkJCQl9CgkJCQlzYWZlUnVuKGpvYikKCQkJfQoJCQlyZXR1cm4gZmFsc2UKCQl9CgkJKi8KCg==</text>
-      </register>
       <register name="9" type="4">
-        <text>done</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2JzXD4=</last-search>
+      <last-search encoding="base64">XDxXYWl0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2JzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxXYWl0XD4=</last-pattern>
       <last-replace>ReadMsg</last-replace>
       <last-substitute>ReadPacket</last-substitute>
       <last-dir>1</last-dir>
@@ -638,7 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Unlock</entry>
         <entry>RLock</entry>
         <entry>Enqueue</entry>
         <entry encoding="base64">XDxSTG9ja1w+</entry>
@@ -658,6 +659,7 @@
         <entry encoding="base64">XDxjYW5jZWxcPg==</entry>
         <entry encoding="base64">XDxicmVha1w+</entry>
         <entry encoding="base64">XDxqb2JzXD4=</entry>
+        <entry encoding="base64">XDxXYWl0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/setArg2/setVal2/g</entry>
