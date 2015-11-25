@@ -23,12 +23,12 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448460187873">
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448461996719">
         <mark key="'" line="93" column="4" />
-        <mark key="[" line="150" column="19" />
-        <mark key="]" line="150" column="27" />
-        <mark key="." line="150" column="27" />
-        <mark key="^" line="150" column="27" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="26" />
+        <mark key="." line="180" column="0" />
+        <mark key="^" line="180" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -152,12 +152,12 @@
       <file name="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqttsrv/main.go" timestamp="1447782294633">
         <mark key="'" line="68" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" timestamp="1448459982528">
-        <mark key="'" line="32" column="26" />
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="36" />
-        <mark key="." line="38" column="36" />
-        <mark key="^" line="38" column="36" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" timestamp="1448461918637">
+        <mark key="'" line="144" column="15" />
+        <mark key="[" line="205" column="11" />
+        <mark key="]" line="205" column="11" />
+        <mark key="^" line="205" column="11" />
+        <mark key="." line="205" column="11" />
       </file>
       <file name="$USER_HOME$/Project/02_java_libs/mapdb/src/main/java/org/mapdb/BTreeMap.java" timestamp="1443417471584">
         <mark key="'" line="3806" column="24" />
@@ -452,9 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
-      <jump line="305" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
-      <jump line="312" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="324" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="196" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="221" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
@@ -526,7 +523,6 @@
       <jump line="73" column="13" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="84" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="71" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
-      <jump line="204" column="30" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="37" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="94" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="186" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
@@ -552,6 +548,10 @@
       <jump line="36" column="20" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs_test.go" />
       <jump line="32" column="20" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs_test.go" />
       <jump line="92" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="47" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
+      <jump line="157" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
+      <jump line="204" column="22" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
+      <jump line="144" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3320,56 +3320,56 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>JobQueue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXdnIDo9IHN5bmMuV2FpdEdyb3Vwe30K</text>
       </register>
       <register name="-" type="4">
-        <text>JobQueue</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>Cancel</text>
+        <text>Wait</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2dvbXF0dC9tZXNzYWdlIgo=</text>
+        <text encoding="base64">CXdnIDo9IHN5bmMuV2FpdEdyb3Vwe30K</text>
       </register>
-      <register name="1" type="4">
-        <text>JobQueue</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>e</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>u</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text>u</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>Q</text>
+        <text>y</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gV2hlbiByZXR1cm5pbmcgdHJ1ZSwgYEVucXVldWVgIGd1YXJhbnRlZXMgdGhlIGBKb2JgIGlzIGVucXVldWVkLgovLyBCdXQgaXQgZG9lc24ndCBndWFyYW50ZWUgdGhlIGV4ZWN1dGlvbi4gU2VtYW50aWNhbGx5IGl0J3MgYXQtbGVhc3Qtb25jZSwgbm90Ci8vIGV4YWN0bHktb25jZS4KZnVuYyAoam9icyAqSm9iUXVldWUpIEVucXVldWUoaiBKb2IpIGJvb2wgewoJZGVmZXIgam9icy5zdF9sb2NrLlVubG9jaygpCglqb2JzLnN0X2xvY2suUkxvY2soKQoKCWlmIGpvYnMuc3RhdGUgPD0gUnVubmluZyB7CgkJam9icy5xdWV1ZSA8LSBqCgkJcmV0dXJuIHRydWUKCX0KCXJldHVybiBmYWxzZQp9CgovLyBgU3RhdGVgIGlzbid0IHZlcnkgdXNlZnVsIHNpbmNlIHN0YXRlIG1pZ2h0IGNoYW5nZSByaWdodCBhZnRlciB0aGlzIGNhbGwuCmZ1bmMgKGpvYnMgKkpvYlF1ZXVlKSBTdGF0ZSgpIEpvYnNTdGF0ZSB7CglkZWZlciBqb2JzLnN0X2xvY2suVW5sb2NrKCkKCWpvYnMuc3RfbG9jay5STG9jaygpCgoJcmV0dXJuIGpvYnMuc3RhdGUKfQoKZnVuYyAoam9icyAqSm9iUXVldWUpIENhbmNlbCgpIHsKCWRlZmVyIGpvYnMuc3RfbG9jay5VbmxvY2soKQoJam9icy5zdF9sb2NrLkxvY2soKQoKCWlmIGpvYnMuc3RhdGUgPD0gUnVubmluZyB7CgkJLy8gbm9uLWJsb2NrZWQsIGBjYW5jZWxgIGlzIGJ1ZmZlcmVkLiBHdWFyZGluZyBzdGF0ZSBndWFyYW50ZWVzIGEKCQkvLyBidWZmZXIgb2Ygc2l6ZSAxIGlzIHN1ZmZpY2llbnQuCgkJam9icy5jYW5jZWwgPC0gc3RydWN0e30KCQlqb2JzLnN0YXRlID0gQ2FuY2VsbGluZwoJfQp9CgpmdW5jIChqb2JzICpKb2JRdWV1ZSkgVGVybWluYXRlKCkgewoJZGVmZXIgam9icy5zdF9sb2NrLlVubG9jaygpCglqb2JzLnN0X2xvY2suTG9jaygpCgoJaWYgam9icy5zdGF0ZSA8PSBSdW5uaW5nIHsKCQljbG9zZShqb2JzLnF1ZXVlKQoJCWpvYnMuc3RhdGUgPSBDYW5jZWxsaW5nCgl9Cn0KCg==</text>
+      <register name="7" type="4">
+        <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2NmY2hvdS9mcmluZ2Uvc295c2F1Y2Uvam9icyIK</text>
+      <register name="8" type="4">
+        <text>A</text>
       </register>
       <register name="9" type="4">
-        <text>message</text>
+        <text>WithWaitGroup</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Cancel</last-search>
+      <last-search>Wait</last-search>
       <last-offset />
-      <last-pattern>Cancel</last-pattern>
+      <last-pattern>Wait</last-pattern>
       <last-replace>Kill</last-replace>
       <last-substitute>Cancel</last-substitute>
       <last-dir>1</last-dir>
@@ -3381,7 +3381,6 @@
         <entry>assert</entry>
         <entry>Run(</entry>
         <entry>state</entry>
-        <entry>Wait</entry>
         <entry>run(</entry>
         <entry encoding="base64">XDxSdW5cPg==</entry>
         <entry encoding="base64">XDxydW5cPg==</entry>
@@ -3397,6 +3396,7 @@
         <entry>cancel</entry>
         <entry encoding="base64">XDxKb2JzXD4=</entry>
         <entry>Cancel</entry>
+        <entry>Wait</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/setArg2/setVal2/g</entry>
