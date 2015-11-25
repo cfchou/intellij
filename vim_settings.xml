@@ -23,12 +23,11 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448466469168">
-        <mark key="'" line="231" column="18" />
-        <mark key="[" line="196" column="50" />
-        <mark key="]" line="196" column="53" />
-        <mark key="." line="196" column="53" />
-        <mark key="^" line="196" column="53" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448467475574">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="47" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -451,14 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="0" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
-      <jump line="33" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
-      <jump line="43" column="7" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
-      <jump line="44" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
-      <jump line="87" column="7" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs_test.go" />
-      <jump line="211" column="8" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
-      <jump line="71" column="19" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs_test.go" />
-      <jump line="208" column="21" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="16" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="24" column="9" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="38" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
@@ -526,7 +517,6 @@
       <jump line="206" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="146" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/jobs/jobs.go" />
       <jump line="178" column="29" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
-      <jump line="202" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="292" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="185" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="242" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
@@ -551,6 +541,15 @@
       <jump line="74" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="73" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
       <jump line="224" column="18" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="145" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="148" column="8" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="168" column="12" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="201" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="202" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="203" column="10" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="141" column="15" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="139" column="5" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
+      <jump line="27" column="4" filename="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3319,26 +3318,26 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Wait</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiaGFuZGxlQ29ubiBjbGVhbnVwIGNsb3NlIikK</text>
       </register>
       <register name="-" type="4">
-        <text>Wait</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWFkTXNnXD4=</text>
+        <text encoding="base64">XDxydW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oImhhbmRsZUNvbm4gY2xlYW51cCBxdWV1ZSBXYWl0IikK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiaGFuZGxlQ29ubiBjbGVhbnVwIFdhaXQuLi4iKQoJCXdnLldhaXQoKQoJCWZtdC5QcmludGxuKCJoYW5kbGVDb25uIGNsZWFudXAgLi4uIikKCQlpZiBxICE9IG5pbCB7CgkJCWZtdC5QcmludGxuKCJoYW5kbGVDb25uIGNsZWFudXAgcXVldWUgVGVybWluYXRlIikKCQkJcS5UZXJtaW5hdGUoKQoJCQlmbXQuUHJpbnRsbigiaGFuZGxlQ29ubiBjbGVhbnVwIHF1ZXVlIFdhaXQiKQoJCQlxLldhaXQoKQoJCQlmbXQuUHJpbnRsbigiaGFuZGxlQ29ubiBjbGVhbnVwIHF1ZXVlIERvbmUiKQoJCX0KCQljb25uLkNsb3NlKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>Wait</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiaGFuZGxlQ29ubiBjbGVhbnVwIGNsb3NlIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>Terminate</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
         <text>.</text>
@@ -3347,28 +3346,28 @@
         <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>...&quot;)</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y2xlYW51cCA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Wait</text>
+      <register name="7" type="2">
+        <text encoding="base64">LyoK</text>
       </register>
-      <register name="8" type="4">
-        <text>return</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnVuYyBoYW5kbGVDb25uMihjb25uIG5ldC5Db25uKSB7CgoJd2cgOj0gc3luYy5XYWl0R3JvdXB7fQoJd2cuQWRkKDEpCglkZWZlciB3Zy5Eb25lKCkKCgoJZ28gZnVuYygpIHsKCQl3Zy5XYWl0KCkKCQljb25uLkNsb3NlKCkKCX0oKQoJLy8gTk9URQoJLy8gYHJlYWRgIGlzIGFsd2F5cyBkb25lIHNlcXVlbnRpYWxseS4gSXQgZmV0Y2hlcyBhIGNvbnRyb2wgcGFja2V0IGFuZAoJLy8gbGF1bmNoZXMgam9icyBsaWtlIHBlcnNpc3RlbmNlLCBzZW5kaW5nIGFjaywgZXRjLi4gSXQncyBpbXBvcnRhbnQgdGhhdAoJLy8gdGhlIGpvYnMgZm9yIHRoaXMgcGFja2V0IGFsd2F5cyBnZXQgdG8gcHVzaCB0byBjaGFubmVscyBiZWZvcmUgdGhvc2UgZm9yCgkvLyB0aGUgbmV4dCBwYWNrZXQuCgoJLy9kZWZlciBjb25uLkNsb3NlKCkKCWRlZmVyIGxvZy5GbHVzaCgpCgoJbG9nLkRlYnVnKCJoYW5kbGVDb25uOiBmcm9tICIgKyBjb25uLlJlbW90ZUFkZHIoKS5TdHJpbmcoKSkKCXJlYWRlciA6PSBidWZpby5OZXdSZWFkZXIoY29ubikKCS8vIFRPRE8gdGhyb3R0bGUKCWpvYnMgOj0gbWFrZShjaGFuIEpvYiwgcGlwZWxpbmVXaW5kb3dTaXplKQoJY2MgOj0gJkNvbm5Db250ZXh0e2J1ZmlvLk5ld1dyaXRlcihjb25uKSwgd2csIGpvYnN9CglnbyBkb0pvYnMoam9icykKCglmb3IgewoJCS8vY29ubi5TZXRSZWFkRGVhZGxpbmUoKQoJCW1zZywgZSA6PSBSZWFkTXNnKHJlYWRlcikKCQlpZiBlICE9IG5pbCB7CgkJCWxvZy5EZWJ1ZygiaGFuZGxlQ29ubiBmYWlsZWQ6ICIgKyBlLkVycm9yKCkpCgkJCXJldHVybgoJCX0KCQlsb2cuRGVidWcobXNnLlN0cmluZygpKQoKCQlzd2l0Y2ggbXNnVmFsIDo9IG1zZy4odHlwZSkgewoJCWNhc2UgKm1lc3NhZ2UuQ29ubmVjdE1lc3NhZ2U6CgkJCU1xdHRDb25uZWN0KGNjLCBtc2dWYWwpCgkJY2FzZSAqbWVzc2FnZS5QaW5ncmVxTWVzc2FnZToKCQljYXNlICptZXNzYWdlLlN1YnNjcmliZU1lc3NhZ2U6CgkJZGVmYXVsdDoKCQkJbG9nLkVycm9yKCJoYW5kbGVDb25uIGZhaWxlZDogdW5oYW5kbGVkIG10PSIrbXNnLlR5cGUoKS5TdHJpbmcoKSkKCQl9CgoJfQp9CiovCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>:</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWFkTXNnXD4=</last-search>
+      <last-search encoding="base64">XDxydW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWFkTXNnXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxydW5cPg==</last-pattern>
       <last-replace>Kill</last-replace>
       <last-substitute>Cancel</last-substitute>
       <last-dir>1</last-dir>
@@ -3376,9 +3375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NotStart</entry>
-        <entry>NonS</entry>
-        <entry encoding="base64">XDxOb25TdGFydFw+</entry>
         <entry>Run</entry>
         <entry encoding="base64">XDxzdHJjb252XD4=</entry>
         <entry encoding="base64">XDxqb2JcPg==</entry>
@@ -3396,6 +3392,9 @@
         <entry encoding="base64">XDxtcXR0V3JpdGVyXD4=</entry>
         <entry>ReadMsg</entry>
         <entry encoding="base64">XDxSZWFkTXNnXD4=</entry>
+        <entry encoding="base64">XDx3Z1w+</entry>
+        <entry encoding="base64">XDxoYW5kbGVDb25uXD4=</entry>
+        <entry encoding="base64">XDxydW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/setArg2/setVal2/g</entry>
