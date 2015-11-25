@@ -87,13 +87,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" timestamp="1446123381863">
         <mark key="'" line="491" column="107" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" timestamp="1448337925686">
-        <mark key="'" line="201" column="0" />
-        <mark key="[" line="171" column="28" />
-        <mark key="]" line="171" column="28" />
-        <mark key="." line="171" column="28" />
-        <mark key="^" line="171" column="28" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/package.scala" timestamp="1439126881989">
         <mark key="'" line="55" column="48" />
       </file>
@@ -130,13 +123,6 @@
         <mark key="]" line="193" column="27" />
         <mark key="." line="193" column="27" />
         <mark key="^" line="193" column="27" />
-      </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs_test.go" timestamp="1448338235975">
-        <mark key="'" line="70" column="9" />
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="71" column="5" />
-        <mark key="." line="71" column="5" />
-        <mark key="^" line="71" column="5" />
       </file>
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/dial.go" timestamp="1447479177881">
         <mark key="'" line="386" column="12" />
