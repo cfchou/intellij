@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/connect_test.go" timestamp="1448248108984">
+        <mark key="'" line="19" column="33" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="41" />
+      </file>
       <file name="$USER_HOME$/Project/gopath/src/github.com/syndtr/goleveldb/leveldb/external_test.go" timestamp="1443424646729">
         <mark key="'" line="9" column="23" />
       </file>
@@ -27,11 +32,15 @@
         <mark key="'" line="227" column="16" />
         <mark key="[" line="190" column="0" />
         <mark key="]" line="190" column="0" />
-        <mark key="^" line="297" column="54" />
         <mark key="." line="190" column="0" />
+        <mark key="^" line="297" column="54" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
+      </file>
+      <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/testing/Gen.scala" timestamp="1447174379294">
+        <mark key="'" line="39" column="34" />
+        <mark key="[" line="45" column="5" />
       </file>
       <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/message_type.go" timestamp="1447943951870">
         <mark key="'" line="163" column="24" />
@@ -78,6 +87,13 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" timestamp="1446123381863">
         <mark key="'" line="491" column="107" />
       </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs.go" timestamp="1448337925686">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="171" column="28" />
+        <mark key="]" line="171" column="28" />
+        <mark key="." line="171" column="28" />
+        <mark key="^" line="171" column="28" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/package.scala" timestamp="1439126881989">
         <mark key="'" line="55" column="48" />
       </file>
@@ -115,8 +131,21 @@
         <mark key="." line="193" column="27" />
         <mark key="^" line="193" column="27" />
       </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/jobs/jobs_test.go" timestamp="1448338235975">
+        <mark key="'" line="70" column="9" />
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="5" />
+        <mark key="." line="71" column="5" />
+        <mark key="^" line="71" column="5" />
+      </file>
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/net/dial.go" timestamp="1447479177881">
         <mark key="'" line="386" column="12" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/soysauce/soysauce/soysauce.go" timestamp="1448270723118">
+        <mark key="'" line="304" column="22" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/xmppy/src/main/java/BarApp.java" timestamp="1432870420472">
         <mark key="'" line="76" column="0" />
@@ -197,6 +226,9 @@
       <file name="$USER_HOME$/Project/02_playground/gazer/twothreeMain.go" timestamp="1442298975903">
         <mark key="'" line="11" column="10" />
       </file>
+      <file name="/usr/local/Cellar/go/1.5.1/libexec/src/sync/mutex.go" timestamp="1448252478065">
+        <mark key="'" line="26" column="12" />
+      </file>
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/io/ioutil/ioutil.go" timestamp="1447682852335">
         <mark key="'" line="32" column="23" />
       </file>
@@ -261,11 +293,17 @@
       <file name="/usr/local/Cellar/go/1.5.1/libexec/src/encoding/binary/varint.go" timestamp="1447578444460">
         <mark key="'" line="59" column="13" />
       </file>
+      <file name="$USER_HOME$/Project/tellus/src/tellus/backoffice/terra/terra_gaia.go" timestamp="1448253197354">
+        <mark key="'" line="71" column="8" />
+      </file>
       <file name="$USER_HOME$/Project/gopath/src/github.com/huin/mqtt/mqtt.go" timestamp="1447782589976">
         <mark key="'" line="168" column="20" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/package.scala" timestamp="1447165305206">
         <mark key="'" line="55" column="45" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect_test.go" timestamp="1447903801750">
+        <mark key="'" line="41" column="22" />
       </file>
       <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/detect.go" timestamp="1447691211831">
         <mark key="'" line="33" column="22" />
@@ -306,6 +344,11 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/immutable/RedBlackTree.scala" timestamp="1442370396636">
         <mark key="'" line="144" column="6" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/gomqtt/message/message.go" timestamp="1447909681130">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="24" />
       </file>
       <file name="$USER_HOME$/Project/02_scala_libs/kafka/config/server.properties" timestamp="1429870663034">
         <mark key="'" line="83" column="1" />
@@ -385,6 +428,13 @@
         <mark key="]" line="215" column="0" />
         <mark key="^" line="214" column="32" />
         <mark key="." line="215" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/wasabi/wasabi.go" timestamp="1447928442074">
+        <mark key="'" line="155" column="69" />
+        <mark key="[" line="135" column="47" />
+        <mark key="]" line="135" column="58" />
+        <mark key="." line="135" column="58" />
+        <mark key="^" line="135" column="58" />
       </file>
       <file name="$USER_HOME$/Project/02_go_libs/00_gods/src/github.com/emirpasic/gods/trees/twothree/twothree.go" timestamp="1442205660815">
         <mark key="'" line="14" column="17" />
@@ -3376,29 +3426,28 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxKb2JRdWV1ZVw+</entry>
-        <entry encoding="base64">XDxDYW5jZWxKb2JcPg==</entry>
-        <entry encoding="base64">XDxzdGF0ZVw+</entry>
-        <entry>state ==</entry>
-        <entry>state =</entry>
-        <entry>assert</entry>
-        <entry>Run(</entry>
+        <entry encoding="base64">XDxSTG9ja1w+</entry>
+        <entry encoding="base64">XDxJc0RvbmVcPg==</entry>
+        <entry encoding="base64">XDxUZXJtaW5hdGVcPg==</entry>
+        <entry encoding="base64">XDxDYW5jZWxcPg==</entry>
+        <entry>IsDone</entry>
+        <entry>State</entry>
+        <entry>State(</entry>
         <entry>state</entry>
-        <entry>Wait</entry>
-        <entry>run(</entry>
-        <entry encoding="base64">XDxSdW5cPg==</entry>
-        <entry encoding="base64">XDxydW5cPg==</entry>
-        <entry>NotStart</entry>
-        <entry>NonS</entry>
-        <entry encoding="base64">XDxOb25TdGFydFw+</entry>
+        <entry>Cancel(</entry>
+        <entry>Enqu</entry>
+        <entry>Run(</entry>
+        <entry encoding="base64">XDxSdW5uaW5nXD4=</entry>
+        <entry>once</entry>
         <entry>Run</entry>
-        <entry encoding="base64">XDxzdHJjb252XD4=</entry>
-        <entry encoding="base64">XDxqb2JcPg==</entry>
-        <entry>isCan</entry>
         <entry encoding="base64">XDxjYW5jZWxcPg==</entry>
+        <entry encoding="base64">XDxicmVha1w+</entry>
+        <entry encoding="base64">XDxqb2JzXD4=</entry>
+        <entry encoding="base64">XDxXYWl0XD4=</entry>
+        <entry encoding="base64">XDxub29wXD4=</entry>
+        <entry>close</entry>
       </history-search>
       <history-cmd>
-        <entry>1,$s/setArg1/setVal1/g</entry>
         <entry>1,$s/setArg2/setVal2/g</entry>
         <entry>1,$s/getArg2/getVal2/g</entry>
         <entry encoding="base64">MSwkcy9cPHRvRmllbGRcPi9hc0ZpZWxkL2c=</entry>
@@ -3410,13 +3459,14 @@
         <entry>1,$s/asString/asAlias/g</entry>
         <entry>1,$s/asAlias/createAlias/g</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
-        <entry>qw</entry>
         <entry>100</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>1,$s/promptHeader/peekHeader/g</entry>
-        <entry encoding="base64">JzwsJz5zL2Nvbm5BY2svYWNrL2c=</entry>
         <entry>q</entry>
-        <entry>1,$s/SequentialJobs/JobQueue/g</entry>
+        <entry>1,$s/promptHeader/peekHeader/g</entry>
+        <entry>1,$s/testRead3/ReadPacket/g</entry>
+        <entry encoding="base64">JzwsJz5zL1JlYWRQYWNrZXQvUmVhZE1zZy9n</entry>
+        <entry>151</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
