@@ -28,12 +28,11 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448375761434">
-        <mark key="'" line="227" column="16" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-        <mark key="^" line="297" column="54" />
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/soysauce/soysauce.go" timestamp="1448515706244">
+        <mark key="'" line="232" column="16" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/b3cf65e92414af4ce51ad3507147cc9f31fd708c/scala-library-2.11.7-sources.jar!/scala/collection/generic/SortedMapFactory.scala" timestamp="1442370015534">
         <mark key="'" line="30" column="8" />
@@ -207,6 +206,12 @@
         <mark key="]" line="57" column="4" />
         <mark key="^" line="93" column="13" />
         <mark key="." line="93" column="13" />
+      </file>
+      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/jobs/jobs.go" timestamp="1448516762195">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/gazer/twothreeMain.go" timestamp="1442298975903">
         <mark key="'" line="11" column="10" />
@@ -457,11 +462,6 @@
       </file>
       <file name="$USER_HOME$/Project/gopath/src/github.com/jeffallen/mqtt/mqtt.go" timestamp="1447782840355">
         <mark key="'" line="425" column="9" />
-      </file>
-      <file name="$USER_HOME$/Project/gopath/src/github.com/cfchou/fringe/xoo/xoo.go" timestamp="1447776320476">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="195" column="1" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Project/02_playground/fpinscala/exercises/src/main/scala/fpinscala/datastructures/Tree.scala" timestamp="1445008277339">
         <mark key="'" line="4" column="11" />
@@ -3355,46 +3355,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBgc3RhdGVgIHdpbGwgYmUgaW5pdGlhbGl6ZWQgaW4gYHJ1bmAK</text>
+        <text encoding="base64">CQlzYWZlUnVuKGpvYikK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuYyBUZXN0UnVuSm9iczModCAqdGVzdGluZy5UKSB7CglxIDo9IG5ld0pvYlF1ZXVlKHQsIDEwKQoJZm9yIGkgOj0gMDsgaSA8IDIwOyBpKysgewoJCWZtdC5QcmludGYoIj4gRW5xdWV1ZSAldFxuIiwgcS5FbnF1ZXVlKCZub29we3N0cmNvbnYuSXRvYShpKX0pKQoJfQoKCWZtdC5QcmludGxuKCI+IFRlcm1pbmF0ZSIpCglxLlRlcm1pbmF0ZSgpCglxLldhaXQoKQoJYXNzZXJ0LkVxdWFsKHQsIERvbmUsIHEuZ2V0U3RhdGUoKSkKfQo=</text>
+        <text encoding="base64">ZnVuYyBTY2hlZHVsZU9uY2Uoam9iIEpvYiwgZGVsYXkgdGltZS5EdXJhdGlvbikgewoJZ28gZnVuYygpIHsKCQlzZWxlY3QgewoJCWNhc2UgPC0gdGltZS5BZnRlcihkZWxheSk6CgkJCWpvYi5SdW4oKQoJCX0KCX0oKQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBgc3RhdGVgIHdpbGwgYmUgaW5pdGlhbGl6ZWQgaW4gYHJ1bmAK</text>
+        <text encoding="base64">CQlzYWZlUnVuKGpvYikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
-      </register>
-      <register name="4" type="4">
         <text>)</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>(</text>
       </register>
+      <register name="5" type="4">
+        <text>.</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">UnVubmluZyA=</text>
+        <text>Run</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">UnVubmluZyA=</text>
+        <text encoding="base64">CQ==</text>
       </register>
-      <register name="9" type="4">
-        <text>=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
