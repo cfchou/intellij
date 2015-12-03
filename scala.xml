@@ -1,7 +1,0 @@
-<application>
-  <component name="ScalaSettings">
-    <option name="COMPILE_SERVER_ID" value="cc351030-1dc4-4a9e-b847-92197ad48e74" />
-    <option name="COMPILE_SERVER_SDK" value="1.8" />
-    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss1m -XX:MaxPermSize=512m" />
-  </component>
-</application>
