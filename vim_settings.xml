@@ -2,14 +2,25 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
+    <filemarks>
+      <file name="$USER_HOME$/Project/mosca/bin/mosca" timestamp="1449121159908">
+        <mark key="'" line="18" column="26" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="18" column="26" filename="$USER_HOME$/Project/mosca/bin/mosca" />
+      <jump line="58" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

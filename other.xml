@@ -1,0 +1,7 @@
+<application>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="5.1.0" last-modified="1447998803000" />
+    <node-interpreter path="$USER_HOME$/Project/node-v0.12.8-darwin-x64/bin/node" version="0.12.8" last-modified="1448407864000" />
+    <node-interpreter path="/usr/local/Cellar/node/5.1.0/bin/node" version="5.1.0" last-modified="1447998803000" />
+  </component>
+</application>
